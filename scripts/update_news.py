@@ -83,6 +83,10 @@ def clean_text(value: Any) -> str:
     return re.sub(r"\s+", " ", html.unescape(str(value))).strip()
 
 
+def has_cjk(value: str) -> bool:
+    return bool(re.search(r"[\u4e00-\u9fff]", value))
+
+
 def iso_local(dt: datetime) -> str:
     return dt.astimezone(TZ).strftime("%Y-%m-%d %H:%M:%S")
 
@@ -144,29 +148,34 @@ def fetch_xiaohu(now: datetime) -> list[RawItem]:
         headline_match = re.search(r'<div class="latest-headline">([\s\S]*?)</div>', block)
         summary_match = re.search(r'<div class="latest-summary">([\s\S]*?)</div>', block)
         if headline_match:
-            out.append(
-                RawItem(
-                    source_id="xiaohu",
-                    source="小互 AI 日报",
-                    type="daily",
-                    title=strip_tags(headline_match.group(1)),
-                    summary=strip_tags(summary_match.group(1)) if summary_match else "小互 AI 日报最新一期头条。",
-                    url=latest_link,
-                    published_at=latest_date or now.replace(hour=10, minute=0, second=0, microsecond=0),
-                    tags=["日报", "头条"],
+            title = strip_tags(headline_match.group(1))
+            if has_cjk(title):
+                out.append(
+                    RawItem(
+                        source_id="xiaohu",
+                        source="小互 AI 日报",
+                        type="daily",
+                        title=title,
+                        summary=strip_tags(summary_match.group(1)) if summary_match else "小互 AI 日报最新一期头条。",
+                        url=latest_link,
+                        published_at=latest_date or now.replace(hour=10, minute=0, second=0, microsecond=0),
+                        tags=["日报", "头条"],
+                    )
                 )
-            )
-        for point in re.findall(r'<li class="latest-point">([\s\S]*?)</li>', block):
+    for point in re.findall(r'<li class="latest-point">([\s\S]*?)</li>', block):
             title_match = re.search(r'<span class="latest-point-title">([\s\S]*?)</span>', point)
             score_match = re.search(r'<span class="latest-point-score[^"]*">(\d+)</span>', point)
             if title_match:
+                title = strip_tags(title_match.group(1))
+                if not has_cjk(title):
+                    continue
                 score = int(score_match.group(1)) if score_match else 8
                 out.append(
                     RawItem(
                         source_id="xiaohu",
                         source="小互 AI 日报",
                         type="daily",
-                        title=strip_tags(title_match.group(1)),
+                        title=title,
                         summary="小互 AI 日报本期高分条目。",
                         url=latest_link,
                         published_at=latest_date or now.replace(hour=10, minute=0, second=0, microsecond=0),
@@ -174,6 +183,7 @@ def fetch_xiaohu(now: datetime) -> list[RawItem]:
                     )
                 )
 
+    archive_issue_links: list[tuple[str, datetime]] = []
     for card in re.findall(r'<a class="archive-card" href="([^"]+)">([\s\S]*?)</a>', page):
         href, block = card
         title_match = re.search(r'<div class="archive-headline">([\s\S]*?)</div>', block)
@@ -181,8 +191,9 @@ def fetch_xiaohu(now: datetime) -> list[RawItem]:
         if not title_match or not date_match:
             continue
         dt = datetime.fromisoformat(date_match.group(1)).replace(hour=10, tzinfo=TZ)
+        archive_issue_links.append((urljoin("https://daily.xiaohu.ai/", href), dt))
         title = strip_tags(title_match.group(1))
-        if any(item.title == title for item in out):
+        if not has_cjk(title) or any(item.title == title for item in out):
             continue
         out.append(
             RawItem(
@@ -196,10 +207,18 @@ def fetch_xiaohu(now: datetime) -> list[RawItem]:
                 tags=["日报", "归档"],
             )
         )
+    existing_titles = {item.title for item in out}
+    issue_links: list[tuple[str, datetime]] = []
     if latest_date and latest_link:
+        issue_links.append((latest_link, latest_date))
+    issue_links.extend(archive_issue_links)
+    seen_issues: set[str] = set()
+    for issue_url, issue_date in issue_links[:7]:
+        if issue_url in seen_issues:
+            continue
+        seen_issues.add(issue_url)
         try:
-            existing_titles = {item.title for item in out}
-            for item in parse_xiaohu_issue(latest_link, latest_date):
+            for item in parse_xiaohu_issue(issue_url, issue_date):
                 if item.title not in existing_titles:
                     out.append(item)
                     existing_titles.add(item.title)
@@ -210,7 +229,7 @@ def fetch_xiaohu(now: datetime) -> list[RawItem]:
     return out
 
 
-def parse_xiaohu_issue(issue_url: str, published: datetime, limit: int = 36) -> list[RawItem]:
+def parse_xiaohu_issue(issue_url: str, published: datetime, limit: int = 18) -> list[RawItem]:
     page = fetch_text(issue_url)
     out: list[RawItem] = []
     for card in re.findall(r'<div class="point-card">([\s\S]*?)</div>\s*</div>', page):
@@ -220,7 +239,7 @@ def parse_xiaohu_issue(issue_url: str, published: datetime, limit: int = 36) -> 
         if not link_match:
             continue
         title = strip_tags(link_match.group(2))
-        if not title:
+        if not title or not has_cjk(title):
             continue
         score = int(score_match.group(1)) if score_match else 8
         out.append(
@@ -242,8 +261,10 @@ def parse_xiaohu_issue(issue_url: str, published: datetime, limit: int = 36) -> 
         if not link_match:
             continue
         title = strip_tags(link_match.group(2))
+        if not has_cjk(title):
+            continue
         score = int(score_match.group(1)) if score_match else 0
-        if score < 5 and not any(k.lower() in title.lower() for k in AI_KEYWORDS):
+        if score < 4 and not any(k.lower() in title.lower() for k in AI_KEYWORDS):
             continue
         out.append(
             RawItem(

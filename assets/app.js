@@ -1,5 +1,5 @@
 const state = {
-  windowHours: 24,
+  windowHours: 72,
   freshOnly: true,
   aiOnly: true,
   search: "",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06 22:23:28",
+  "generated_at": "2026-05-07 00:22:32",
   "ok": true,
   "failed_sites": {},
   "source_counts": {
     "geekpark": 10,
-    "xiaohu": 64,
-    "waytoagi": 5
+    "xiaohu": 85,
+    "waytoagi": 4
   },
   "sources": [
     {
@@ -24,7 +24,7 @@
       "cadence": "公开页面",
       "status": "ok",
       "last_accessible": "2026-05-05",
-      "home_url": "https://daily.xiaohu.ai/2026-05-05/"
+      "home_url": "https://daily.xiaohu.ai/2026-05-02/"
     },
     {
       "id": "waytoagi",
