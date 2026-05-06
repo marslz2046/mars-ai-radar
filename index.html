@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mars AI Radar</title>
+    <link rel="stylesheet" href="assets/styles.css?v=source-counts">
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">M</div>
+        <div>
+          <h1>Mars AI Radar</h1>
+          <p id="last-updated">正在读取本地信号...</p>
+        </div>
+      </div>
+      <div class="top-actions" aria-label="视图切换">
+        <button class="icon-button active" type="button" data-window="24" title="最近 24 小时">24h</button>
+        <button class="icon-button" type="button" data-window="72" title="最近 72 小时">72h</button>
+        <button class="icon-button" type="button" data-window="168" title="最近 7 天">7d</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="side-panel" aria-label="信息源状态">
+        <section class="panel-section">
+          <div class="section-title">
+            <h2>源健康</h2>
+            <span id="source-count">0/0</span>
+          </div>
+          <div id="sources" class="source-list"></div>
+        </section>
+
+        <section class="panel-section">
+          <div class="section-title">
+            <h2>过滤规则</h2>
+          </div>
+          <label class="toggle-row">
+            <input id="fresh-only" type="checkbox" checked>
+            <span>隐藏过期内容</span>
+          </label>
+          <label class="toggle-row">
+            <input id="ai-only" type="checkbox" checked>
+            <span>只看 AI 强相关</span>
+          </label>
+          <div class="compact-note">
+            无发布时间、旧归档、课程页、需登录内容默认不进入今日视图。
+          </div>
+        </section>
+
+        <section class="panel-section">
+          <div class="section-title">
+            <h2>信号分</h2>
+          </div>
+          <div class="score-guide">
+            <p>信号分用于给所有内容统一排序，表示一条内容在当前日报里的阅读优先级，不代表事实正确性，也不是对来源立场的背书。</p>
+            <dl>
+              <div>
+                <dt>时效性</dt>
+                <dd>35%</dd>
+              </div>
+              <div>
+                <dt>AI 相关度</dt>
+                <dd>30%</dd>
+              </div>
+              <div>
+                <dt>来源质量</dt>
+                <dd>20%</dd>
+              </div>
+              <div>
+                <dt>新颖度</dt>
+                <dd>15%</dd>
+              </div>
+            </dl>
+            <p>90+ 优先看，75-89 可浏览，低于 75 默认降权或进入次要视图。</p>
+          </div>
+        </section>
+      </aside>
+
+      <section class="content">
+        <div class="toolbar" aria-label="内容筛选">
+          <div class="search-box">
+            <span aria-hidden="true">⌕</span>
+            <input id="search" type="search" placeholder="搜索标题、来源或标签">
+          </div>
+          <select id="source-filter" aria-label="按来源筛选">
+            <option value="all">全部来源</option>
+          </select>
+          <select id="type-filter" aria-label="按类型筛选">
+            <option value="all">全部类型</option>
+            <option value="media">媒体</option>
+            <option value="daily">日报</option>
+            <option value="builder">实践者</option>
+            <option value="github">GitHub</option>
+          </select>
+        </div>
+
+        <section class="summary-grid" aria-label="今日概览">
+          <div class="metric">
+            <span class="metric-label">今日信号</span>
+            <strong id="metric-signals">0</strong>
+          </div>
+          <div class="metric">
+            <span class="metric-label">高优先级</span>
+            <strong id="metric-priority">0</strong>
+          </div>
+          <div class="metric">
+            <span class="metric-label">已过滤旧闻</span>
+            <strong id="metric-stale">0</strong>
+          </div>
+        </section>
+
+        <section class="feed" aria-label="AI 日报信号">
+          <div class="feed-head">
+            <h2>Signal View</h2>
+            <span id="result-count">0 条</span>
+          </div>
+          <div id="items" class="item-list"></div>
+        </section>
+      </section>
+    </main>
+
+    <script src="assets/app.js?v=source-counts"></script>
+  </body>
+</html>

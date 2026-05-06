@@ -1,0 +1,6 @@
+.edge-profile/
+.edge-profile-2/
+preview*.png
+*.log
+__pycache__/
+*.pyc
