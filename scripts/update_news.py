@@ -285,6 +285,20 @@ def parse_xiaohu_issue(issue_url: str, published: datetime, limit: int = 18) -> 
 
 def waytoagi_candidates(now: datetime, days: int = 14) -> list[tuple[datetime, str, str]]:
     out: list[tuple[datetime, str, str]] = []
+    try:
+        page = fetch_text("https://www.waytoagi.com/zh/blog")
+        for match in re.finditer(r'href="(/blog/news-(\d{8}))"[\s\S]{0,900}?<div class="text-lg font-bold ">([\s\S]*?)</div>', page):
+            path, slug, title_html = match.groups()
+            title = strip_tags(title_html)
+            dt = datetime.strptime(slug, "%Y%m%d").replace(hour=10, tzinfo=TZ)
+            url = f"https://www.waytoagi.com/zh{path}"
+            if title and (dt, title, url) not in out:
+                out.append((dt, title, url))
+        if out:
+            return sorted(out, key=lambda item: item[0], reverse=True)[:days]
+    except Exception:
+        pass
+
     for offset in range(days):
         dt = (now - timedelta(days=offset)).astimezone(TZ)
         slug = dt.strftime("%Y%m%d")

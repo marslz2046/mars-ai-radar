@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07 00:22:32",
+  "generated_at": "2026-05-07 00:31:04",
   "ok": true,
   "failed_sites": {},
   "source_counts": {
     "geekpark": 10,
-    "xiaohu": 85,
-    "waytoagi": 4
+    "xiaohu": 94,
+    "waytoagi": 14
   },
   "sources": [
     {
@@ -23,7 +23,7 @@
       "mode": "日报页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-05-05",
+      "last_accessible": "2026-05-04",
       "home_url": "https://daily.xiaohu.ai/2026-05-02/"
     },
     {

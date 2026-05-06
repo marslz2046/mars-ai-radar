@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07 00:22:32",
-  "generated_rfc2822": "Thu, 07 May 2026 00:22:32 +0800",
+  "generated_at": "2026-05-07 00:31:04",
+  "generated_rfc2822": "Thu, 07 May 2026 00:31:04 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -17,7 +17,7 @@
       "mode": "日报页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-05-05",
+      "last_accessible": "2026-05-04",
       "home_url": "https://daily.xiaohu.ai/2026-05-02/"
     },
     {
@@ -120,244 +120,6 @@
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
-      "title": "确定性结构编译：小语言模型的结构化方法",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.17450",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 86,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Intern-Atlas：AI科学家的方法论演化图基础设施",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.28158",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 86,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "消散贡献：统一的平滑迭代模型压缩框架",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2510.09696",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 86,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "弥合实验研究鸿沟：数字化实验室知识用于AI安全辅助",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.16345",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 86,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "加速 AI：通过 GCSFS 和 Rapid Bucket 将 Google Colossus 引入 PyTorch",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://developers.googleblog.com/speeding-up-ai-bringing-google-colossus-to-pytorch-via-gcsfs-and-rapid-bucket/",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 2",
-        "长尾"
-      ],
-      "priority": 86,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "用 gcx CLI 工具为终端和 Agent 获取可观测性",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://grafana.com/blog/get-observability-in-the-terminal-for-you-and-your-agents-with-the-gcx-cli-tool/",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 2",
-        "长尾"
-      ],
-      "priority": 86,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "MedMNIST 数据集无误差训练方法",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.18916",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 78,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "解纠缠偏好优化动力学超越似然位移",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.18239",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 78,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "使用深度学习框架的环境音频深度伪造检测",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.19652",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 78,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "规范化变换器中的学习率迁移",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.27077",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 78,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "重复优于多样性：高质量数据过滤用于高效德语语言建模",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.28075",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 78,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Grafana助手如何智能学习你的基础设施",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://grafana.com/blog/how-grafana-assistant-learns-your-infrastructure-before-you-even-ask/",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 78,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "上下文性的程度、水平与概况分析",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2603.26692",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 4",
-        "长尾"
-      ],
-      "priority": 78,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "临床试验数据混合查询的规划方案SCOPE",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.25120",
-      "published_at": "2026-05-05 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 4",
-        "长尾"
-      ],
-      "priority": 78,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
       "title": "Ollama 0.21.3 版本发布，新增推理功能支持",
       "summary": "小互 AI 日报精选条目。",
       "url": "https://github.com/ollama/ollama/releases/tag/v0.21.3-rc0",
@@ -384,6 +146,57 @@
         "长尾"
       ],
       "priority": 80,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "加速 AI：通过 GCSFS 和 Rapid Bucket 将 Google Colossus 引入 PyTorch",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://developers.googleblog.com/speeding-up-ai-bringing-google-colossus-to-pytorch-via-gcsfs-and-rapid-bucket/",
+      "published_at": "2026-05-04 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 2",
+        "长尾"
+      ],
+      "priority": 80,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "用 gcx CLI 工具为终端和 Agent 获取可观测性",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://grafana.com/blog/get-observability-in-the-terminal-for-you-and-your-agents-with-the-gcx-cli-tool/",
+      "published_at": "2026-05-04 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 2",
+        "长尾"
+      ],
+      "priority": 80,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Grafana助手如何智能学习你的基础设施",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://grafana.com/blog/how-grafana-assistant-learns-your-infrastructure-before-you-even-ask/",
+      "published_at": "2026-05-04 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -529,6 +342,23 @@
       "title": "AI时代课堂互动研究的方法论地图",
       "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
       "url": "https://arxiv.org/abs/2604.28098",
+      "published_at": "2026-05-03 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 74,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Intern-Atlas：AI科学家的方法论演化图基础设施",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.28158",
       "published_at": "2026-05-03 10:00:00",
       "tags": [
         "日报",
@@ -857,6 +687,23 @@
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
+      "title": "规范化变换器中的学习率迁移",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.27077",
+      "published_at": "2026-05-02 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 60,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
       "title": "Hypencoder 重访：首阶段检索中非线性评分的可重现性与分析",
       "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
       "url": "https://arxiv.org/abs/2604.27037",
@@ -908,6 +755,153 @@
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
+      "title": "AI提前3年发现胰腺癌：准确率73%",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://www.mayo.edu/research/",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 62,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "英国AI安全研究所评估：GPT-5.5与Claude Mythos安全能力相当",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 62,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Anthropic 融资启动：潜在估值突破 900 亿美元",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 62,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "AdaFRUGAL：自适应动态控制的高效LLM训练框架",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://arxiv.org/abs/2601.11568",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 62,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Google CEO Pichai：AI Overview用户满意度高，2026年前投资190亿美元AI基础设施",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://the-decoder.com/google-ceo-says-pichai-says-people-love-ai-overviews-and-keep-coming-back-to-search-more/",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 62,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "FDA推进临床试验AI监控：用云计算加速新药审批流程",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://the-decoder.com/fda-bets-on-ai-and-cloud-monitoring-for-clinical-trials-as-it-looks-to-rebuild-after-doge-layoffs/",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 62,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "LLM推理的KV缓存信息论优化",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.25975",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 62,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "通用LLM在电费单据信息提取中的应用评估",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.25927",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 62,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "自动关系推理",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.26507",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 62,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
       "title": "软银成立千亿美元机器人公司",
       "summary": "小互 AI 日报历史归档条目。",
       "url": "https://daily.xiaohu.ai/2026-05-01/",
@@ -917,6 +911,159 @@
         "归档"
       ],
       "priority": 60,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "历史上最大规模的资本错配？",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://garymarcus.substack.com/p/the-greatest-capital-misallocation",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 54,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "5 月 16 款游戏上云，NVIDIA RTX 5080 助力",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 54,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "告警疲劳是业务风险",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://www.databricks.com/blog/alert-fatigue-business-risk",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 54,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "深入了解 Lakebase",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://www.databricks.com/blog/backstage-lakebase",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 54,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "会\"说话\"的故障涡轮",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://www.databricks.com/blog/turbine-tried-tell-you-it-was-failing",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 54,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "临床试验为何拖得太久，患者为此买单",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://www.databricks.com/blog/clinical-trials-run-longer-they-have-thats-patient-problem",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 54,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "网络质量是收益问题，不只是技术问题",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://www.databricks.com/blog/network-quality-revenue-problem-not-technical-one",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 54,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "版本 0.128.0 发布",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.128.0",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 54,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Distill-Belief：物理场闭环反源定位与表征",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.26095",
+      "published_at": "2026-05-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1460,6 +1607,21 @@
       "backfill": false
     },
     {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年4月23日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260423",
+      "published_at": "2026-04-23 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 50,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -1472,6 +1634,21 @@
         "归档"
       ],
       "priority": 58,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年4月22日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260422",
+      "published_at": "2026-04-22 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1492,6 +1669,21 @@
       "backfill": false
     },
     {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年4月21日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260421",
+      "published_at": "2026-04-21 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 50,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -1508,6 +1700,21 @@
       "backfill": false
     },
     {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年4月20日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260420",
+      "published_at": "2026-04-20 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 50,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -1518,6 +1725,21 @@
       "tags": [
         "日报",
         "归档"
+      ],
+      "priority": 50,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年4月19日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260419",
+      "published_at": "2026-04-19 10:00:00",
+      "tags": [
+        "知识库精选"
       ],
       "priority": 50,
       "ai_relevance": "strong",
@@ -1540,6 +1762,21 @@
       "backfill": false
     },
     {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年4月18日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260418",
+      "published_at": "2026-04-18 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 50,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -1552,6 +1789,21 @@
         "归档"
       ],
       "priority": 58,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年4月17日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260417",
+      "published_at": "2026-04-17 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1572,6 +1824,21 @@
       "backfill": false
     },
     {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年4月16日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260416",
+      "published_at": "2026-04-16 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 50,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -1588,6 +1855,21 @@
       "backfill": false
     },
     {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年4月15日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260415",
+      "published_at": "2026-04-15 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 50,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -1600,6 +1882,21 @@
         "归档"
       ],
       "priority": 58,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年4月14日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260414",
+      "published_at": "2026-04-14 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
