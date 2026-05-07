@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07 00:31:04",
-  "generated_rfc2822": "Thu, 07 May 2026 00:31:04 +0800",
+  "generated_at": "2026-05-07 13:40:24",
+  "generated_rfc2822": "Thu, 07 May 2026 13:40:24 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-05-06",
-      "home_url": "https://www.geekpark.net/news/363720"
+      "last_accessible": "2026-05-07",
+      "home_url": "https://www.geekpark.net/news/363777"
     },
     {
       "id": "xiaohu",
@@ -17,7 +17,7 @@
       "mode": "日报页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-05-04",
+      "last_accessible": "2026-05-05",
       "home_url": "https://daily.xiaohu.ai/2026-05-02/"
     },
     {
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "平头哥发布首款智能网卡「磐脉 920」，补齐 AI 算力最后一块短板",
+      "summary": "GPU 买了那么多，跑起来却像「堵车」？",
+      "url": "https://www.geekpark.net/news/363777",
+      "published_at": "2026-05-07 09:00:20",
+      "tags": [
+        "平头哥",
+        "芯片",
+        "OpenAI"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "实测纳逗 Pro：能做专业影视级内容的智能平台长啥样",
       "summary": "专业影视级 AI 内容创作，不只是改善抽卡效率。",
       "url": "https://www.geekpark.net/news/363720",
@@ -62,7 +79,7 @@
         "纳逗 Pro",
         "AI"
       ],
-      "priority": 84,
+      "priority": 81,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +95,7 @@
         "Anthropic",
         "AI"
       ],
-      "priority": 92,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +112,7 @@
         "Recursive Superintelligence",
         "Google"
       ],
-      "priority": 92,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -112,7 +129,245 @@
         "AI",
         "中文"
       ],
-      "priority": 92,
+      "priority": 89,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "确定性结构编译：小语言模型的结构化方法",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.17450",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 83,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Intern-Atlas：AI科学家的方法论演化图基础设施",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.28158",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 83,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "消散贡献：统一的平滑迭代模型压缩框架",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2510.09696",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 83,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "弥合实验研究鸿沟：数字化实验室知识用于AI安全辅助",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.16345",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 83,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "加速 AI：通过 GCSFS 和 Rapid Bucket 将 Google Colossus 引入 PyTorch",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://developers.googleblog.com/speeding-up-ai-bringing-google-colossus-to-pytorch-via-gcsfs-and-rapid-bucket/",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 2",
+        "长尾"
+      ],
+      "priority": 83,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "用 gcx CLI 工具为终端和 Agent 获取可观测性",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://grafana.com/blog/get-observability-in-the-terminal-for-you-and-your-agents-with-the-gcx-cli-tool/",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 2",
+        "长尾"
+      ],
+      "priority": 83,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "MedMNIST 数据集无误差训练方法",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.18916",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 75,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "解纠缠偏好优化动力学超越似然位移",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.18239",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 75,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "使用深度学习框架的环境音频深度伪造检测",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.19652",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 75,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "规范化变换器中的学习率迁移",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.27077",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 75,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "重复优于多样性：高质量数据过滤用于高效德语语言建模",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.28075",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 75,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Grafana助手如何智能学习你的基础设施",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://grafana.com/blog/how-grafana-assistant-learns-your-infrastructure-before-you-even-ask/",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 75,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "上下文性的程度、水平与概况分析",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2603.26692",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 4",
+        "长尾"
+      ],
+      "priority": 75,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "临床试验数据混合查询的规划方案SCOPE",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://arxiv.org/abs/2604.25120",
+      "published_at": "2026-05-05 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 4",
+        "长尾"
+      ],
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -128,7 +383,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 80,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -145,58 +400,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 80,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "加速 AI：通过 GCSFS 和 Rapid Bucket 将 Google Colossus 引入 PyTorch",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://developers.googleblog.com/speeding-up-ai-bringing-google-colossus-to-pytorch-via-gcsfs-and-rapid-bucket/",
-      "published_at": "2026-05-04 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 2",
-        "长尾"
-      ],
-      "priority": 80,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "用 gcx CLI 工具为终端和 Agent 获取可观测性",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://grafana.com/blog/get-observability-in-the-terminal-for-you-and-your-agents-with-the-gcx-cli-tool/",
-      "published_at": "2026-05-04 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 2",
-        "长尾"
-      ],
-      "priority": 80,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Grafana助手如何智能学习你的基础设施",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://grafana.com/blog/how-grafana-assistant-learns-your-infrastructure-before-you-even-ask/",
-      "published_at": "2026-05-04 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 72,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -212,7 +416,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 74,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -229,7 +433,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 74,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -246,7 +450,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 74,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -263,7 +467,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 74,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -280,7 +484,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 74,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -297,7 +501,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 74,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -314,7 +518,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 74,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -331,7 +535,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 74,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -348,24 +552,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 74,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Intern-Atlas：AI科学家的方法论演化图基础设施",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.28158",
-      "published_at": "2026-05-03 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 74,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -382,7 +569,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 74,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -399,7 +586,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 74,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -416,7 +603,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 74,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -433,7 +620,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 66,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -450,7 +637,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 66,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -467,7 +654,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 66,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -484,7 +671,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 66,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -501,7 +688,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 66,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -516,7 +703,7 @@
       "tags": [
         "魔法原子"
       ],
-      "priority": 74,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -532,7 +719,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 68,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -548,7 +735,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 68,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -564,7 +751,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 68,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -580,7 +767,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 68,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -597,7 +784,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 68,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -614,7 +801,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 68,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -631,7 +818,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 68,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -647,7 +834,7 @@
         "日报",
         "归档"
       ],
-      "priority": 66,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -663,7 +850,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 60,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -679,24 +866,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "规范化变换器中的学习率迁移",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.27077",
-      "published_at": "2026-05-02 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 60,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -713,7 +883,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 60,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -730,7 +900,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 60,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -747,7 +917,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 60,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -763,7 +933,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -779,7 +949,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -795,7 +965,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -811,7 +981,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -827,7 +997,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -843,7 +1013,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -860,7 +1030,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -877,7 +1047,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -894,7 +1064,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -910,7 +1080,7 @@
         "日报",
         "归档"
       ],
-      "priority": 60,
+      "priority": 58,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -927,7 +1097,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 54,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -944,7 +1114,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 54,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -961,7 +1131,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 54,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -978,7 +1148,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 54,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -995,7 +1165,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 54,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1012,7 +1182,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 54,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1029,7 +1199,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 54,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1046,7 +1216,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 54,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1063,7 +1233,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 54,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1555,22 +1725,6 @@
         "归档"
       ],
       "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "DeepSeek 正式发布 V4 API：Flash/Pro 双版本齐发，百万上下文成标配",
-      "summary": "普及百万上下文，价格依旧亲民",
-      "url": "https://www.geekpark.net/news/363222",
-      "published_at": "2026-04-25 01:03:48",
-      "tags": [
-        "deepseek",
-        "开源"
-      ],
-      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
