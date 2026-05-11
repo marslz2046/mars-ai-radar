@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-10 13:45:33",
+  "generated_at": "2026-05-11 14:07:35",
   "ok": true,
   "failed_sites": {},
   "source_counts": {
     "geekpark": 10,
-    "xiaohu": 133,
+    "xiaohu": 129,
     "waytoagi": 14
   },
   "sources": [
@@ -14,8 +14,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-05-09",
-      "home_url": "https://www.geekpark.net/news/363905"
+      "last_accessible": "2026-05-11",
+      "home_url": "https://www.geekpark.net/news/363963"
     },
     {
       "id": "xiaohu",
