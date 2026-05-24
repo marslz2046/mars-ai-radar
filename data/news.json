@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23 13:47:27",
-  "generated_rfc2822": "Sat, 23 May 2026 13:47:27 +0800",
+  "generated_at": "2026-05-24 14:10:29",
+  "generated_rfc2822": "Sun, 24 May 2026 14:10:29 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -61,7 +61,7 @@
         "日报",
         "头条"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -77,7 +77,7 @@
         "日报",
         "站内分 10"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +93,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -109,7 +109,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -125,7 +125,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -141,7 +141,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -158,7 +158,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -175,7 +175,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -192,7 +192,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -209,7 +209,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -226,7 +226,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -243,7 +243,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -259,7 +259,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 75,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -275,7 +275,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 75,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -291,7 +291,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 75,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -307,7 +307,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 75,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -324,7 +324,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 75,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -341,7 +341,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 75,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -358,7 +358,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 75,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -375,7 +375,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 75,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -392,7 +392,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 75,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -409,7 +409,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 75,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -426,7 +426,7 @@
         "Andrej Karpathy",
         "AI"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -442,7 +442,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -458,7 +458,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -474,7 +474,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -490,7 +490,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -507,7 +507,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -524,7 +524,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -541,7 +541,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -557,7 +557,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -573,7 +573,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -590,7 +590,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -607,7 +607,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -624,7 +624,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -641,7 +641,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -658,7 +658,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -675,7 +675,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -692,7 +692,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -709,7 +709,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -726,7 +726,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -742,7 +742,7 @@
         "日报",
         "归档"
       ],
-      "priority": 67,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -759,7 +759,7 @@
         "NextEra",
         "电力资源"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -776,7 +776,7 @@
         "AI",
         "垄断"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -792,7 +792,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -808,7 +808,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -825,7 +825,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -842,7 +842,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -859,7 +859,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -876,7 +876,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -893,7 +893,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -910,7 +910,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -927,7 +927,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -943,7 +943,7 @@
         "日报",
         "归档"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -959,7 +959,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -975,7 +975,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -991,7 +991,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1007,7 +1007,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1024,7 +1024,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1041,7 +1041,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1058,7 +1058,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1075,7 +1075,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1092,7 +1092,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1109,7 +1109,7 @@
         "盗梦空间",
         "Inception"
       ],
-      "priority": 58,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1125,7 +1125,7 @@
         "ChatGPT",
         "OpenAI"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1141,7 +1141,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1157,7 +1157,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1173,7 +1173,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1189,7 +1189,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1205,7 +1205,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1222,7 +1222,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1239,7 +1239,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1256,7 +1256,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1273,7 +1273,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1290,7 +1290,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1307,7 +1307,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1324,7 +1324,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1340,7 +1340,7 @@
         "日报",
         "归档"
       ],
-      "priority": 63,
+      "priority": 58,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1356,7 +1356,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1373,7 +1373,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1390,7 +1390,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1407,7 +1407,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1424,7 +1424,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1441,7 +1441,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
