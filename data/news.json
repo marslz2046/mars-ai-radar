@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30 13:55:31",
-  "generated_rfc2822": "Sat, 30 May 2026 13:55:31 +0800",
+  "generated_at": "2026-05-31 14:34:28",
+  "generated_rfc2822": "Sun, 31 May 2026 14:34:28 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -9,7 +9,7 @@
       "cadence": "公开页面",
       "status": "ok",
       "last_accessible": "2026-05-30",
-      "home_url": "https://www.geekpark.net/news/365099"
+      "home_url": "https://www.geekpark.net/news/365102"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-05-28",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260528"
+      "last_accessible": "2026-05-30",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260530"
     },
     {
       "id": "huangshu",
@@ -50,6 +50,40 @@
   ],
   "items": [
     {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "两大 AI「妖股」，杀回 A 股",
+      "summary": "智谱港股上演「天地板」式震荡；MiniMax 披露 A 股上市辅导备案。",
+      "url": "https://www.geekpark.net/news/365102",
+      "published_at": "2026-05-30 22:37:45",
+      "tags": [
+        "MiniMax",
+        "智谱",
+        "AI"
+      ],
+      "priority": 92,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "营收1965亿，市值创近一年新低，马化腾：一年前上了AI的船，结果发现船漏水了",
+      "summary": "AI放大腾讯核心优势。",
+      "url": "https://www.geekpark.net/news/365101",
+      "published_at": "2026-05-30 14:42:34",
+      "tags": [
+        "腾讯",
+        "混元",
+        "腾讯大模型"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -61,7 +95,7 @@
         "日报",
         "头条"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -77,7 +111,7 @@
         "日报",
         "站内分 10"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +127,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -109,7 +143,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -125,7 +159,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -142,7 +176,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -159,7 +193,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -176,7 +210,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -193,7 +227,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -210,7 +244,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -227,7 +261,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -244,7 +278,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -261,7 +295,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -278,7 +312,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -294,7 +328,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 87,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -310,7 +344,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 87,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -326,7 +360,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 87,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -343,7 +377,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 87,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -360,7 +394,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 87,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -377,7 +411,22 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 87,
+      "priority": 80,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年5月30日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260530",
+      "published_at": "2026-05-30 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -394,7 +443,7 @@
         "宇树科技",
         "世界模型"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -410,7 +459,7 @@
         "Genesis",
         "周衔"
       ],
-      "priority": 90,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -426,7 +475,7 @@
         "微亿智造",
         "工业具身智能"
       ],
-      "priority": 90,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -442,7 +491,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 89,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -458,7 +507,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 89,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -474,7 +523,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 89,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -490,7 +539,7 @@
         "日报",
         "归档"
       ],
-      "priority": 87,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -506,7 +555,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 81,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -522,7 +571,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 81,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -539,7 +588,22 @@
         "站内分 4",
         "长尾"
       ],
-      "priority": 81,
+      "priority": 74,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年5月29日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260529",
+      "published_at": "2026-05-29 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -556,7 +620,7 @@
         "AI",
         "AI 编程工具"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -571,7 +635,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -588,7 +652,7 @@
         "Agentic AI",
         "阿里云峰会"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -604,7 +668,7 @@
         "深至科技",
         "朱瑞星"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -620,24 +684,7 @@
         "Google I/O 2026",
         "AI"
       ],
-      "priority": 69,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "当任何人都能用 AI 把公司告上法庭，法官们慌了",
-      "summary": "AI 正在把法庭变成一个任何人都能进入的擂台。",
-      "url": "https://www.geekpark.net/news/364871",
-      "published_at": "2026-05-27 12:07:05",
-      "tags": [
-        "AI",
-        "法官",
-        "AI 诉讼"
-      ],
-      "priority": 77,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -653,7 +700,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -669,7 +716,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -686,7 +733,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -703,7 +750,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -720,7 +767,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -737,7 +784,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -754,7 +801,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -771,7 +818,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -787,7 +834,7 @@
         "日报",
         "归档"
       ],
-      "priority": 75,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -803,7 +850,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -819,7 +866,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -835,7 +882,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -851,7 +898,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -868,7 +915,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -885,7 +932,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -902,7 +949,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -919,7 +966,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -936,7 +983,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -953,7 +1000,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 69,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -968,41 +1015,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "不止于Copilot：医渡科技超级智能体，想做医疗界的Claude Code",
-      "summary": "当行业还在卷参数和评测榜单时，一家港股 AI 医疗公司用 12 年沉淀，把 AI 真正「焊」进了三甲医院的诊疗工作流——并率先跑通了商业闭环。",
-      "url": "https://www.geekpark.net/news/364838",
-      "published_at": "2026-05-26 16:52:14",
-      "tags": [
-        "Claude Code",
-        "医疗",
-        "AI"
-      ],
-      "priority": 72,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Gemini 3.5 Flash 实测：当模型速度进入 4G 时代，Agent 的游戏规则变了 | AI上新",
-      "summary": "天下武功，唯快不破。",
-      "url": "https://www.geekpark.net/news/364839",
-      "published_at": "2026-05-26 16:49:34",
-      "tags": [
-        "Gemini 3.5 Flash",
-        "Agent",
-        "Google I/O 大会"
-      ],
-      "priority": 72,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1018,7 +1031,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1035,7 +1048,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1052,7 +1065,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1069,7 +1082,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1086,7 +1099,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1103,7 +1116,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1120,7 +1133,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1137,7 +1150,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1153,7 +1166,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1170,7 +1183,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1187,7 +1200,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1204,7 +1217,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1221,7 +1234,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1238,7 +1251,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1255,7 +1268,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1272,7 +1285,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1289,7 +1302,7 @@
         "站内分 4",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1306,7 +1319,7 @@
         "站内分 4",
         "长尾"
       ],
-      "priority": 63,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1321,7 +1334,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1337,7 +1350,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1353,7 +1366,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1369,7 +1382,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1386,7 +1399,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1403,7 +1416,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1420,7 +1433,7 @@
         "站内分 4",
         "长尾"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1437,7 +1450,7 @@
         "站内分 1",
         "长尾"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1453,7 +1466,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1470,7 +1483,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1487,7 +1500,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1504,7 +1517,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1521,7 +1534,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1538,7 +1551,7 @@
         "站内分 4",
         "长尾"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1555,7 +1568,7 @@
         "站内分 4",
         "长尾"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1570,7 +1583,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -2073,21 +2086,6 @@
       "backfill": false
     },
     {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年5月16日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260516",
-      "published_at": "2026-05-16 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -2100,21 +2098,6 @@
         "归档"
       ],
       "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年5月15日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260515",
-      "published_at": "2026-05-15 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
