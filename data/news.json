@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31 14:34:28",
-  "generated_rfc2822": "Sun, 31 May 2026 14:34:28 +0800",
+  "generated_at": "2026-06-01 15:22:26",
+  "generated_rfc2822": "Mon, 01 Jun 2026 15:22:26 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -17,8 +17,8 @@
       "mode": "日报页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-05-30",
-      "home_url": "https://daily.xiaohu.ai/2026-05-30/"
+      "last_accessible": "2026-06-01",
+      "home_url": "https://daily.xiaohu.ai/2026-06-01/"
     },
     {
       "id": "waytoagi",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-05-30",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260530"
+      "last_accessible": "2026-05-31",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260531"
     },
     {
       "id": "huangshu",
@@ -50,6 +50,533 @@
   ],
   "items": [
     {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "MiniMax M3 上线 Vercel AI Gateway：100 万 token 上下文 + 原生多模态",
+      "summary": "MiniMax 发布 M3 模型，支持 100 万 token 上下文和原生多模态，现已在 Vercel AI Gateway 上线。采用 MSA 稀疏注意力技术，在软件工程、终端工具调用和智能体网页浏览方面有显著改进。",
+      "url": "https://daily.xiaohu.ai/2026-06-01/",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "头条"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "AI 搜索工具的尴尬真相：只会复述已知，不会真正研究",
+      "summary": "小互 AI 日报本期高分条目。",
+      "url": "https://daily.xiaohu.ai/2026-06-01/",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 9"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Apple AI 高管跳槽 OpenAI：下届 WWDC 的 Siri 重启又要换导演",
+      "summary": "小互 AI 日报本期高分条目。",
+      "url": "https://daily.xiaohu.ai/2026-06-01/",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 9"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "SoftBank 砸 750 亿欧元在法国建 AI 数据中心：欧洲最大基础设施投资",
+      "summary": "小互 AI 日报本期高分条目。",
+      "url": "https://daily.xiaohu.ai/2026-06-01/",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Epicure AI：三个 AI 模型对食材搭配的截然不同理解",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://the-decoder.com/ask-ai-what-goes-with-chicken-and-the-answer-depends-on-whether-it-learned-from-recipes-or-molecules/",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Anthropic 研究曝光：男性使用 AI 编码工具频率是女性的 2 倍",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://the-decoder.com/anthropic-study-finds-men-use-ai-coding-agents-more-than-twice-as-often-as-women-in-social-science-research/",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "我追踪到了\"吸大麻挖比特币\" AI 骗局的真相",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "科技 CEO 患上\"AI 妄想症\"？TechCrunch 深度讨论",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 4",
+        "长尾"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Claude Code v2.1.159 发布",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.159",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 3",
+        "长尾"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "OpenAI Codex 0.136.0-alpha.2 发布",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.136.0-alpha.2",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 3",
+        "长尾"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "exe.dev：AI Agent 时代的云开发平台",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://exe.dev/?df",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 3",
+        "长尾"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "DeepSeek V4 Flash 已上线 OpenCode Zen",
+      "summary": "小互 AI 日报本期高分条目。",
+      "url": "https://daily.xiaohu.ai/2026-06-01/",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 9"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "教皇似乎比Geoffrey Hinton更懂人工智能",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://garymarcus.substack.com/p/the-pope-appears-to-understand-ai",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "datasette 1.0a32 发布：修复 INSERT...RETURNING 查询 Bug",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Erin Brockovich 出击：数据中心的环保秘密该被曝光",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "土耳其如何用机器学习革新毛发移植产业",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+      "published_at": "2026-06-01 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Claude Code v2.1.158 发布：多平台 Auto 模式上线",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.158",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 88,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Anthropic 估值超越 OpenAI 成全球最有价值 AI 初创企业",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 88,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Anthropic 发布 Claude 沙箱隔离技术文档",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 88,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "攻击者利用 ChatGPT 和 Claude 共享功能传播恶意软件",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://the-decoder.com/attackers-abuse-shared-chatgpt-and-claude-chats-to-spread-malware/",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 88,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Microsoft 和 Nvidia 合作开发真正可运行 AI agents 的个人电脑",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://the-decoder.com/microsoft-and-nvidia-reportedly-team-up-on-ai-pcs-that-run-actual-agents-instead-of-copilot/",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 88,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "数学家陶哲轩：AI 将首次为数学研究带来分工协作",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://the-decoder.com/terence-tao-argues-ai-could-bring-division-of-labor-to-math-for-the-first-time-in-history/",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 8"
+      ],
+      "priority": 88,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "专业人士呼吁对 AI 采取平衡态度",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 88,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Daniel Jalkut 论 AI：反对者太反对，支持者太支持",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://mastodon.social/@danielpunkass/116639318125898071",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 88,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "创业者弃 AI 热潮，传统网站产品逆势成功",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 4",
+        "长尾"
+      ],
+      "priority": 88,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Meta推出Instagram、Facebook和WhatsApp订阅功能，并计划集成AI",
+      "summary": "小互 AI 日报历史归档条目。",
+      "url": "https://daily.xiaohu.ai/2026-05-31/",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "归档"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "开源贡献者离开科技行业的现实转身",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 80,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "开发者初探 JAX 框架的技术随笔",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://www.gilesthomas.com/2026/05/on-first-looking-into-jax",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 80,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Meta 重建 PB 级数据摄入系统，实现零停机迁移",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://www.infoq.com/news/2026/05/meta-cdc-migration/",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 5",
+        "长尾"
+      ],
+      "priority": 80,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Cory Doctorow 网络评论汇总：科技、政策与社会的多维观察",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://pluralistic.net/2026/05/30/rupture/",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 4",
+        "长尾"
+      ],
+      "priority": 80,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "2026 年 Chrome 和 Safari 的热门替代浏览器",
+      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
+      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "日报",
+        "站内分 4",
+        "长尾"
+      ],
+      "priority": 80,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年5月31日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260531",
+      "published_at": "2026-05-31 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 78,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
@@ -62,7 +589,7 @@
         "智谱",
         "AI"
       ],
-      "priority": 92,
+      "priority": 85,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,23 +606,7 @@
         "混元",
         "腾讯大模型"
       ],
-      "priority": 90,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Anthropic 发布 Claude Opus 4.8：性能跃升，强化诚实度与成本控制",
-      "summary": "Anthropic 发布 Claude Opus 4.8，这次更新的核心不是追求更高的基准分数，而是强调模型的诚实度和可靠性。Opus 4.8 在 SWE-bench Verified 上得分 88.6%，Terminal-Bench 2.1 上得 74.6%，超越 GPT-5.5 和 Gemini 3.1 Pro。最关键的特性是它对错误的处理方式：与版本 4.7 相比，无声通过坏代码的概率下降了…",
-      "url": "https://daily.xiaohu.ai/2026-05-30/",
-      "published_at": "2026-05-30 10:00:00",
-      "tags": [
-        "日报",
-        "头条"
-      ],
-      "priority": 88,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -104,30 +615,14 @@
       "source": "小互 AI 日报",
       "type": "daily",
       "title": "Anthropic融资65亿美元，估值965亿超越OpenAI成全球最valuable初创",
-      "summary": "小互 AI 日报本期高分条目。",
-      "url": "https://daily.xiaohu.ai/2026-05-30/",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://www.anthropic.com/news/anthropic-funding-65b",
       "published_at": "2026-05-30 10:00:00",
       "tags": [
         "日报",
-        "站内分 10"
+        "站内分 8"
       ],
-      "priority": 88,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Braintrust 用 Codex 和 GPT-5.5 加速代码生成实验",
-      "summary": "小互 AI 日报本期高分条目。",
-      "url": "https://daily.xiaohu.ai/2026-05-30/",
-      "published_at": "2026-05-30 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 9"
-      ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -136,14 +631,14 @@
       "source": "小互 AI 日报",
       "type": "daily",
       "title": "OpenAI 为 GPT-5.5 Instant 升级可读性，淘汰两款旧模型",
-      "summary": "小互 AI 日报本期高分条目。",
-      "url": "https://daily.xiaohu.ai/2026-05-30/",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://the-decoder.com/openai-gives-gpt-5-5-instant-a-readability-upgrade-while-phasing-out-two-older-models/",
       "published_at": "2026-05-30 10:00:00",
       "tags": [
         "日报",
-        "站内分 9"
+        "站内分 8"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -152,14 +647,14 @@
       "source": "小互 AI 日报",
       "type": "daily",
       "title": "Nvidia 200 亿美元\"不收购聘用\"后，AI 芯片创业 Groq 融资 6.5 亿美元",
-      "summary": "小互 AI 日报本期高分条目。",
-      "url": "https://daily.xiaohu.ai/2026-05-30/",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
       "published_at": "2026-05-30 10:00:00",
       "tags": [
         "日报",
-        "站内分 9"
+        "站内分 8"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -176,7 +671,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -193,7 +688,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -210,7 +705,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -227,7 +722,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -244,7 +739,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -261,7 +756,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -278,7 +773,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -295,7 +790,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -312,7 +807,23 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 88,
+      "priority": 82,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "xiaohu",
+      "source": "小互 AI 日报",
+      "type": "daily",
+      "title": "Anthropic 发布 Claude Opus 4.8：性能跃升，强化诚实度与成本控制",
+      "summary": "小互 AI 日报历史归档条目。",
+      "url": "https://daily.xiaohu.ai/2026-05-30/",
+      "published_at": "2026-05-30 10:00:00",
+      "tags": [
+        "日报",
+        "归档"
+      ],
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -321,14 +832,14 @@
       "source": "小互 AI 日报",
       "type": "daily",
       "title": "Gemini Omni 和 Gemini 3.5 的 9 项演示展示",
-      "summary": "小互 AI 日报本期高分条目。",
-      "url": "https://daily.xiaohu.ai/2026-05-30/",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
       "published_at": "2026-05-30 10:00:00",
       "tags": [
         "日报",
-        "站内分 9"
+        "站内分 8"
       ],
-      "priority": 80,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -337,14 +848,14 @@
       "source": "小互 AI 日报",
       "type": "daily",
       "title": "Ollama v0.30.0 发布：架构重构支持 llama.cpp 和 GGUF 格式",
-      "summary": "小互 AI 日报本期高分条目。",
-      "url": "https://daily.xiaohu.ai/2026-05-30/",
+      "summary": "小互 AI 日报精选条目。",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc31",
       "published_at": "2026-05-30 10:00:00",
       "tags": [
         "日报",
-        "站内分 9"
+        "站内分 8"
       ],
-      "priority": 80,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -360,7 +871,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 80,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -377,7 +888,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 80,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -394,7 +905,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 80,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -411,7 +922,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 80,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -426,7 +937,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -443,7 +954,7 @@
         "宇树科技",
         "世界模型"
       ],
-      "priority": 80,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -459,7 +970,7 @@
         "Genesis",
         "周衔"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -475,7 +986,7 @@
         "微亿智造",
         "工业具身智能"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -491,7 +1002,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -507,7 +1018,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -523,7 +1034,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -539,7 +1050,7 @@
         "日报",
         "归档"
       ],
-      "priority": 80,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -555,7 +1066,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 74,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -571,7 +1082,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 74,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -588,7 +1099,7 @@
         "站内分 4",
         "长尾"
       ],
-      "priority": 74,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -603,7 +1114,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -620,7 +1131,7 @@
         "AI",
         "AI 编程工具"
       ],
-      "priority": 78,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -635,7 +1146,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -652,7 +1163,7 @@
         "Agentic AI",
         "阿里云峰会"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -668,7 +1179,7 @@
         "深至科技",
         "朱瑞星"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -684,7 +1195,7 @@
         "Google I/O 2026",
         "AI"
       ],
-      "priority": 63,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -700,7 +1211,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -716,7 +1227,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -733,7 +1244,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -750,7 +1261,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -767,7 +1278,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -784,7 +1295,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -801,7 +1312,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -818,7 +1329,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -834,7 +1345,7 @@
         "日报",
         "归档"
       ],
-      "priority": 68,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -850,7 +1361,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 62,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -866,7 +1377,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 62,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -882,7 +1393,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 62,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -898,7 +1409,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 62,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -915,7 +1426,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 62,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -932,7 +1443,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 62,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -949,7 +1460,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 62,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -966,7 +1477,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 62,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -983,7 +1494,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 62,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1000,7 +1511,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 62,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1015,7 +1526,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1031,7 +1542,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1048,7 +1559,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1065,7 +1576,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1082,7 +1593,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1099,7 +1610,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1116,7 +1627,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1133,7 +1644,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1150,7 +1661,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1166,7 +1677,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 56,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1183,7 +1694,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 56,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1200,7 +1711,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 56,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1217,7 +1728,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 56,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1234,7 +1745,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 56,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1251,7 +1762,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 56,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1268,7 +1779,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 56,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1285,7 +1796,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 56,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1302,7 +1813,7 @@
         "站内分 4",
         "长尾"
       ],
-      "priority": 56,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1319,7 +1830,7 @@
         "站内分 4",
         "长尾"
       ],
-      "priority": 56,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1334,241 +1845,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "面壁智能联合清华等开源中国首个基于华为昇腾训练的 1.58-bit 端侧大模型 BitCPM-CANN",
-      "summary": "小互 AI 日报精选条目。",
-      "url": "https://www.ithome.com/0/954/759.htm",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 8"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Luma Agents 实现规模化真实 UGC 广告生成",
-      "summary": "小互 AI 日报精选条目。",
-      "url": "https://x.com/LumaLabsAI/status/2058672731705503959",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 8"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "教皇里奥呼吁在AI时代保持\"深刻的人性\"",
-      "summary": "小互 AI 日报精选条目。",
-      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 8"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "VISD: 通过结构化自蒸馏增强视频推理",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.06094",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "多任务医学影像报告生成中的双重困境分析",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.22635",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "日语形态生成中的书写感知错误分析",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.20043",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 4",
-        "长尾"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "[赞助] WorkOS Agent 集成解决方案",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://workos.com/docs/pipes",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 1",
-        "长尾"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "微软 Copilot Cowork 存在文件泄露问题",
-      "summary": "小互 AI 日报精选条目。",
-      "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 8"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "这不是解释：语言学习系统的可解释性陷阱评估",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.26145",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "VaCoAl：硅与生物神经系统的混合记忆机制",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.15652",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Sutra：向量符号架构的张量运算 RNN 编译目标",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.20919",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "扩散教师的期望方差缩减",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.21489",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "ProtDBench：蛋白质结合子设计评估基准",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.04118",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 4",
-        "长尾"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "语法引导的句子理解信息保持机制",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2604.27468",
-      "published_at": "2026-05-25 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 4",
-        "长尾"
-      ],
-      "priority": 52,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1621,155 +1898,6 @@
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
-      "title": "加州颁布美国首个 AI 失业保护行政令",
-      "summary": "小互 AI 日报精选条目。",
-      "url": "https://the-decoder.com/california-governor-signs-first-us-executive-order-to-protect-workers-from-ai-job-loss/",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 8"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "特朗普撤销 AI 安全行政令，Musk 等科技高管施压成功",
-      "summary": "小互 AI 日报精选条目。",
-      "url": "https://the-decoder.com/trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks/",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 8"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "InfoQ 推出 AI 工程在线课程与认证",
-      "summary": "小互 AI 日报精选条目。",
-      "url": "https://www.infoq.com/news/2026/05/ai-engineering-certification-pro/",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 8"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "ChatGPT语音模式实现表单语音填写",
-      "summary": "小互 AI 日报精选条目。",
-      "url": "https://x.com/ChatGPTapp/status/2057908052968521902",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 8"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Gary Marcus警示：AI风险可能威胁退休基金安全",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://garymarcus.substack.com/p/this-one-weird-trick-might-cost-your",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Steve Wozniak：学生需要真实智能而非过度依赖 AI",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Text-to-SQL 集成模型的残差技能优化",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.21792",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "不同提示词复杂度下 LLM 与微调模型的死亡原因提取性能对比",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.21845",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Token 加权的直接偏好优化与注意力机制",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.21883",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
       "title": "AI搜索引擎Exa融资$250M，估值达22亿美元",
       "summary": "小互 AI 日报历史归档条目。",
       "url": "https://daily.xiaohu.ai/2026-05-22/",
@@ -1779,123 +1907,6 @@
         "归档"
       ],
       "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "DeepSeek 融资 100 亿美元，创始人优先考虑 AGI 研究而非短期利润",
-      "summary": "小互 AI 日报精选条目。",
-      "url": "https://the-decoder.com/deepseek-reportedly-prioritizes-agi-research-over-quick-profits-despite-billions-in-funding/",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 8"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "Ollama 0.30.0 发布：架构优化与 llama.cpp 直接支持",
-      "summary": "小互 AI 日报精选条目。",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc23",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 8"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "用可观测性数据防止系统事件",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://www.databricks.com/blog/using-observability-data-prevent-incidents",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "SMILE-UHURA 挑战赛：超高分辨率 MRI 脑血管分割",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2411.09593",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "少样本情景下的临床问答检索基准",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.21807",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "超图作为语言",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.21858",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "高风险医学 RAG 的声明选择性认证方法",
-      "summary": "小互 AI 日报长尾候选，经站内分和 AI 关键词过滤后保留。",
-      "url": "https://arxiv.org/abs/2605.21949",
-      "published_at": "2026-05-22 10:00:00",
-      "tags": [
-        "日报",
-        "站内分 5",
-        "长尾"
-      ],
-      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -2051,21 +2062,6 @@
         "归档"
       ],
       "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年5月17日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260517",
-      "published_at": "2026-05-17 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -2253,38 +2249,6 @@
       "summary": "小互 AI 日报历史归档条目。",
       "url": "https://daily.xiaohu.ai/2026-04-29/",
       "published_at": "2026-04-29 10:00:00",
-      "tags": [
-        "日报",
-        "归档"
-      ],
-      "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "GPT-5.5发布打破前沿模型全面优势格局",
-      "summary": "小互 AI 日报历史归档条目。",
-      "url": "https://daily.xiaohu.ai/2026-04-27/",
-      "published_at": "2026-04-27 10:00:00",
-      "tags": [
-        "日报",
-        "归档"
-      ],
-      "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "xiaohu",
-      "source": "小互 AI 日报",
-      "type": "daily",
-      "title": "谷歌向 Anthropic 追加 400 亿美元投资，两个月内融资总额达 650 亿",
-      "summary": "小互 AI 日报历史归档条目。",
-      "url": "https://daily.xiaohu.ai/2026-04-26/",
-      "published_at": "2026-04-26 10:00:00",
       "tags": [
         "日报",
         "归档"
