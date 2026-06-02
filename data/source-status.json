@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-01 15:22:26",
+  "generated_at": "2026-06-02 14:56:10",
   "ok": true,
   "failed_sites": {},
   "source_counts": {
     "geekpark": 10,
-    "xiaohu": 112,
+    "xiaohu": 116,
     "waytoagi": 14
   },
   "sources": [
@@ -14,8 +14,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-05-30",
-      "home_url": "https://www.geekpark.net/news/365102"
+      "last_accessible": "2026-06-01",
+      "home_url": "https://www.geekpark.net/news/365213"
     },
     {
       "id": "xiaohu",
@@ -23,8 +23,8 @@
       "mode": "日报页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-06-01",
-      "home_url": "https://daily.xiaohu.ai/2026-06-01/"
+      "last_accessible": "2026-06-02",
+      "home_url": "https://daily.xiaohu.ai/2026-06-02/"
     },
     {
       "id": "waytoagi",
@@ -32,8 +32,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-05-31",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260531"
+      "last_accessible": "2026-06-01",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260601"
     },
     {
       "id": "huangshu",
