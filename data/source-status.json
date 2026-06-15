@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14 14:56:10",
+  "generated_at": "2026-06-15 15:37:03",
   "ok": true,
   "failed_sites": {},
   "source_counts": {
     "geekpark": 10,
-    "xiaohu": 112,
-    "waytoagi": 0
+    "xiaohu": 104,
+    "waytoagi": 14
   },
   "sources": [
     {
@@ -23,17 +23,17 @@
       "mode": "日报页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-06-14",
-      "home_url": "https://daily.xiaohu.ai/2026-06-14/"
+      "last_accessible": "2026-06-15",
+      "home_url": "https://daily.xiaohu.ai/2026-06-15/"
     },
     {
       "id": "waytoagi",
       "name": "WaytoAGI",
       "mode": "知识库精选页",
       "cadence": "公开页面",
-      "status": "warn",
-      "last_accessible": null,
-      "home_url": null
+      "status": "ok",
+      "last_accessible": "2026-06-14",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260614"
     },
     {
       "id": "huangshu",
