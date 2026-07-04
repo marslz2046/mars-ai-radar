@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03 14:02:45",
-  "generated_rfc2822": "Fri, 03 Jul 2026 14:02:45 +0800",
+  "generated_at": "2026-07-04 13:54:31",
+  "generated_rfc2822": "Sat, 04 Jul 2026 13:54:31 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-01",
-      "home_url": "https://www.geekpark.net/news/366743"
+      "last_accessible": "2026-07-03",
+      "home_url": "https://www.geekpark.net/news/366849"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-06-30",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260630"
+      "last_accessible": "2026-07-02",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260702"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,38 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "Anthropic 公告里最刺眼的 3 个名字，有 1 家中国模型",
+      "summary": "Mythos 5 的逆天挖漏洞能力，Claude Opus 4.8, GPT-5.5, Kimi K2.7 都能做",
+      "url": "https://www.geekpark.net/news/366849",
+      "published_at": "2026-07-03 14:29:50",
+      "tags": [
+        "Anthropic",
+        "SpaceX",
+        "Kimi"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月2日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260702",
+      "published_at": "2026-07-02 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 73,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "旗舰「受困」，升级 Sonnet 5 救场，能力直追 Opus",
       "summary": "用中端模型的成本优势，补上旗舰模型的缺。",
       "url": "https://www.geekpark.net/news/366743",
@@ -61,7 +93,7 @@
         "Anthropic",
         "Claude"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +110,7 @@
         "具身智能",
         "融资"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +127,22 @@
         "Claude Code",
         "Anthropic"
       ],
-      "priority": 76,
+      "priority": 70,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月1日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260701",
+      "published_at": "2026-07-01 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -111,7 +158,7 @@
         "腾讯 QQ 邮箱",
         "腾讯"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -126,7 +173,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -143,7 +190,7 @@
         "General Intuition",
         "游戏"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -158,7 +205,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -173,7 +220,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -188,7 +235,7 @@
       "tags": [
         "算力"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -600,22 +647,6 @@
         "阿里云",
         "agent",
         "Flink"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "GPT-5.6，可能要重走「Mythos」的老路",
-      "summary": "AI 巨头发新模型，要先过「安检」了",
-      "url": "https://www.geekpark.net/news/366586",
-      "published_at": "2026-06-26 17:07:15",
-      "tags": [
-        "GPT-5.6",
-        "AI"
       ],
       "priority": 60,
       "ai_relevance": "strong",
@@ -1879,21 +1910,6 @@
       "backfill": false
     },
     {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年6月18日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260618",
-      "published_at": "2026-06-18 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -1906,21 +1922,6 @@
         "归档"
       ],
       "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年6月17日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260617",
-      "published_at": "2026-06-17 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
