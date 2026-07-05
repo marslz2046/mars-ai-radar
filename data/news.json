@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04 13:54:31",
-  "generated_rfc2822": "Sat, 04 Jul 2026 13:54:31 +0800",
+  "generated_at": "2026-07-05 14:14:13",
+  "generated_rfc2822": "Sun, 05 Jul 2026 14:14:13 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -62,7 +62,7 @@
         "SpaceX",
         "Kimi"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -77,7 +77,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +93,7 @@
         "Anthropic",
         "Claude"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +110,7 @@
         "具身智能",
         "融资"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,7 +127,7 @@
         "Claude Code",
         "Anthropic"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -142,7 +142,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -158,7 +158,7 @@
         "腾讯 QQ 邮箱",
         "腾讯"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -173,7 +173,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -190,7 +190,7 @@
         "General Intuition",
         "游戏"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -205,7 +205,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
