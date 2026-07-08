@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07 14:17:42",
-  "generated_rfc2822": "Tue, 07 Jul 2026 14:17:42 +0800",
+  "generated_at": "2026-07-08 13:30:26",
+  "generated_rfc2822": "Wed, 08 Jul 2026 13:30:26 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -62,7 +62,7 @@
         "Agent",
         "AI"
       ],
-      "priority": 95,
+      "priority": 90,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +79,7 @@
         "Human Raised",
         "AI养娃"
       ],
-      "priority": 95,
+      "priority": 90,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +96,7 @@
         "whoop",
         "aivela"
       ],
-      "priority": 92,
+      "priority": 86,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +113,7 @@
         "BOSE",
         "BOSE Sleepbuds II"
       ],
-      "priority": 90,
+      "priority": 85,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +130,7 @@
         "爬虫",
         "Google"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +147,7 @@
         "SpaceX",
         "Kimi"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -162,7 +162,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
