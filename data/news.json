@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09 14:14:40",
-  "generated_rfc2822": "Thu, 09 Jul 2026 14:14:40 +0800",
+  "generated_at": "2026-07-11 13:21:26",
+  "generated_rfc2822": "Sat, 11 Jul 2026 13:21:26 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-08",
-      "home_url": "https://www.geekpark.net/news/367021"
+      "last_accessible": "2026-07-10",
+      "home_url": "https://www.geekpark.net/news/367179"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-07",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260707"
+      "last_accessible": "2026-07-09",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260709"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,53 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "原力灵机发布具身 MaaS、OS，破解模型规模化进入场景",
+      "summary": "​具身智能还没到 ChatGPT 时刻，原力灵机想先把它变得能用。",
+      "url": "https://www.geekpark.net/news/367179",
+      "published_at": "2026-07-10 18:08:00",
+      "tags": [
+        "原力灵机"
+      ],
+      "priority": 91,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "从体脂秤到薄荷健康， 蚂蚁阿福的稳扎稳打",
+      "summary": "智能硬件+健康AI走得通吗？",
+      "url": "https://www.geekpark.net/news/367137",
+      "published_at": "2026-07-10 13:54:43",
+      "tags": [
+        "AI",
+        "蚂蚁集团",
+        "阿福"
+      ],
+      "priority": 82,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月9日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260709",
+      "published_at": "2026-07-09 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 73,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "详解硅基流动：成立两年收入增长九千倍，算力生意的高速与重负",
       "summary": "「Token 工厂」冲刺港股",
       "url": "https://www.geekpark.net/news/367021",
@@ -62,7 +109,7 @@
         "AI",
         "token工厂"
       ],
-      "priority": 82,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +126,7 @@
         "视频大模型",
         "快手"
       ],
-      "priority": 90,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +143,7 @@
         "Trae",
         "AI Coding"
       ],
-      "priority": 89,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +160,22 @@
         "AI",
         "融资"
       ],
-      "priority": 89,
+      "priority": 78,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月8日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260708",
+      "published_at": "2026-07-08 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +192,7 @@
         "Agent",
         "AI"
       ],
-      "priority": 83,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +209,7 @@
         "Human Raised",
         "AI养娃"
       ],
-      "priority": 83,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -162,7 +224,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -179,7 +241,7 @@
         "whoop",
         "aivela"
       ],
-      "priority": 80,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -196,24 +258,7 @@
         "BOSE",
         "BOSE Sleepbuds II"
       ],
-      "priority": 78,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲",
-      "summary": "互联网最大的「保安」，现在要当最大的「收银员」了。",
-      "url": "https://www.geekpark.net/news/366920",
-      "published_at": "2026-07-06 14:22:07",
-      "tags": [
-        "Cloudflare",
-        "爬虫",
-        "Google"
-      ],
-      "priority": 78,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -228,7 +273,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -243,7 +288,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -258,24 +303,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Anthropic 公告里最刺眼的 3 个名字，有 1 家中国模型",
-      "summary": "Mythos 5 的逆天挖漏洞能力，Claude Opus 4.8, GPT-5.5, Kimi K2.7 都能做",
-      "url": "https://www.geekpark.net/news/366849",
-      "published_at": "2026-07-03 14:29:50",
-      "tags": [
-        "Anthropic",
-        "SpaceX",
-        "Kimi"
-      ],
-      "priority": 60,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -1386,21 +1414,6 @@
       "backfill": false
     },
     {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年6月25日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260625",
-      "published_at": "2026-06-25 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -1713,21 +1726,6 @@
       "tags": [
         "日报",
         "归档"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年6月24日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260624",
-      "published_at": "2026-06-24 10:00:00",
-      "tags": [
-        "知识库精选"
       ],
       "priority": 50,
       "ai_relevance": "strong",
