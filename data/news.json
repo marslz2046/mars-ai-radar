@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11 13:21:26",
-  "generated_rfc2822": "Sat, 11 Jul 2026 13:21:26 +0800",
+  "generated_at": "2026-07-13 13:47:56",
+  "generated_rfc2822": "Mon, 13 Jul 2026 13:47:56 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-10",
-      "home_url": "https://www.geekpark.net/news/367179"
+      "last_accessible": "2026-07-11",
+      "home_url": "https://www.geekpark.net/news/367186"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-09",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260709"
+      "last_accessible": "2026-07-12",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260712"
     },
     {
       "id": "huangshu",
@@ -50,6 +50,52 @@
   ],
   "items": [
     {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月12日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260712",
+      "published_at": "2026-07-12 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 79,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "别人还在叠衣服，至简动力的100台机器人已下车间",
+      "summary": "跟做汽车比，具身智能行业现在就是个「小作坊」。",
+      "url": "https://www.geekpark.net/news/367186",
+      "published_at": "2026-07-11 17:21:12",
+      "tags": [
+        "至简动力",
+        "理想"
+      ],
+      "priority": 84,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月11日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260711",
+      "published_at": "2026-07-11 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 73,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
@@ -60,7 +106,7 @@
       "tags": [
         "原力灵机"
       ],
-      "priority": 91,
+      "priority": 79,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -77,7 +123,22 @@
         "蚂蚁集团",
         "阿福"
       ],
-      "priority": 82,
+      "priority": 70,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月10日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260710",
+      "published_at": "2026-07-10 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -92,7 +153,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -109,7 +170,7 @@
         "AI",
         "token工厂"
       ],
-      "priority": 70,
+      "priority": 58,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -126,7 +187,7 @@
         "视频大模型",
         "快手"
       ],
-      "priority": 78,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -143,7 +204,7 @@
         "Trae",
         "AI Coding"
       ],
-      "priority": 78,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -160,7 +221,7 @@
         "AI",
         "融资"
       ],
-      "priority": 78,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -175,7 +236,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -192,7 +253,7 @@
         "Agent",
         "AI"
       ],
-      "priority": 72,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -209,7 +270,7 @@
         "Human Raised",
         "AI养娃"
       ],
-      "priority": 72,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -224,7 +285,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -241,24 +302,7 @@
         "whoop",
         "aivela"
       ],
-      "priority": 68,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "比 AirPods 贵三倍的「睡眠耳机」，可能是最有用的 AI 硬件",
-      "summary": "摘要：AI 让耳机 第一次学会「哄你睡觉」。",
-      "url": "https://www.geekpark.net/news/366939",
-      "published_at": "2026-07-06 18:06:07",
-      "tags": [
-        "AI",
-        "BOSE",
-        "BOSE Sleepbuds II"
-      ],
-      "priority": 67,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -273,7 +317,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -375,21 +419,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260629",
       "published_at": "2026-06-29 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年6月28日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260628",
-      "published_at": "2026-06-28 10:00:00",
       "tags": [
         "知识库精选"
       ],
@@ -747,21 +776,6 @@
       "backfill": false
     },
     {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年6月27日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260627",
-      "published_at": "2026-06-27 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -1076,21 +1090,6 @@
         "长尾"
       ],
       "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年6月26日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260626",
-      "published_at": "2026-06-26 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
