@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13 13:47:56",
+  "generated_at": "2026-07-14 13:08:42",
   "ok": true,
   "failed_sites": {},
   "source_counts": {
@@ -14,8 +14,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-11",
-      "home_url": "https://www.geekpark.net/news/367186"
+      "last_accessible": "2026-07-13",
+      "home_url": "https://www.geekpark.net/news/367244"
     },
     {
       "id": "xiaohu",
@@ -32,8 +32,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-12",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260712"
+      "last_accessible": "2026-07-13",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260713"
     },
     {
       "id": "huangshu",
