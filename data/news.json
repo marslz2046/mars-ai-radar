@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14 13:08:42",
-  "generated_rfc2822": "Tue, 14 Jul 2026 13:08:42 +0800",
+  "generated_at": "2026-07-16 13:19:15",
+  "generated_rfc2822": "Thu, 16 Jul 2026 13:19:15 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-13",
-      "home_url": "https://www.geekpark.net/news/367244"
+      "last_accessible": "2026-07-15",
+      "home_url": "https://www.geekpark.net/news/367345"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-13",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260713"
+      "last_accessible": "2026-07-14",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260714"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,72 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "给「AI 组织」交了好几波学费后，终于看清了这五级台阶",
+      "summary": "AI 技术本身不会平等地拯救每一个组织，它只会加速组织的分化。",
+      "url": "https://www.geekpark.net/news/367345",
+      "published_at": "2026-07-15 18:49:17",
+      "tags": [
+        "AI化",
+        "AI转型",
+        "AI组织",
+        "AI Native"
+      ],
+      "priority": 91,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "Xmax AI 发布 X2.0，把视频变成可以「玩」的界面",
+      "summary": "对着摄像头比了个手势，桌上凭空多了只企鹅",
+      "url": "https://www.geekpark.net/news/367335",
+      "published_at": "2026-07-15 16:44:27",
+      "tags": [
+        "Xmax X2.0",
+        "交互视频",
+        "AI"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "国产卡万亿参数模型发布背后，美团的 AI 人才决心",
+      "summary": "但「和现有业务结合」并非美团做大模型的唯一出发点。",
+      "url": "https://www.geekpark.net/news/367290",
+      "published_at": "2026-07-14 18:27:03",
+      "tags": [
+        "美团",
+        "LongCat 顶尖人才校招"
+      ],
+      "priority": 85,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月14日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260714",
+      "published_at": "2026-07-14 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 73,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "原生满配，大头EDU版重新定义开发者的第一台四足机器狗",
       "summary": "39988 极致质价比重构四足开发平台标准。",
       "url": "https://www.geekpark.net/news/367244",
@@ -62,7 +128,7 @@
         "四足机器人",
         "AI"
       ],
-      "priority": 83,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +144,7 @@
         "Anthropic",
         "J-lens"
       ],
-      "priority": 90,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -94,7 +160,7 @@
         "OpenAI",
         "苹果"
       ],
-      "priority": 90,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +176,7 @@
         "歌歌 AI",
         "AI 工具生成音乐"
       ],
-      "priority": 90,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -125,7 +191,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 79,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -140,7 +206,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -156,7 +222,7 @@
         "至简动力",
         "理想"
       ],
-      "priority": 79,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -171,7 +237,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -186,7 +252,7 @@
       "tags": [
         "原力灵机"
       ],
-      "priority": 73,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -203,7 +269,7 @@
         "蚂蚁集团",
         "阿福"
       ],
-      "priority": 64,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -218,7 +284,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -233,58 +299,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "详解硅基流动：成立两年收入增长九千倍，算力生意的高速与重负",
-      "summary": "「Token 工厂」冲刺港股",
-      "url": "https://www.geekpark.net/news/367021",
-      "published_at": "2026-07-08 16:05:05",
-      "tags": [
-        "硅基流动",
-        "AI",
-        "token工厂"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "可灵独立后拿下 30 亿美元融资，打响 AI 视频竞赛下半场",
-      "summary": "全球AI视频生成公司单轮融资新纪录。",
-      "url": "https://www.geekpark.net/news/367020",
-      "published_at": "2026-07-08 16:01:58",
-      "tags": [
-        "可灵",
-        "视频大模型",
-        "快手"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "90% 的代码交给 AI 之后，字节发现了一个反常识的真相",
-      "summary": "当一个团队九成以上的代码都由 AI 写出，效率却只涨了六成——这两个数字之间，藏着 AI Coding 真正进入企业的全部难题。",
-      "url": "https://www.geekpark.net/news/367002",
-      "published_at": "2026-07-08 13:45:31",
-      "tags": [
-        "字节跳动",
-        "Trae",
-        "AI Coding"
-      ],
-      "priority": 60,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -401,21 +416,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260701",
       "published_at": "2026-07-01 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年6月30日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260630",
-      "published_at": "2026-06-30 10:00:00",
       "tags": [
         "知识库精选"
       ],
