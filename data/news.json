@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17 13:21:52",
-  "generated_rfc2822": "Fri, 17 Jul 2026 13:21:52 +0800",
+  "generated_at": "2026-07-18 13:04:27",
+  "generated_rfc2822": "Sat, 18 Jul 2026 13:04:27 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -60,7 +60,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +78,7 @@
         "AI组织",
         "AI Native"
       ],
-      "priority": 85,
+      "priority": 79,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +95,7 @@
         "交互视频",
         "AI"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +110,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -126,7 +126,7 @@
         "美团",
         "LongCat 顶尖人才校招"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -141,7 +141,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -158,7 +158,7 @@
         "四足机器人",
         "AI"
       ],
-      "priority": 65,
+      "priority": 59,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -174,7 +174,7 @@
         "Anthropic",
         "J-lens"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -190,7 +190,7 @@
         "OpenAI",
         "苹果"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -206,7 +206,7 @@
         "歌歌 AI",
         "AI 工具生成音乐"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -221,7 +221,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -236,7 +236,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
