@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18 13:04:27",
-  "generated_rfc2822": "Sat, 18 Jul 2026 13:04:27 +0800",
+  "generated_at": "2026-07-19 13:31:16",
+  "generated_rfc2822": "Sun, 19 Jul 2026 13:31:16 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-15",
-      "home_url": "https://www.geekpark.net/news/367345"
+      "last_accessible": "2026-07-19",
+      "home_url": "https://www.geekpark.net/news/367509"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-16",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260716"
+      "last_accessible": "2026-07-17",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260717"
     },
     {
       "id": "huangshu",
@@ -50,6 +50,36 @@
   ],
   "items": [
     {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "终于用上 AI 的公司，发现业务被大模型公司抢了",
+      "summary": "不仅要你的钱，而且要你的业务。",
+      "url": "https://www.geekpark.net/news/367509",
+      "published_at": "2026-07-19 00:11:36",
+      "tags": [
+        "AI"
+      ],
+      "priority": 92,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月17日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260717",
+      "published_at": "2026-07-17 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 73,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -60,7 +90,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +108,7 @@
         "AI组织",
         "AI Native"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +125,7 @@
         "交互视频",
         "AI"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +140,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -126,7 +156,7 @@
         "美团",
         "LongCat 顶尖人才校招"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -141,7 +171,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -158,7 +188,7 @@
         "四足机器人",
         "AI"
       ],
-      "priority": 59,
+      "priority": 53,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -174,7 +204,7 @@
         "Anthropic",
         "J-lens"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -190,7 +220,7 @@
         "OpenAI",
         "苹果"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -206,7 +236,7 @@
         "歌歌 AI",
         "AI 工具生成音乐"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -221,7 +251,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -283,23 +313,6 @@
         "原力灵机"
       ],
       "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "从体脂秤到薄荷健康， 蚂蚁阿福的稳扎稳打",
-      "summary": "智能硬件+健康AI走得通吗？",
-      "url": "https://www.geekpark.net/news/367137",
-      "published_at": "2026-07-10 13:54:43",
-      "tags": [
-        "AI",
-        "蚂蚁集团",
-        "阿福"
-      ],
-      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -401,21 +414,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260704",
       "published_at": "2026-07-04 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月3日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260703",
-      "published_at": "2026-07-03 10:00:00",
       "tags": [
         "知识库精选"
       ],
