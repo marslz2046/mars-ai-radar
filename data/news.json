@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20 13:48:46",
-  "generated_rfc2822": "Mon, 20 Jul 2026 13:48:46 +0800",
+  "generated_at": "2026-07-21 13:29:19",
+  "generated_rfc2822": "Tue, 21 Jul 2026 13:29:19 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-19",
-      "home_url": "https://www.geekpark.net/news/367531"
+      "last_accessible": "2026-07-20",
+      "home_url": "https://www.geekpark.net/news/367655"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "Utopai PAI 2.0 出圈，好莱坞顶流导演用 AI 拍出 3 分钟大片！",
+      "summary": "Utopai Studios 发布 PAI 2.0 模型，探索 AI 影视「技术+内容」双轮驱动模式",
+      "url": "https://www.geekpark.net/news/367655",
+      "published_at": "2026-07-20 14:41:01",
+      "tags": [
+        "Utopai",
+        "PAI 2.0",
+        "PJ Ace"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "WAIC 全场少见：极智嘉交出兼顾泛化能力与作业效率的答卷",
       "summary": "能把泛化能力与作业效率同时放进真实作业场景、端到端跑通全流程，极智嘉交出了一份有代表性的答卷。",
       "url": "https://www.geekpark.net/news/367531",
@@ -60,7 +77,7 @@
       "tags": [
         "极智嘉"
       ],
-      "priority": 92,
+      "priority": 86,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -75,7 +92,7 @@
       "tags": [
         "WAIC"
       ],
-      "priority": 91,
+      "priority": 86,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -90,7 +107,7 @@
       "tags": [
         "创业公司"
       ],
-      "priority": 91,
+      "priority": 85,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -106,7 +123,7 @@
         "阿里云",
         "AI"
       ],
-      "priority": 91,
+      "priority": 85,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -121,7 +138,7 @@
       "tags": [
         "AI"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -136,7 +153,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -151,7 +168,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -166,7 +183,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -184,7 +201,7 @@
         "AI组织",
         "AI Native"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -201,7 +218,7 @@
         "交互视频",
         "AI"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -216,7 +233,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -232,7 +249,7 @@
         "美团",
         "LongCat 顶尖人才校招"
       ],
-      "priority": 61,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -265,22 +282,6 @@
         "AI"
       ],
       "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Claude 又有意识了？不，它没有",
-      "summary": "一个可解释性工具，一套意识叙事。",
-      "url": "https://www.geekpark.net/news/367220",
-      "published_at": "2026-07-13 14:34:35",
-      "tags": [
-        "Anthropic",
-        "J-lens"
-      ],
-      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
