@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25 13:23:16",
-  "generated_rfc2822": "Sat, 25 Jul 2026 13:23:16 +0800",
+  "generated_at": "2026-07-26 13:40:19",
+  "generated_rfc2822": "Sun, 26 Jul 2026 13:40:19 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-24",
-      "home_url": "https://www.geekpark.net/news/367939"
+      "last_accessible": "2026-07-25",
+      "home_url": "https://www.geekpark.net/news/367974"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-24",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260724"
+      "last_accessible": "2026-07-25",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260725"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,52 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "Google 投资《后室》片方 A24：AI 最难学会的，是别急着优化",
+      "summary": "硅谷擅长消灭摩擦。可创作的麻烦在于，有些摩擦恰恰是作品长出判断的地方。",
+      "url": "https://www.geekpark.net/news/367974",
+      "published_at": "2026-07-25 23:55:53",
+      "tags": [
+        "Google"
+      ],
+      "priority": 92,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "黄仁勋站在 AI 产业的十字路口呐喊：力挺开源",
+      "summary": "老黄第一条推文，不是为了刷存在感，而是产业求救信号。",
+      "url": "https://www.geekpark.net/news/367973",
+      "published_at": "2026-07-25 23:43:27",
+      "tags": [
+        "AI",
+        "黄仁勋"
+      ],
+      "priority": 92,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月25日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260725",
+      "published_at": "2026-07-25 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 79,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "从「视觉生成」到「世界生成」：智象未来三个月融资超 21 亿，跻身独角兽",
       "summary": "从视觉理解到生成世界，这条路他们走了二十多年。",
       "url": "https://www.geekpark.net/news/367939",
@@ -62,7 +108,7 @@
         "AI",
         "多模态大模型"
       ],
-      "priority": 90,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +124,7 @@
         "Kimi K3",
         "Kimi Delta Attention"
       ],
-      "priority": 81,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +141,7 @@
         "飞书深诺",
         "出海营销"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +156,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,7 +173,7 @@
         "视频播客",
         "AI传播"
       ],
-      "priority": 85,
+      "priority": 79,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -143,7 +189,7 @@
         "AI Agent",
         "AI支付"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -158,7 +204,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -174,7 +220,7 @@
         "Hugging Face",
         "OpenAI"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -191,7 +237,7 @@
         "AI",
         "视频生成"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -208,7 +254,7 @@
         "家庭通用机器人",
         "机器人"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -223,39 +269,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "具身智能最大的幻觉，是先把人拿掉",
-      "summary": "从人的动作、目标图像、真机数据，到分频控制与云端基础设施，具身智能正在进入新的阶段。",
-      "url": "https://www.geekpark.net/news/367775",
-      "published_at": "2026-07-21 18:19:11",
-      "tags": [
-        "腾讯",
-        "钛螺丝",
-        "具身智能"
-      ],
-      "priority": 65,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Meshy 公布估值超百亿，下一步进军实时互动的多模态内容体验",
-      "summary": "​营收爆发增长后，Meshy 成全球估值最高的 AI 3D 公司。",
-      "url": "https://www.geekpark.net/news/367774",
-      "published_at": "2026-07-21 18:11:16",
-      "tags": [
-        "Meshy"
-      ],
-      "priority": 73,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -270,7 +284,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -285,7 +299,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -402,21 +416,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260712",
       "published_at": "2026-07-12 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月11日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260711",
-      "published_at": "2026-07-11 10:00:00",
       "tags": [
         "知识库精选"
       ],
