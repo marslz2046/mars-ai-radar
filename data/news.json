@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26 13:40:19",
-  "generated_rfc2822": "Sun, 26 Jul 2026 13:40:19 +0800",
+  "generated_at": "2026-07-27 13:59:14",
+  "generated_rfc2822": "Mon, 27 Jul 2026 13:59:14 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-25",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260725"
+      "last_accessible": "2026-07-26",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260726"
     },
     {
       "id": "huangshu",
@@ -50,6 +50,21 @@
   ],
   "items": [
     {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月26日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260726",
+      "published_at": "2026-07-26 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 79,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
@@ -60,7 +75,7 @@
       "tags": [
         "Google"
       ],
-      "priority": 92,
+      "priority": 86,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -76,7 +91,7 @@
         "AI",
         "黄仁勋"
       ],
-      "priority": 92,
+      "priority": 86,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -91,7 +106,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -108,7 +123,7 @@
         "AI",
         "多模态大模型"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -124,7 +139,7 @@
         "Kimi K3",
         "Kimi Delta Attention"
       ],
-      "priority": 75,
+      "priority": 69,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -141,7 +156,7 @@
         "飞书深诺",
         "出海营销"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -156,7 +171,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -173,7 +188,7 @@
         "视频播客",
         "AI传播"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -189,7 +204,7 @@
         "AI Agent",
         "AI支付"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -204,7 +219,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -220,7 +235,7 @@
         "Hugging Face",
         "OpenAI"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -237,7 +252,7 @@
         "AI",
         "视频生成"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -254,7 +269,7 @@
         "家庭通用机器人",
         "机器人"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -269,7 +284,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -284,7 +299,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -401,21 +416,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260713",
       "published_at": "2026-07-13 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月12日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260712",
-      "published_at": "2026-07-12 10:00:00",
       "tags": [
         "知识库精选"
       ],

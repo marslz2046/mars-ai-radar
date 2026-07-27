@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26 13:40:19",
+  "generated_at": "2026-07-27 13:59:14",
   "ok": true,
   "failed_sites": {},
   "source_counts": {
@@ -32,8 +32,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-25",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260725"
+      "last_accessible": "2026-07-26",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260726"
     },
     {
       "id": "huangshu",
