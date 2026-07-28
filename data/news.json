@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27 13:59:14",
-  "generated_rfc2822": "Mon, 27 Jul 2026 13:59:14 +0800",
+  "generated_at": "2026-07-28 13:24:13",
+  "generated_rfc2822": "Tue, 28 Jul 2026 13:24:13 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-25",
-      "home_url": "https://www.geekpark.net/news/367974"
+      "last_accessible": "2026-07-27",
+      "home_url": "https://www.geekpark.net/news/368018"
     },
     {
       "id": "xiaohu",
@@ -50,6 +50,39 @@
   ],
   "items": [
     {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "能实时改变的剧情、会行动的 AI 角色，Vivix 灵动时刻正式发布首个实时互动模型",
+      "summary": "从生成一段视频，到生成一场互动。",
+      "url": "https://www.geekpark.net/news/368018",
+      "published_at": "2026-07-27 14:46:48",
+      "tags": [
+        "Vivix",
+        "Vivix-Turbo",
+        "视频生成模型"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "OpenAI 和 Anthropic，正在砸钱抢这个市场",
+      "summary": "Token 不赚钱，交个教师朋友。",
+      "url": "https://www.geekpark.net/news/368019",
+      "published_at": "2026-07-27 14:39:34",
+      "tags": [
+        "Anthropic",
+        "AI 教育产品"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -60,7 +93,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -75,7 +108,7 @@
       "tags": [
         "Google"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -91,7 +124,7 @@
         "AI",
         "黄仁勋"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -106,7 +139,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -123,7 +156,7 @@
         "AI",
         "多模态大模型"
       ],
-      "priority": 77,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -139,7 +172,7 @@
         "Kimi K3",
         "Kimi Delta Attention"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -156,7 +189,7 @@
         "飞书深诺",
         "出海营销"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -171,7 +204,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -188,7 +221,7 @@
         "视频播客",
         "AI传播"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -204,7 +237,7 @@
         "AI Agent",
         "AI支付"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -219,7 +252,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -235,41 +268,7 @@
         "Hugging Face",
         "OpenAI"
       ],
-      "priority": 66,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "深度体验 LibTV Agent：忘记工具，进入 AI 创作的心流",
-      "summary": "开始忘记软件以后，创作才真正开始。",
-      "url": "https://www.geekpark.net/news/367815",
-      "published_at": "2026-07-22 16:20:54",
-      "tags": [
-        "LibTV",
-        "AI",
-        "视频生成"
-      ],
-      "priority": 66,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "「未来不远机器人」完成近 10 亿元融资，创家庭通用机器人新纪录",
-      "summary": "家庭具身智能的规模化落地前夜。",
-      "url": "https://www.geekpark.net/news/367817",
-      "published_at": "2026-07-22 16:18:30",
-      "tags": [
-        "未来不远",
-        "家庭通用机器人",
-        "机器人"
-      ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -284,7 +283,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
