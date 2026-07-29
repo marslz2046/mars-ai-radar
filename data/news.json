@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28 13:24:13",
-  "generated_rfc2822": "Tue, 28 Jul 2026 13:24:13 +0800",
+  "generated_at": "2026-07-29 13:30:42",
+  "generated_rfc2822": "Wed, 29 Jul 2026 13:30:42 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-27",
-      "home_url": "https://www.geekpark.net/news/368018"
+      "last_accessible": "2026-07-28",
+      "home_url": "https://www.geekpark.net/news/368088"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,22 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "为什么美国做不出顶尖开源模型？",
+      "summary": "钱、人才都不缺，问题出在结构上。",
+      "url": "https://www.geekpark.net/news/368088",
+      "published_at": "2026-07-28 15:38:00",
+      "tags": [
+        "AI 模型",
+        "OpenAI"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "能实时改变的剧情、会行动的 AI 角色，Vivix 灵动时刻正式发布首个实时互动模型",
       "summary": "从生成一段视频，到生成一场互动。",
       "url": "https://www.geekpark.net/news/368018",
@@ -62,7 +78,7 @@
         "Vivix-Turbo",
         "视频生成模型"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +94,7 @@
         "Anthropic",
         "AI 教育产品"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +109,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -108,7 +124,7 @@
       "tags": [
         "Google"
       ],
-      "priority": 80,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -124,7 +140,7 @@
         "AI",
         "黄仁勋"
       ],
-      "priority": 80,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -139,7 +155,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -156,7 +172,7 @@
         "AI",
         "多模态大模型"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -172,7 +188,7 @@
         "Kimi K3",
         "Kimi Delta Attention"
       ],
-      "priority": 63,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -189,7 +205,7 @@
         "飞书深诺",
         "出海营销"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -204,7 +220,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -221,7 +237,7 @@
         "视频播客",
         "AI传播"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -237,7 +253,7 @@
         "AI Agent",
         "AI支付"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -252,23 +268,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "一次测试，逼 OpenAI 最高模型，黑进了全球最大 AI 开源平台",
-      "summary": "AI 安全领域最魔幻的一周。",
-      "url": "https://www.geekpark.net/news/367818",
-      "published_at": "2026-07-22 16:24:14",
-      "tags": [
-        "Hugging Face",
-        "OpenAI"
-      ],
-      "priority": 60,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
