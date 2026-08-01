@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31 13:44:43",
-  "generated_rfc2822": "Fri, 31 Jul 2026 13:44:43 +0800",
+  "generated_at": "2026-08-01 13:35:00",
+  "generated_rfc2822": "Sat, 01 Aug 2026 13:35:00 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-30",
-      "home_url": "https://www.geekpark.net/news/368187"
+      "last_accessible": "2026-07-31",
+      "home_url": "https://www.geekpark.net/news/368267"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-29",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260729"
+      "last_accessible": "2026-07-31",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260731"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,37 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "AIGC 的中场，我们需要创作领域的「Codex」",
+      "summary": "AI 在实现更多人的创作需求，走向全民创造时代。",
+      "url": "https://www.geekpark.net/news/368267",
+      "published_at": "2026-07-31 18:07:42",
+      "tags": [
+        "TapNow",
+        "影视飓风"
+      ],
+      "priority": 91,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月31日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260731",
+      "published_at": "2026-07-31 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 79,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "美国，封杀了中国扫地机",
       "summary": "不存在非中国产扫地机。",
       "url": "https://www.geekpark.net/news/368187",
@@ -60,7 +91,22 @@
       "tags": [
         "扫地机器人"
       ],
-      "priority": 82,
+      "priority": 76,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年7月30日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260730",
+      "published_at": "2026-07-30 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -76,7 +122,7 @@
         "硅谷 AI",
         "AI agent"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -91,7 +137,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -107,7 +153,7 @@
         "AI 模型",
         "OpenAI"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -122,7 +168,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -139,7 +185,7 @@
         "Vivix-Turbo",
         "视频生成模型"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -155,7 +201,7 @@
         "Anthropic",
         "AI 教育产品"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -170,7 +216,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -185,7 +231,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -200,7 +246,7 @@
       "tags": [
         "Google"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -216,7 +262,7 @@
         "AI",
         "黄仁勋"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -265,23 +311,6 @@
         "Kimi Delta Attention"
       ],
       "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "伪多 Agent 泛滥的出海圈，我们离真正的智能营销还差多远？",
-      "summary": "流量红利消逝，中国企业出海可以靠 Agent 破局吗？",
-      "url": "https://www.geekpark.net/news/367922",
-      "published_at": "2026-07-24 10:32:36",
-      "tags": [
-        "AI",
-        "飞书深诺",
-        "出海营销"
-      ],
-      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -383,36 +412,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260718",
       "published_at": "2026-07-18 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月17日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260717",
-      "published_at": "2026-07-17 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月16日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260716",
-      "published_at": "2026-07-16 10:00:00",
       "tags": [
         "知识库精选"
       ],
