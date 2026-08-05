@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04 13:23:46",
-  "generated_rfc2822": "Tue, 04 Aug 2026 13:23:46 +0800",
+  "generated_at": "2026-08-05 13:24:00",
+  "generated_rfc2822": "Wed, 05 Aug 2026 13:24:00 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-31",
-      "home_url": "https://www.geekpark.net/news/368267"
+      "last_accessible": "2026-08-04",
+      "home_url": "https://www.geekpark.net/news/368374"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-07-31",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260731"
+      "last_accessible": "2026-08-03",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260803"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,84 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "飞书并入豆包：字节跳动的一次目标重塑",
+      "summary": "AI 的出现，让组织生产力进入新的阶段，这也给了飞书一个新命题",
+      "url": "https://www.geekpark.net/news/368374",
+      "published_at": "2026-08-04 16:25:33",
+      "tags": [
+        "飞书",
+        "豆包",
+        "字节跳动"
+      ],
+      "priority": 82,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "互联网流量，崩塌了",
+      "summary": "每从 AI 助手获得一次答案，就有一个网站死了。",
+      "url": "https://www.geekpark.net/news/368373",
+      "published_at": "2026-08-04 16:21:26",
+      "tags": [
+        "AI",
+        "互联网"
+      ],
+      "priority": 82,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月3日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260803",
+      "published_at": "2026-08-03 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 73,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月2日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260802",
+      "published_at": "2026-08-02 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 67,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月1日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260801",
+      "published_at": "2026-08-01 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 61,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "AIGC 的中场，我们需要创作领域的「Codex」",
       "summary": "AI 在实现更多人的创作需求，走向全民创造时代。",
       "url": "https://www.geekpark.net/news/368267",
@@ -61,7 +139,7 @@
         "TapNow",
         "影视飓风"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -76,7 +154,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -91,7 +169,7 @@
       "tags": [
         "扫地机器人"
       ],
-      "priority": 58,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -106,7 +184,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -282,39 +360,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "从「视觉生成」到「世界生成」：智象未来三个月融资超 21 亿，跻身独角兽",
-      "summary": "从视觉理解到生成世界，这条路他们走了二十多年。",
-      "url": "https://www.geekpark.net/news/367939",
-      "published_at": "2026-07-24 13:38:18",
-      "tags": [
-        "智象未来",
-        "AI",
-        "多模态大模型"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Kimi K3，已经撕裂了整个硅谷",
-      "summary": "DeepSeek 之后，又一个中国模型让美国紧张了。",
-      "url": "https://www.geekpark.net/news/367921",
-      "published_at": "2026-07-24 10:34:23",
-      "tags": [
-        "Kimi K3",
-        "Kimi Delta Attention"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -367,51 +412,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260721",
       "published_at": "2026-07-21 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月20日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260720",
-      "published_at": "2026-07-20 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月19日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260719",
-      "published_at": "2026-07-19 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月18日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260718",
-      "published_at": "2026-07-18 10:00:00",
       "tags": [
         "知识库精选"
       ],
