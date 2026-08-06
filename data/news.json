@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05 13:24:00",
-  "generated_rfc2822": "Wed, 05 Aug 2026 13:24:00 +0800",
+  "generated_at": "2026-08-06 13:26:03",
+  "generated_rfc2822": "Thu, 06 Aug 2026 13:26:03 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-04",
-      "home_url": "https://www.geekpark.net/news/368374"
+      "last_accessible": "2026-08-05",
+      "home_url": "https://www.geekpark.net/news/368429"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-03",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260803"
+      "last_accessible": "2026-08-04",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260804"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,22 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "办公 Agent 爆火，模型大战进入下一阶段",
+      "summary": "模型大战，终究是入口和生态大战。",
+      "url": "https://www.geekpark.net/news/368429",
+      "published_at": "2026-08-05 16:42:08",
+      "tags": [
+        "千问办公",
+        "Agent"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "飞书并入豆包：字节跳动的一次目标重塑",
       "summary": "AI 的出现，让组织生产力进入新的阶段，这也给了飞书一个新命题",
       "url": "https://www.geekpark.net/news/368374",
@@ -62,7 +78,7 @@
         "豆包",
         "字节跳动"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +94,22 @@
         "AI",
         "互联网"
       ],
-      "priority": 82,
+      "priority": 76,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月4日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260804",
+      "published_at": "2026-08-04 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +124,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -108,7 +139,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -123,7 +154,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -139,7 +170,7 @@
         "TapNow",
         "影视飓风"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -154,7 +185,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -329,22 +360,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "黄仁勋站在 AI 产业的十字路口呐喊：力挺开源",
-      "summary": "老黄第一条推文，不是为了刷存在感，而是产业求救信号。",
-      "url": "https://www.geekpark.net/news/367973",
-      "published_at": "2026-07-25 23:43:27",
-      "tags": [
-        "AI",
-        "黄仁勋"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -397,21 +412,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260722",
       "published_at": "2026-07-22 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月21日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260721",
-      "published_at": "2026-07-21 10:00:00",
       "tags": [
         "知识库精选"
       ],
