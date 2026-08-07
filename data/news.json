@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06 13:26:03",
-  "generated_rfc2822": "Thu, 06 Aug 2026 13:26:03 +0800",
+  "generated_at": "2026-08-07 12:31:49",
+  "generated_rfc2822": "Fri, 07 Aug 2026 12:31:49 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -61,7 +61,7 @@
         "千问办公",
         "Agent"
       ],
-      "priority": 90,
+      "priority": 85,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +78,7 @@
         "豆包",
         "字节跳动"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -94,7 +94,7 @@
         "AI",
         "互联网"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -109,7 +109,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -124,7 +124,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -139,7 +139,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -154,7 +154,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -170,7 +170,7 @@
         "TapNow",
         "影视飓风"
       ],
-      "priority": 61,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
