@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07 12:31:49",
-  "generated_rfc2822": "Fri, 07 Aug 2026 12:31:49 +0800",
+  "generated_at": "2026-08-08 11:41:54",
+  "generated_rfc2822": "Sat, 08 Aug 2026 11:41:54 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-05",
-      "home_url": "https://www.geekpark.net/news/368429"
+      "last_accessible": "2026-08-07",
+      "home_url": "https://www.geekpark.net/news/368556"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-04",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260804"
+      "last_accessible": "2026-08-06",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260806"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,53 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "DeepSeek 的「斩杀线」，正在重塑 AI 行业的世界观",
+      "summary": "不要为极致的便宜而欢呼，「稳定的平衡」才是行业发展的本质。",
+      "url": "https://www.geekpark.net/news/368556",
+      "published_at": "2026-08-07 17:56:59",
+      "tags": [
+        "Deepseek",
+        "Agent"
+      ],
+      "priority": 91,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "打破机器人「数据焦虑」，穹彻智能想建一条「训练数据」生产线",
+      "summary": "对于具身智能行业而言，这不仅意味着一条数据处理产线效率的提升，更体现出机器人数据正在从「人工加工」走向「工业化生产」。",
+      "url": "https://www.geekpark.net/news/368553",
+      "published_at": "2026-08-07 17:40:17",
+      "tags": [
+        "阿里云",
+        "具身智能"
+      ],
+      "priority": 91,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月6日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260806",
+      "published_at": "2026-08-06 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 73,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "办公 Agent 爆火，模型大战进入下一阶段",
       "summary": "模型大战，终究是入口和生态大战。",
       "url": "https://www.geekpark.net/news/368429",
@@ -61,7 +108,22 @@
         "千问办公",
         "Agent"
       ],
-      "priority": 85,
+      "priority": 79,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月5日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260805",
+      "published_at": "2026-08-05 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +140,7 @@
         "豆包",
         "字节跳动"
       ],
-      "priority": 70,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -94,7 +156,7 @@
         "AI",
         "互联网"
       ],
-      "priority": 70,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -109,7 +171,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -124,7 +186,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -139,7 +201,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -299,22 +361,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "OpenAI 和 Anthropic，正在砸钱抢这个市场",
-      "summary": "Token 不赚钱，交个教师朋友。",
-      "url": "https://www.geekpark.net/news/368019",
-      "published_at": "2026-07-27 14:39:34",
-      "tags": [
-        "Anthropic",
-        "AI 教育产品"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -345,21 +391,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Google 投资《后室》片方 A24：AI 最难学会的，是别急着优化",
-      "summary": "硅谷擅长消灭摩擦。可创作的麻烦在于，有些摩擦恰恰是作品长出判断的地方。",
-      "url": "https://www.geekpark.net/news/367974",
-      "published_at": "2026-07-25 23:55:53",
-      "tags": [
-        "Google"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -382,36 +413,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260724",
       "published_at": "2026-07-24 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月23日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260723",
-      "published_at": "2026-07-23 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月22日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260722",
-      "published_at": "2026-07-22 10:00:00",
       "tags": [
         "知识库精选"
       ],
