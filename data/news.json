@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10 12:05:38",
-  "generated_rfc2822": "Mon, 10 Aug 2026 12:05:38 +0800",
+  "generated_at": "2026-08-11 11:53:39",
+  "generated_rfc2822": "Tue, 11 Aug 2026 11:53:39 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-07",
-      "home_url": "https://www.geekpark.net/news/368556"
+      "last_accessible": "2026-08-10",
+      "home_url": "https://www.geekpark.net/news/368638"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-07",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260807"
+      "last_accessible": "2026-08-09",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260809"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,69 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "语音成为 AI 关键入口，阿里一口气把全栈模型能力都拿出来了",
+      "summary": "语音 AI 的竞争赛道正在转向。",
+      "url": "https://www.geekpark.net/news/368638",
+      "published_at": "2026-08-10 20:41:27",
+      "tags": [
+        "阿里",
+        "CosyVoice Studio",
+        "AI语音"
+      ],
+      "priority": 92,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "顶尖 AI 人才，不敢结婚",
+      "summary": "被自己的造物逼入一场存在主义危机。",
+      "url": "https://www.geekpark.net/news/368625",
+      "published_at": "2026-08-10 16:32:52",
+      "tags": [
+        "AI",
+        "结婚"
+      ],
+      "priority": 91,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月9日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260809",
+      "published_at": "2026-08-09 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 73,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月8日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260808",
+      "published_at": "2026-08-08 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 67,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "DeepSeek 的「斩杀线」，正在重塑 AI 行业的世界观",
       "summary": "不要为极致的便宜而欢呼，「稳定的平衡」才是行业发展的本质。",
       "url": "https://www.geekpark.net/news/368556",
@@ -61,7 +124,7 @@
         "Deepseek",
         "Agent"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -77,7 +140,7 @@
         "阿里云",
         "具身智能"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -92,7 +155,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -107,7 +170,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -123,7 +186,7 @@
         "千问办公",
         "Agent"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -138,7 +201,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -155,7 +218,7 @@
         "豆包",
         "字节跳动"
       ],
-      "priority": 53,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -171,7 +234,7 @@
         "AI",
         "互联网"
       ],
-      "priority": 53,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -328,22 +391,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "为什么美国做不出顶尖开源模型？",
-      "summary": "钱、人才都不缺，问题出在结构上。",
-      "url": "https://www.geekpark.net/news/368088",
-      "published_at": "2026-07-28 15:38:00",
-      "tags": [
-        "AI 模型",
-        "OpenAI"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -359,23 +406,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "能实时改变的剧情、会行动的 AI 角色，Vivix 灵动时刻正式发布首个实时互动模型",
-      "summary": "从生成一段视频，到生成一场互动。",
-      "url": "https://www.geekpark.net/news/368018",
-      "published_at": "2026-07-27 14:46:48",
-      "tags": [
-        "Vivix",
-        "Vivix-Turbo",
-        "视频生成模型"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -383,36 +413,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260727",
       "published_at": "2026-07-27 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月26日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260726",
-      "published_at": "2026-07-26 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月25日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260725",
-      "published_at": "2026-07-25 10:00:00",
       "tags": [
         "知识库精选"
       ],
