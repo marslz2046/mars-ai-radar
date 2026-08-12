@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11 11:53:39",
-  "generated_rfc2822": "Tue, 11 Aug 2026 11:53:39 +0800",
+  "generated_at": "2026-08-12 12:16:28",
+  "generated_rfc2822": "Wed, 12 Aug 2026 12:16:28 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-10",
-      "home_url": "https://www.geekpark.net/news/368638"
+      "last_accessible": "2026-08-11",
+      "home_url": "https://www.geekpark.net/news/368690"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,71 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "AI 硬件都在做加法，阅星曈靠一块「减法屏」拿下近 5000 万融资",
+      "summary": "手机背后的注意力空间。",
+      "url": "https://www.geekpark.net/news/368690",
+      "published_at": "2026-08-11 21:00:26",
+      "tags": [
+        "阅星曈",
+        "AI硬件",
+        "手机背屏"
+      ],
+      "priority": 92,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "对话格式塔彭雷：AI 的下一站，是解读人的大脑",
+      "summary": "脑机接口从意念控制光标走向更大范围的大脑读写。",
+      "url": "https://www.geekpark.net/news/368694",
+      "published_at": "2026-08-11 21:00:08",
+      "tags": [
+        "脑机接口",
+        "AI",
+        "格式塔"
+      ],
+      "priority": 92,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
+      "summary": "从 SLAM 的空间计算到世界模型的空间智能，数据上的根本性突破，到底从何而来。",
+      "url": "https://www.geekpark.net/news/368667",
+      "published_at": "2026-08-11 15:30:55",
+      "tags": [
+        "影溯科技"
+      ],
+      "priority": 82,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "Seedance 2.5 上线后，LibTV 先帮创作者「学会」了新模型",
+      "summary": "模型能力决定视频的上限，但工作流决定创意兑现的效率、确定性和成本。",
+      "url": "https://www.geekpark.net/news/368665",
+      "published_at": "2026-08-11 15:21:37",
+      "tags": [
+        "LibTV",
+        "AI短剧"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "语音成为 AI 关键入口，阿里一口气把全栈模型能力都拿出来了",
       "summary": "语音 AI 的竞争赛道正在转向。",
       "url": "https://www.geekpark.net/news/368638",
@@ -62,7 +127,7 @@
         "CosyVoice Studio",
         "AI语音"
       ],
-      "priority": 92,
+      "priority": 86,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +143,7 @@
         "AI",
         "结婚"
       ],
-      "priority": 91,
+      "priority": 85,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +158,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -108,7 +173,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -124,7 +189,7 @@
         "Deepseek",
         "Agent"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -140,7 +205,7 @@
         "阿里云",
         "具身智能"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -155,7 +220,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -170,7 +235,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -186,7 +251,7 @@
         "千问办公",
         "Agent"
       ],
-      "priority": 61,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -217,22 +282,6 @@
         "飞书",
         "豆包",
         "字节跳动"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "互联网流量，崩塌了",
-      "summary": "每从 AI 助手获得一次答案，就有一个网站死了。",
-      "url": "https://www.geekpark.net/news/368373",
-      "published_at": "2026-08-04 16:21:26",
-      "tags": [
-        "AI",
-        "互联网"
       ],
       "priority": 52,
       "ai_relevance": "strong",
@@ -299,22 +348,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "AIGC 的中场，我们需要创作领域的「Codex」",
-      "summary": "AI 在实现更多人的创作需求，走向全民创造时代。",
-      "url": "https://www.geekpark.net/news/368267",
-      "published_at": "2026-07-31 18:07:42",
-      "tags": [
-        "TapNow",
-        "影视飓风"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -330,21 +363,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "美国，封杀了中国扫地机",
-      "summary": "不存在非中国产扫地机。",
-      "url": "https://www.geekpark.net/news/368187",
-      "published_at": "2026-07-30 17:13:12",
-      "tags": [
-        "扫地机器人"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -356,22 +374,6 @@
         "知识库精选"
       ],
       "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "硅谷的「AI 加速精英」，开始真正担心他们造出了「天网」",
-      "summary": "千人 AI 精英，在线请愿。",
-      "url": "https://www.geekpark.net/news/368144",
-      "published_at": "2026-07-29 16:04:42",
-      "tags": [
-        "硅谷 AI",
-        "AI agent"
-      ],
-      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
