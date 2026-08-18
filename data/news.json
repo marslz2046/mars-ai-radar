@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17 11:11:36",
-  "generated_rfc2822": "Mon, 17 Aug 2026 11:11:36 +0800",
+  "generated_at": "2026-08-18 11:07:06",
+  "generated_rfc2822": "Tue, 18 Aug 2026 11:07:06 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-15",
-      "home_url": "https://www.geekpark.net/news/368852"
+      "last_accessible": "2026-08-17",
+      "home_url": "https://www.geekpark.net/news/368897"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,37 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "被 AI 碾压 30 年后，人们重新爱上了下棋",
+      "summary": "游戏不是为了奖励，游戏本身就是奖励。",
+      "url": "https://www.geekpark.net/news/368897",
+      "published_at": "2026-08-17 13:54:45",
+      "tags": [
+        "国际象棋",
+        "AI"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注",
+      "summary": "机器人的大聚会，我们带着五个问题去。",
+      "url": "https://www.geekpark.net/news/368887",
+      "published_at": "2026-08-17 11:28:54",
+      "tags": [
+        "世界机器人大会"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "3 个月烧掉 105 亿，腾讯急了",
       "summary": "腾讯的 AI 确实跑得更快了，但也开始更贵了。",
       "url": "https://www.geekpark.net/news/368852",
@@ -62,7 +93,7 @@
         "混元",
         "workbuddy"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +110,7 @@
         "腾讯",
         "AI"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +126,7 @@
         "阿里云",
         "智能驾驶"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -112,7 +143,7 @@
         "V4 Pro",
         "API"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,7 +158,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -143,7 +174,7 @@
         "GenOffice",
         "景鲲"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -160,7 +191,7 @@
         "AI 接口",
         "AI收费"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -175,7 +206,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -192,7 +223,7 @@
         "AI硬件",
         "手机背屏"
       ],
-      "priority": 62,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -209,38 +240,7 @@
         "AI",
         "格式塔"
       ],
-      "priority": 62,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
-      "summary": "从 SLAM 的空间计算到世界模型的空间智能，数据上的根本性突破，到底从何而来。",
-      "url": "https://www.geekpark.net/news/368667",
-      "published_at": "2026-08-11 15:30:55",
-      "tags": [
-        "影溯科技"
-      ],
-      "priority": 53,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Seedance 2.5 上线后，LibTV 先帮创作者「学会」了新模型",
-      "summary": "模型能力决定视频的上限，但工作流决定创意兑现的效率、确定性和成本。",
-      "url": "https://www.geekpark.net/news/368665",
-      "published_at": "2026-08-11 15:21:37",
-      "tags": [
-        "LibTV",
-        "AI短剧"
-      ],
-      "priority": 61,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
