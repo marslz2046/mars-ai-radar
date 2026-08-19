@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18 11:07:06",
-  "generated_rfc2822": "Tue, 18 Aug 2026 11:07:06 +0800",
+  "generated_at": "2026-08-19 11:09:39",
+  "generated_rfc2822": "Wed, 19 Aug 2026 11:09:39 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -61,7 +61,7 @@
         "国际象棋",
         "AI"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -76,7 +76,7 @@
       "tags": [
         "世界机器人大会"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +93,7 @@
         "混元",
         "workbuddy"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +110,7 @@
         "腾讯",
         "AI"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -126,7 +126,7 @@
         "阿里云",
         "智能驾驶"
       ],
-      "priority": 65,
+      "priority": 59,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -143,7 +143,7 @@
         "V4 Pro",
         "API"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -158,7 +158,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -174,7 +174,7 @@
         "GenOffice",
         "景鲲"
       ],
-      "priority": 61,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -191,7 +191,7 @@
         "AI 接口",
         "AI收费"
       ],
-      "priority": 61,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
