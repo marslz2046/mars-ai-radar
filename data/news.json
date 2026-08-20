@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19 11:09:39",
-  "generated_rfc2822": "Wed, 19 Aug 2026 11:09:39 +0800",
+  "generated_at": "2026-08-20 11:08:58",
+  "generated_rfc2822": "Thu, 20 Aug 2026 11:08:58 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-17",
-      "home_url": "https://www.geekpark.net/news/368897"
+      "last_accessible": "2026-08-19",
+      "home_url": "https://www.geekpark.net/news/369051"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-13",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260813"
+      "last_accessible": "2026-08-18",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260818"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,36 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线",
+      "summary": "宇树的下一张牌，是搭起一套系统，让全球 AI 的持续进步，转化为机器人不断加快的进化速度。",
+      "url": "https://www.geekpark.net/news/369051",
+      "published_at": "2026-08-19 20:29:50",
+      "tags": [
+        "宇树科技"
+      ],
+      "priority": 84,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月18日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260818",
+      "published_at": "2026-08-18 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 73,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "被 AI 碾压 30 年后，人们重新爱上了下棋",
       "summary": "游戏不是为了奖励，游戏本身就是奖励。",
       "url": "https://www.geekpark.net/news/368897",
@@ -61,7 +91,7 @@
         "国际象棋",
         "AI"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -76,7 +106,22 @@
       "tags": [
         "世界机器人大会"
       ],
-      "priority": 84,
+      "priority": 78,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月16日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260816",
+      "published_at": "2026-08-16 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +138,7 @@
         "混元",
         "workbuddy"
       ],
-      "priority": 65,
+      "priority": 59,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +155,7 @@
         "腾讯",
         "AI"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -126,7 +171,7 @@
         "阿里云",
         "智能驾驶"
       ],
-      "priority": 59,
+      "priority": 53,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -143,7 +188,7 @@
         "V4 Pro",
         "API"
       ],
-      "priority": 61,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -222,23 +267,6 @@
         "阅星曈",
         "AI硬件",
         "手机背屏"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "对话格式塔彭雷：AI 的下一站，是解读人的大脑",
-      "summary": "脑机接口从意念控制光标走向更大范围的大脑读写。",
-      "url": "https://www.geekpark.net/news/368694",
-      "published_at": "2026-08-11 21:00:08",
-      "tags": [
-        "脑机接口",
-        "AI",
-        "格式塔"
       ],
       "priority": 60,
       "ai_relevance": "strong",
@@ -387,36 +415,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260802",
       "published_at": "2026-08-02 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月1日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260801",
-      "published_at": "2026-08-01 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年7月31日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260731",
-      "published_at": "2026-07-31 10:00:00",
       "tags": [
         "知识库精选"
       ],
