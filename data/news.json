@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23 11:13:35",
-  "generated_rfc2822": "Sun, 23 Aug 2026 11:13:35 +0800",
+  "generated_at": "2026-08-24 11:15:12",
+  "generated_rfc2822": "Mon, 24 Aug 2026 11:15:12 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-21",
-      "home_url": "https://www.geekpark.net/news/369201"
+      "last_accessible": "2026-08-23",
+      "home_url": "https://www.geekpark.net/news/369223"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,36 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻",
+      "summary": "如果物理 AI 也能 scaling，意味着什么？",
+      "url": "https://www.geekpark.net/news/369223",
+      "published_at": "2026-08-23 22:35:51",
+      "tags": [
+        "Genesis AI"
+      ],
+      "priority": 92,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
+      "summary": "从人形、轮式到重载，从家庭、零售到工业，银河星脑正在走进更多身体和真实场景。",
+      "url": "https://www.geekpark.net/news/369221",
+      "published_at": "2026-08-23 22:33:26",
+      "tags": [
+        "银河通用"
+      ],
+      "priority": 92,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了",
       "summary": "H3 已经足够强，为什么我们还需要 MiniMax Design？",
       "url": "https://www.geekpark.net/news/369201",
@@ -62,7 +92,7 @@
         "视频应用",
         "MiniMax"
       ],
-      "priority": 85,
+      "priority": 79,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +109,7 @@
         "Sota",
         "阿里云"
       ],
-      "priority": 85,
+      "priority": 79,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +126,7 @@
         "AI互动内容",
         "TikTok"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +143,7 @@
         "大模型",
         "AI"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -128,7 +158,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -143,7 +173,7 @@
       "tags": [
         "蚂蚁集团"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -158,7 +188,7 @@
       "tags": [
         "睡眠耳机"
       ],
-      "priority": 70,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -173,7 +203,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -188,7 +218,7 @@
       "tags": [
         "宇树科技"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -203,7 +233,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -218,7 +248,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -239,21 +269,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注",
-      "summary": "机器人的大聚会，我们带着五个问题去。",
-      "url": "https://www.geekpark.net/news/368887",
-      "published_at": "2026-08-17 11:28:54",
-      "tags": [
-        "世界机器人大会"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -265,23 +280,6 @@
         "知识库精选"
       ],
       "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "3 个月烧掉 105 亿，腾讯急了",
-      "summary": "腾讯的 AI 确实跑得更快了，但也开始更贵了。",
-      "url": "https://www.geekpark.net/news/368852",
-      "published_at": "2026-08-15 16:46:20",
-      "tags": [
-        "腾讯",
-        "混元",
-        "workbuddy"
-      ],
-      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
