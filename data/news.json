@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24 11:15:12",
-  "generated_rfc2822": "Mon, 24 Aug 2026 11:15:12 +0800",
+  "generated_at": "2026-08-26 11:16:29",
+  "generated_rfc2822": "Wed, 26 Aug 2026 11:16:29 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-23",
-      "home_url": "https://www.geekpark.net/news/369223"
+      "last_accessible": "2026-08-25",
+      "home_url": "https://www.geekpark.net/news/369344"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-21",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260821"
+      "last_accessible": "2026-08-23",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260823"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,140 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
+      "summary": "历史押韵而不重复，这一次，非共识面前无人敢「傲慢」。",
+      "url": "https://www.geekpark.net/news/369344",
+      "published_at": "2026-08-25 16:58:10",
+      "tags": [
+        "豆包办公",
+        "workbuddy",
+        "千问办公"
+      ],
+      "priority": 91,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "《有头有脸的大模型公司，集体搞起「匿名公测」》",
+      "summary": "渠道选对了，匿名本身就成了一种营销。",
+      "url": "https://www.geekpark.net/news/369324",
+      "published_at": "2026-08-25 13:14:40",
+      "tags": [
+        "智谱",
+        "匿名大模型",
+        "OpenRouter"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "130 亿美元，Hugging Face 要卖了",
+      "summary": "AI 的「中间层」被疯狂抢购。",
+      "url": "https://www.geekpark.net/news/369289",
+      "published_at": "2026-08-24 16:45:05",
+      "tags": [
+        "Hugging Face",
+        "130 亿",
+        "AI 生态"
+      ],
+      "priority": 77,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "年轻人的网络社交，正在偷偷「鸽化」",
+      "summary": "把「等待」，变成期待。",
+      "url": "https://www.geekpark.net/news/369290",
+      "published_at": "2026-08-24 16:43:37",
+      "tags": [
+        "慢社交",
+        "Carrier Pidge",
+        "鸽"
+      ],
+      "priority": 77,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球",
+      "summary": "一场特殊的网球比赛，一次数字智能向物理智能的跨越。",
+      "url": "https://www.geekpark.net/news/369283",
+      "published_at": "2026-08-24 15:25:24",
+      "tags": [
+        "智能机器人",
+        "多行业智能机器人",
+        "具身机器人"
+      ],
+      "priority": 85,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "AI 音乐走到「该怎么做」，中国大模型为啥选最难的路？",
+      "summary": "不做 Suno，选择 AI 音乐的另一条路。",
+      "url": "https://www.geekpark.net/news/369273",
+      "published_at": "2026-08-24 15:17:25",
+      "tags": [
+        "AI音乐",
+        "AI技术出海",
+        "AI工具"
+      ],
+      "priority": 85,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新",
+      "summary": "多模态也是「梁心」地板价。「鲸鱼睁眼了！」",
+      "url": "https://www.geekpark.net/news/369278",
+      "published_at": "2026-08-24 15:14:16",
+      "tags": [
+        "AI音乐",
+        "AI技术出海",
+        "AI工具"
+      ],
+      "priority": 84,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "形界智能：沿用两段式架构，是市场对 AI 实时视频的最大误判",
+      "summary": "投资人广撒网式布局，但真正的全域沉浸式生成，还少之又少。",
+      "url": "https://www.geekpark.net/news/369264",
+      "published_at": "2026-08-24 14:18:43",
+      "tags": [
+        "AI视频"
+      ],
+      "priority": 84,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻",
       "summary": "如果物理 AI 也能 scaling，意味着什么？",
       "url": "https://www.geekpark.net/news/369223",
@@ -60,7 +194,7 @@
       "tags": [
         "Genesis AI"
       ],
-      "priority": 92,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -75,75 +209,37 @@
       "tags": [
         "银河通用"
       ],
-      "priority": 92,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了",
-      "summary": "H3 已经足够强，为什么我们还需要 MiniMax Design？",
-      "url": "https://www.geekpark.net/news/369201",
-      "published_at": "2026-08-21 18:58:09",
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月23日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260823",
+      "published_at": "2026-08-23 10:00:00",
       "tags": [
-        "Claude3",
-        "视频应用",
-        "MiniMax"
+        "知识库精选"
       ],
-      "priority": 79,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
-      "summary": "SOTA 是能力，能被全世界用起来才是护城河。",
-      "url": "https://www.geekpark.net/news/369200",
-      "published_at": "2026-08-21 18:15:12",
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月22日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260822",
+      "published_at": "2026-08-22 10:00:00",
       "tags": [
-        "大模型",
-        "Sota",
-        "阿里云"
+        "知识库精选"
       ],
-      "priority": 79,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资",
-      "summary": "把 AI 视频生成变成一种轻量的社交动作。",
-      "url": "https://www.geekpark.net/news/369162",
-      "published_at": "2026-08-21 14:15:33",
-      "tags": [
-        "Wapoo",
-        "AI互动内容",
-        "TikTok"
-      ],
-      "priority": 78,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座",
-      "summary": "长期依赖外部模型，不是最好的选择。",
-      "url": "https://www.geekpark.net/news/369161",
-      "published_at": "2026-08-21 14:12:45",
-      "tags": [
-        "小红书",
-        "大模型",
-        "AI"
-      ],
-      "priority": 78,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -158,37 +254,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "「广告位」时代已死，智能体商业开收「中介费」",
-      "summary": "谁拿到你下单前的意图，谁就是下一个超级平台。",
-      "url": "https://www.geekpark.net/news/369078",
-      "published_at": "2026-08-20 11:26:08",
-      "tags": [
-        "蚂蚁集团"
-      ],
-      "priority": 72,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "睡觉时往脑袋上通电，4000 个美国人抢着买单",
-      "summary": "这届印度创业者，用「电击助眠」卖爆了美国众筹。",
-      "url": "https://www.geekpark.net/news/369077",
-      "published_at": "2026-08-20 11:14:57",
-      "tags": [
-        "睡眠耳机"
-      ],
-      "priority": 63,
+      "priority": 55,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -203,22 +269,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线",
-      "summary": "宇树的下一张牌，是搭起一套系统，让全球 AI 的持续进步，转化为机器人不断加快的进化速度。",
-      "url": "https://www.geekpark.net/news/369051",
-      "published_at": "2026-08-19 20:29:50",
-      "tags": [
-        "宇树科技"
-      ],
-      "priority": 60,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -233,7 +284,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -249,22 +300,6 @@
         "知识库精选"
       ],
       "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "被 AI 碾压 30 年后，人们重新爱上了下棋",
-      "summary": "游戏不是为了奖励，游戏本身就是奖励。",
-      "url": "https://www.geekpark.net/news/368897",
-      "published_at": "2026-08-17 13:54:45",
-      "tags": [
-        "国际象棋",
-        "AI"
-      ],
-      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -381,36 +416,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260807",
       "published_at": "2026-08-07 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月6日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260806",
-      "published_at": "2026-08-06 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月5日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260805",
-      "published_at": "2026-08-05 10:00:00",
       "tags": [
         "知识库精选"
       ],
