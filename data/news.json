@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26 11:16:29",
-  "generated_rfc2822": "Wed, 26 Aug 2026 11:16:29 +0800",
+  "generated_at": "2026-08-27 20:45:36",
+  "generated_rfc2822": "Thu, 27 Aug 2026 20:45:36 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-25",
-      "home_url": "https://www.geekpark.net/news/369344"
+      "last_accessible": "2026-08-27",
+      "home_url": "https://www.geekpark.net/news/369463"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-23",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260823"
+      "last_accessible": "2026-08-26",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260826"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,88 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "影响了两代人后，Meta 被判赔 180 亿美元",
+      "summary": "社交媒体，迎来了自己的「烟草时刻」。",
+      "url": "https://www.geekpark.net/news/369463",
+      "published_at": "2026-08-27 15:33:48",
+      "tags": [
+        "Meta",
+        "社交媒体",
+        "科技公司"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "129 亿美元，英伟达拿下 Hugging Face",
+      "summary": "芯片巨头，开始抢「分发权」了。",
+      "url": "https://www.geekpark.net/news/369458",
+      "published_at": "2026-08-27 15:09:02",
+      "tags": [
+        "英伟达",
+        "并购",
+        "具身智能"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
+      "summary": "AI to B，要真的能「救火」。",
+      "url": "https://www.geekpark.net/news/369401",
+      "published_at": "2026-08-26 16:02:33",
+      "tags": [
+        "阿里云",
+        "阿里巴巴",
+        "AI Agent"
+      ],
+      "priority": 88,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
+      "summary": "已于近日完成近亿元首轮融资，由顺为资本、联想创投联合投资。",
+      "url": "https://www.geekpark.net/news/369395",
+      "published_at": "2026-08-26 15:10:12",
+      "tags": [
+        "OJO",
+        "剪映"
+      ],
+      "priority": 88,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月26日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260826",
+      "published_at": "2026-08-26 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 77,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
       "summary": "历史押韵而不重复，这一次，非共识面前无人敢「傲慢」。",
       "url": "https://www.geekpark.net/news/369344",
@@ -62,7 +144,7 @@
         "workbuddy",
         "千问办公"
       ],
-      "priority": 91,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +161,22 @@
         "匿名大模型",
         "OpenRouter"
       ],
-      "priority": 90,
+      "priority": 82,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月25日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260825",
+      "published_at": "2026-08-25 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +193,7 @@
         "130 亿",
         "AI 生态"
       ],
-      "priority": 77,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +210,7 @@
         "Carrier Pidge",
         "鸽"
       ],
-      "priority": 77,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +227,7 @@
         "多行业智能机器人",
         "具身机器人"
       ],
-      "priority": 85,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,69 +244,22 @@
         "AI技术出海",
         "AI工具"
       ],
-      "priority": 85,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新",
-      "summary": "多模态也是「梁心」地板价。「鲸鱼睁眼了！」",
-      "url": "https://www.geekpark.net/news/369278",
-      "published_at": "2026-08-24 15:14:16",
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月24日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260824",
+      "published_at": "2026-08-24 10:00:00",
       "tags": [
-        "AI音乐",
-        "AI技术出海",
-        "AI工具"
+        "知识库精选"
       ],
-      "priority": 84,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "形界智能：沿用两段式架构，是市场对 AI 实时视频的最大误判",
-      "summary": "投资人广撒网式布局，但真正的全域沉浸式生成，还少之又少。",
-      "url": "https://www.geekpark.net/news/369264",
-      "published_at": "2026-08-24 14:18:43",
-      "tags": [
-        "AI视频"
-      ],
-      "priority": 84,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻",
-      "summary": "如果物理 AI 也能 scaling，意味着什么？",
-      "url": "https://www.geekpark.net/news/369223",
-      "published_at": "2026-08-23 22:35:51",
-      "tags": [
-        "Genesis AI"
-      ],
-      "priority": 80,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
-      "summary": "从人形、轮式到重载，从家庭、零售到工业，银河星脑正在走进更多身体和真实场景。",
-      "url": "https://www.geekpark.net/news/369221",
-      "published_at": "2026-08-23 22:33:26",
-      "tags": [
-        "银河通用"
-      ],
-      "priority": 80,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -224,7 +274,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 67,
+      "priority": 59,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -239,7 +289,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 61,
+      "priority": 53,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -254,7 +304,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 55,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -371,51 +421,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260810",
       "published_at": "2026-08-10 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月9日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260809",
-      "published_at": "2026-08-09 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月8日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260808",
-      "published_at": "2026-08-08 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月7日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260807",
-      "published_at": "2026-08-07 10:00:00",
       "tags": [
         "知识库精选"
       ],
