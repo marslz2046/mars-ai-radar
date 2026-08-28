@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27 20:45:36",
-  "generated_rfc2822": "Thu, 27 Aug 2026 20:45:36 +0800",
+  "generated_at": "2026-08-28 22:19:24",
+  "generated_rfc2822": "Fri, 28 Aug 2026 22:19:24 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-27",
-      "home_url": "https://www.geekpark.net/news/369463"
+      "last_accessible": "2026-08-28",
+      "home_url": "https://www.geekpark.net/news/369547"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-26",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260826"
+      "last_accessible": "2026-08-27",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260827"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,37 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "Coding 自由之后，人开始成为最大的瓶颈",
+      "summary": "编程门槛被 AI 消解，Demo 易得，创造的瓶颈重新回归人本身。",
+      "url": "https://www.geekpark.net/news/369547",
+      "published_at": "2026-08-28 21:02:58",
+      "tags": [
+        "TRAE AI 创造力大赛",
+        "AI Coding"
+      ],
+      "priority": 87,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」",
+      "summary": "机器人世界模型的下一场竞争，可能不是画质，是架构。",
+      "url": "https://www.geekpark.net/news/369508",
+      "published_at": "2026-08-28 13:10:32",
+      "tags": [
+        "自变量"
+      ],
+      "priority": 93,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "影响了两代人后，Meta 被判赔 180 亿美元",
       "summary": "社交媒体，迎来了自己的「烟草时刻」。",
       "url": "https://www.geekpark.net/news/369463",
@@ -62,7 +93,7 @@
         "社交媒体",
         "科技公司"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +110,22 @@
         "并购",
         "具身智能"
       ],
-      "priority": 86,
+      "priority": 80,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月27日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260827",
+      "published_at": "2026-08-27 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +142,7 @@
         "阿里巴巴",
         "AI Agent"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -112,7 +158,7 @@
         "OJO",
         "剪映"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,7 +173,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -144,7 +190,7 @@
         "workbuddy",
         "千问办公"
       ],
-      "priority": 83,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -161,7 +207,7 @@
         "匿名大模型",
         "OpenRouter"
       ],
-      "priority": 82,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -176,7 +222,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -193,7 +239,7 @@
         "130 亿",
         "AI 生态"
       ],
-      "priority": 68,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -210,41 +256,7 @@
         "Carrier Pidge",
         "鸽"
       ],
-      "priority": 68,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球",
-      "summary": "一场特殊的网球比赛，一次数字智能向物理智能的跨越。",
-      "url": "https://www.geekpark.net/news/369283",
-      "published_at": "2026-08-24 15:25:24",
-      "tags": [
-        "智能机器人",
-        "多行业智能机器人",
-        "具身机器人"
-      ],
-      "priority": 76,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "AI 音乐走到「该怎么做」，中国大模型为啥选最难的路？",
-      "summary": "不做 Suno，选择 AI 音乐的另一条路。",
-      "url": "https://www.geekpark.net/news/369273",
-      "published_at": "2026-08-24 15:17:25",
-      "tags": [
-        "AI音乐",
-        "AI技术出海",
-        "AI工具"
-      ],
-      "priority": 76,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -259,7 +271,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 65,
+      "priority": 58,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -274,7 +286,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 59,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -289,7 +301,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 53,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -406,21 +418,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260811",
       "published_at": "2026-08-11 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月10日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260810",
-      "published_at": "2026-08-10 10:00:00",
       "tags": [
         "知识库精选"
       ],
