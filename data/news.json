@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28 22:19:24",
-  "generated_rfc2822": "Fri, 28 Aug 2026 22:19:24 +0800",
+  "generated_at": "2026-08-29 17:00:26",
+  "generated_rfc2822": "Sat, 29 Aug 2026 17:00:26 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-28",
-      "home_url": "https://www.geekpark.net/news/369547"
+      "last_accessible": "2026-08-29",
+      "home_url": "https://www.geekpark.net/news/369550"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-27",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260827"
+      "last_accessible": "2026-08-28",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260828"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷",
+      "summary": "混元能否在持续迭代中站上第一梯队？",
+      "url": "https://www.geekpark.net/news/369550",
+      "published_at": "2026-08-29 13:58:53",
+      "tags": [
+        "腾讯",
+        "混元大模型",
+        "workbuddy"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "Coding 自由之后，人开始成为最大的瓶颈",
       "summary": "编程门槛被 AI 消解，Demo 易得，创造的瓶颈重新回归人本身。",
       "url": "https://www.geekpark.net/news/369547",
@@ -61,7 +78,7 @@
         "TRAE AI 创造力大赛",
         "AI Coding"
       ],
-      "priority": 87,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -76,7 +93,22 @@
       "tags": [
         "自变量"
       ],
-      "priority": 93,
+      "priority": 89,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年8月28日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260828",
+      "published_at": "2026-08-28 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +125,7 @@
         "社交媒体",
         "科技公司"
       ],
-      "priority": 80,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +142,7 @@
         "并购",
         "具身智能"
       ],
-      "priority": 80,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -125,7 +157,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 76,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -142,7 +174,7 @@
         "阿里巴巴",
         "AI Agent"
       ],
-      "priority": 82,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -158,7 +190,7 @@
         "OJO",
         "剪映"
       ],
-      "priority": 82,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -173,7 +205,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 70,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -190,7 +222,7 @@
         "workbuddy",
         "千问办公"
       ],
-      "priority": 76,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -207,7 +239,7 @@
         "匿名大模型",
         "OpenRouter"
       ],
-      "priority": 75,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -222,7 +254,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -239,24 +271,7 @@
         "130 亿",
         "AI 生态"
       ],
-      "priority": 62,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "年轻人的网络社交，正在偷偷「鸽化」",
-      "summary": "把「等待」，变成期待。",
-      "url": "https://www.geekpark.net/news/369290",
-      "published_at": "2026-08-24 16:43:37",
-      "tags": [
-        "慢社交",
-        "Carrier Pidge",
-        "鸽"
-      ],
-      "priority": 62,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -271,7 +286,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 58,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -286,7 +301,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 52,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -403,21 +418,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260812",
       "published_at": "2026-08-12 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月11日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260811",
-      "published_at": "2026-08-11 10:00:00",
       "tags": [
         "知识库精选"
       ],
