@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30 16:17:00",
-  "generated_rfc2822": "Sun, 30 Aug 2026 16:17:00 +0800",
+  "generated_at": "2026-08-31 16:37:05",
+  "generated_rfc2822": "Mon, 31 Aug 2026 16:37:05 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-29",
-      "home_url": "https://www.geekpark.net/news/369550"
+      "last_accessible": "2026-08-31",
+      "home_url": "https://www.geekpark.net/news/369610"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,89 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "OpenAI 内部，AI 建立了三代「文明」",
+      "summary": "甚至有些感人，但更让人后怕。",
+      "url": "https://www.geekpark.net/news/369610",
+      "published_at": "2026-08-31 15:16:17",
+      "tags": [
+        "AI",
+        "文明",
+        "OpenAI"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "人类，越来越难理解 AI",
+      "summary": "人类监控 AI 的方法，逐渐失败。",
+      "url": "https://www.geekpark.net/news/369609",
+      "published_at": "2026-08-31 15:12:16",
+      "tags": [
+        "AI 的精神分裂",
+        "Bronson",
+        "AI"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "399 美元的小黄鸭，藏着 Hugging Face 最大的野心",
+      "summary": "寓教于乐的典范。",
+      "url": "https://www.geekpark.net/news/369608",
+      "published_at": "2026-08-31 15:09:46",
+      "tags": [
+        "399 美元",
+        "Hugging Face",
+        "鸭子"
+      ],
+      "priority": 87,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结",
+      "summary": "一个 AI 编辑，是怎么带出来的",
+      "url": "https://www.geekpark.net/news/369517",
+      "published_at": "2026-08-31 09:14:19",
+      "tags": [
+        "通义千问",
+        "老编辑",
+        "在线新闻"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了",
+      "summary": "从为芯片选模型，到为模型造芯片。",
+      "url": "https://www.geekpark.net/news/369555",
+      "published_at": "2026-08-30 18:53:09",
+      "tags": [
+        "OpenAI"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷",
       "summary": "混元能否在持续迭代中站上第一梯队？",
       "url": "https://www.geekpark.net/news/369550",
@@ -62,7 +145,7 @@
         "混元大模型",
         "workbuddy"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +161,7 @@
         "TRAE AI 创造力大赛",
         "AI Coding"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +176,7 @@
       "tags": [
         "自变量"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -108,7 +191,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -125,7 +208,7 @@
         "社交媒体",
         "科技公司"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -142,7 +225,7 @@
         "并购",
         "具身智能"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -157,40 +240,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "从「告警找人」到「Agent 先接手」，「古茗」如何用 AI Agent 重构万店运维？",
-      "summary": "AI to B，要真的能「救火」。",
-      "url": "https://www.geekpark.net/news/369401",
-      "published_at": "2026-08-26 16:02:33",
-      "tags": [
-        "阿里云",
-        "阿里巴巴",
-        "AI Agent"
-      ],
-      "priority": 71,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
-      "summary": "已于近日完成近亿元首轮融资，由顺为资本、联想创投联合投资。",
-      "url": "https://www.geekpark.net/news/369395",
-      "published_at": "2026-08-26 15:10:12",
-      "tags": [
-        "OJO",
-        "剪映"
-      ],
-      "priority": 71,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -205,41 +255,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
-      "summary": "历史押韵而不重复，这一次，非共识面前无人敢「傲慢」。",
-      "url": "https://www.geekpark.net/news/369344",
-      "published_at": "2026-08-25 16:58:10",
-      "tags": [
-        "豆包办公",
-        "workbuddy",
-        "千问办公"
-      ],
-      "priority": 66,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "《有头有脸的大模型公司，集体搞起「匿名公测」》",
-      "summary": "渠道选对了，匿名本身就成了一种营销。",
-      "url": "https://www.geekpark.net/news/369324",
-      "published_at": "2026-08-25 13:14:40",
-      "tags": [
-        "智谱",
-        "匿名大模型",
-        "OpenRouter"
-      ],
-      "priority": 65,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -254,24 +270,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "130 亿美元，Hugging Face 要卖了",
-      "summary": "AI 的「中间层」被疯狂抢购。",
-      "url": "https://www.geekpark.net/news/369289",
-      "published_at": "2026-08-24 16:45:05",
-      "tags": [
-        "Hugging Face",
-        "130 亿",
-        "AI 生态"
-      ],
-      "priority": 52,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
