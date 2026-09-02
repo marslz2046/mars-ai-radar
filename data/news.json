@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01 15:47:38",
-  "generated_rfc2822": "Tue, 01 Sep 2026 15:47:38 +0800",
+  "generated_at": "2026-09-02 15:04:40",
+  "generated_rfc2822": "Wed, 02 Sep 2026 15:04:40 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-31",
-      "home_url": "https://www.geekpark.net/news/369631"
+      "last_accessible": "2026-09-02",
+      "home_url": "https://www.geekpark.net/news/369724"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型",
+      "summary": "通往物理 AGI 的路线图，和他的反共识清单。",
+      "url": "https://www.geekpark.net/news/369724",
+      "published_at": "2026-09-02 14:59:00",
+      "tags": [
+        "墨奇",
+        "黄青虬",
+        "具身智能"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "流量红利退潮，快手想用 AI 和老友们破局",
       "summary": "在快手持续发布作品超过 10 年的创作者超过 1700 万。",
       "url": "https://www.geekpark.net/news/369631",
@@ -62,7 +79,7 @@
         "可灵",
         "光合大会"
       ],
-      "priority": 91,
+      "priority": 85,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +96,7 @@
         "文明",
         "OpenAI"
       ],
-      "priority": 89,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +113,7 @@
         "Bronson",
         "AI"
       ],
-      "priority": 89,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +130,7 @@
         "Hugging Face",
         "鸭子"
       ],
-      "priority": 81,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -128,7 +145,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -145,7 +162,7 @@
         "老编辑",
         "在线新闻"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -160,7 +177,7 @@
       "tags": [
         "OpenAI"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -175,7 +192,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -192,7 +209,7 @@
         "混元大模型",
         "workbuddy"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -207,7 +224,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -223,7 +240,7 @@
         "TRAE AI 创造力大赛",
         "AI Coding"
       ],
-      "priority": 65,
+      "priority": 59,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -238,7 +255,7 @@
       "tags": [
         "自变量"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -253,24 +270,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "影响了两代人后，Meta 被判赔 180 亿美元",
-      "summary": "社交媒体，迎来了自己的「烟草时刻」。",
-      "url": "https://www.geekpark.net/news/369463",
-      "published_at": "2026-08-27 15:33:48",
-      "tags": [
-        "Meta",
-        "社交媒体",
-        "科技公司"
-      ],
-      "priority": 57,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -285,7 +285,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
