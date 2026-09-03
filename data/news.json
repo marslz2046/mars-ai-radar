@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02 15:04:40",
-  "generated_rfc2822": "Wed, 02 Sep 2026 15:04:40 +0800",
+  "generated_at": "2026-09-03 15:08:56",
+  "generated_rfc2822": "Thu, 03 Sep 2026 15:08:56 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-02",
-      "home_url": "https://www.geekpark.net/news/369724"
+      "last_accessible": "2026-09-03",
+      "home_url": "https://www.geekpark.net/news/369768"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-08-31",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260831"
+      "last_accessible": "2026-09-02",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260902"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,72 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "成立不到一年连融三轮，专治失眠的 AI 床头灯「火」了",
+      "summary": "床头或许会成为 AI4Bio 的一个新入口。",
+      "url": "https://www.geekpark.net/news/369768",
+      "published_at": "2026-09-03 14:05:37",
+      "tags": [
+        "AI4Bio",
+        "Fullive.ai",
+        "Somni"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "智谱和 MiniMax，把大模型做成了两种生意",
+      "summary": "中国大模型商业化的一次分层。",
+      "url": "https://www.geekpark.net/news/369775",
+      "published_at": "2026-09-03 13:54:42",
+      "tags": [
+        "MiniMax",
+        "智谱",
+        "财报"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "当 AI 开始理解「人不是标签」：阿里妈妈如何重构广告定向",
+      "summary": "AI 帮助品牌发现更多潜在客群。",
+      "url": "https://www.geekpark.net/news/369777",
+      "published_at": "2026-09-03 13:30:32",
+      "tags": [
+        "万相点睛"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」",
+      "summary": "Agent 时代的操作系统应该长什么样？",
+      "url": "https://www.geekpark.net/news/369767",
+      "published_at": "2026-09-03 12:52:10",
+      "tags": [
+        "腾讯",
+        "workbuddy",
+        "agent os"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型",
       "summary": "通往物理 AGI 的路线图，和他的反共识清单。",
       "url": "https://www.geekpark.net/news/369724",
@@ -62,7 +128,37 @@
         "黄青虬",
         "具身智能"
       ],
-      "priority": 95,
+      "priority": 89,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月2日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260902",
+      "published_at": "2026-09-02 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 78,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月1日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260901",
+      "published_at": "2026-09-01 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +175,7 @@
         "可灵",
         "光合大会"
       ],
-      "priority": 85,
+      "priority": 79,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +192,7 @@
         "文明",
         "OpenAI"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +209,7 @@
         "Bronson",
         "AI"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +226,7 @@
         "Hugging Face",
         "鸭子"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -145,7 +241,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -162,22 +258,7 @@
         "老编辑",
         "在线新闻"
       ],
-      "priority": 82,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了",
-      "summary": "从为芯片选模型，到为模型造芯片。",
-      "url": "https://www.geekpark.net/news/369555",
-      "published_at": "2026-08-30 18:53:09",
-      "tags": [
-        "OpenAI"
-      ],
-      "priority": 78,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -192,24 +273,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷",
-      "summary": "混元能否在持续迭代中站上第一梯队？",
-      "url": "https://www.geekpark.net/news/369550",
-      "published_at": "2026-08-29 13:58:53",
-      "tags": [
-        "腾讯",
-        "混元大模型",
-        "workbuddy"
-      ],
-      "priority": 71,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -224,38 +288,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Coding 自由之后，人开始成为最大的瓶颈",
-      "summary": "编程门槛被 AI 消解，Demo 易得，创造的瓶颈重新回归人本身。",
-      "url": "https://www.geekpark.net/news/369547",
-      "published_at": "2026-08-28 21:02:58",
-      "tags": [
-        "TRAE AI 创造力大赛",
-        "AI Coding"
-      ],
-      "priority": 59,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」",
-      "summary": "机器人世界模型的下一场竞争，可能不是画质，是架构。",
-      "url": "https://www.geekpark.net/news/369508",
-      "published_at": "2026-08-28 13:10:32",
-      "tags": [
-        "自变量"
-      ],
-      "priority": 65,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -270,7 +303,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -387,36 +420,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260820",
       "published_at": "2026-08-20 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月19日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260819",
-      "published_at": "2026-08-19 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月18日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260818",
-      "published_at": "2026-08-18 10:00:00",
       "tags": [
         "知识库精选"
       ],
