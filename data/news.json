@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03 15:08:56",
-  "generated_rfc2822": "Thu, 03 Sep 2026 15:08:56 +0800",
+  "generated_at": "2026-09-04 15:12:46",
+  "generated_rfc2822": "Fri, 04 Sep 2026 15:12:46 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-03",
-      "home_url": "https://www.geekpark.net/news/369768"
+      "last_accessible": "2026-09-04",
+      "home_url": "https://www.geekpark.net/news/369800"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-02",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260902"
+      "last_accessible": "2026-09-03",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260903"
     },
     {
       "id": "huangshu",
@@ -53,7 +53,40 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
-      "title": "成立不到一年连融三轮，专治失眠的 AI 床头灯「火」了",
+      "title": "GPT-6 曝光， OpenAI 总裁说：AGI 来了",
+      "summary": "能力飞升。",
+      "url": "https://www.geekpark.net/news/369800",
+      "published_at": "2026-09-04 06:48:29",
+      "tags": [
+        "AI",
+        "人工智能",
+        "GPT-6"
+      ],
+      "priority": 93,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题",
+      "summary": "没来的一定要看，来了的不看等于白来。",
+      "url": "https://www.geekpark.net/news/369388",
+      "published_at": "2026-09-03 23:25:38",
+      "tags": [
+        "WRC",
+        "2026"
+      ],
+      "priority": 92,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "成立不到一年连融三轮，这个睡眠 AI 产品「火」了",
       "summary": "床头或许会成为 AI4Bio 的一个新入口。",
       "url": "https://www.geekpark.net/news/369768",
       "published_at": "2026-09-03 14:05:37",
@@ -62,7 +95,7 @@
         "Fullive.ai",
         "Somni"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +112,7 @@
         "智谱",
         "财报"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -94,7 +127,7 @@
       "tags": [
         "万相点睛"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -111,7 +144,22 @@
         "workbuddy",
         "agent os"
       ],
-      "priority": 95,
+      "priority": 89,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月3日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260903",
+      "published_at": "2026-09-03 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -128,7 +176,7 @@
         "黄青虬",
         "具身智能"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -143,7 +191,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -158,7 +206,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -175,7 +223,7 @@
         "可灵",
         "光合大会"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -192,7 +240,7 @@
         "文明",
         "OpenAI"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -209,24 +257,7 @@
         "Bronson",
         "AI"
       ],
-      "priority": 78,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "399 美元的小黄鸭，藏着 Hugging Face 最大的野心",
-      "summary": "寓教于乐的典范。",
-      "url": "https://www.geekpark.net/news/369608",
-      "published_at": "2026-08-31 15:09:46",
-      "tags": [
-        "399 美元",
-        "Hugging Face",
-        "鸭子"
-      ],
-      "priority": 70,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -241,24 +272,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "编辑部来了 AI 实习生｜千问入职 20 天，我给它写了一份实习小结",
-      "summary": "一个 AI 编辑，是怎么带出来的",
-      "url": "https://www.geekpark.net/news/369517",
-      "published_at": "2026-08-31 09:14:19",
-      "tags": [
-        "通义千问",
-        "老编辑",
-        "在线新闻"
-      ],
-      "priority": 76,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -273,7 +287,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -288,7 +302,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -405,21 +419,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260821",
       "published_at": "2026-08-21 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月20日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260820",
-      "published_at": "2026-08-20 10:00:00",
       "tags": [
         "知识库精选"
       ],
