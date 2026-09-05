@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04 15:12:46",
-  "generated_rfc2822": "Fri, 04 Sep 2026 15:12:46 +0800",
+  "generated_at": "2026-09-05 14:55:12",
+  "generated_rfc2822": "Sat, 05 Sep 2026 14:55:12 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-04",
-      "home_url": "https://www.geekpark.net/news/369800"
+      "last_accessible": "2026-09-05",
+      "home_url": "https://www.geekpark.net/news/369873"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,38 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "互联网最古老的恐惧，被 AI 复活了",
+      "summary": "摘要：当年害怕电脑中毒，现在怕 AI「叛变」。",
+      "url": "https://www.geekpark.net/news/369873",
+      "published_at": "2026-09-05 12:59:17",
+      "tags": [
+        "AI",
+        "人工智能",
+        "AI 安全"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "梅卡曼德上市，具身智能又跑出一家百亿公司",
+      "summary": "十年前形成的产品路线，今天究竟会成为它的基础，还是限制。",
+      "url": "https://www.geekpark.net/news/369850",
+      "published_at": "2026-09-04 16:33:41",
+      "tags": [
+        "梅卡曼德"
+      ],
+      "priority": 82,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "GPT-6 曝光， OpenAI 总裁说：AGI 来了",
       "summary": "能力飞升。",
       "url": "https://www.geekpark.net/news/369800",
@@ -62,7 +94,7 @@
         "人工智能",
         "GPT-6"
       ],
-      "priority": 93,
+      "priority": 87,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +110,7 @@
         "WRC",
         "2026"
       ],
-      "priority": 92,
+      "priority": 86,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +127,7 @@
         "Fullive.ai",
         "Somni"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -112,7 +144,7 @@
         "智谱",
         "财报"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,7 +159,7 @@
       "tags": [
         "万相点睛"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -144,7 +176,7 @@
         "workbuddy",
         "agent os"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -159,7 +191,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -176,7 +208,7 @@
         "黄青虬",
         "具身智能"
       ],
-      "priority": 83,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -191,7 +223,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -206,7 +238,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -223,41 +255,7 @@
         "可灵",
         "光合大会"
       ],
-      "priority": 73,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "OpenAI 内部，AI 建立了三代「文明」",
-      "summary": "甚至有些感人，但更让人后怕。",
-      "url": "https://www.geekpark.net/news/369610",
-      "published_at": "2026-08-31 15:16:17",
-      "tags": [
-        "AI",
-        "文明",
-        "OpenAI"
-      ],
-      "priority": 72,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "人类，越来越难理解 AI",
-      "summary": "人类监控 AI 的方法，逐渐失败。",
-      "url": "https://www.geekpark.net/news/369609",
-      "published_at": "2026-08-31 15:12:16",
-      "tags": [
-        "AI 的精神分裂",
-        "Bronson",
-        "AI"
-      ],
-      "priority": 71,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -272,7 +270,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -287,7 +285,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
