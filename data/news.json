@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05 14:55:12",
-  "generated_rfc2822": "Sat, 05 Sep 2026 14:55:12 +0800",
+  "generated_at": "2026-09-06 15:06:16",
+  "generated_rfc2822": "Sun, 06 Sep 2026 15:06:16 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -62,7 +62,7 @@
         "人工智能",
         "AI 安全"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -77,7 +77,7 @@
       "tags": [
         "梅卡曼德"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -94,7 +94,7 @@
         "人工智能",
         "GPT-6"
       ],
-      "priority": 87,
+      "priority": 81,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +110,7 @@
         "WRC",
         "2026"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,7 +127,7 @@
         "Fullive.ai",
         "Somni"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -144,7 +144,7 @@
         "智谱",
         "财报"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -159,7 +159,7 @@
       "tags": [
         "万相点睛"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -176,7 +176,7 @@
         "workbuddy",
         "agent os"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -191,7 +191,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -208,7 +208,7 @@
         "黄青虬",
         "具身智能"
       ],
-      "priority": 78,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -223,7 +223,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -238,7 +238,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -255,7 +255,7 @@
         "可灵",
         "光合大会"
       ],
-      "priority": 67,
+      "priority": 61,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -270,7 +270,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
