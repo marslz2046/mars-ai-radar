@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08 15:13:07",
-  "generated_rfc2822": "Tue, 08 Sep 2026 15:13:07 +0800",
+  "generated_at": "2026-09-09 15:21:28",
+  "generated_rfc2822": "Wed, 09 Sep 2026 15:21:28 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-07",
-      "home_url": "https://www.geekpark.net/news/369960"
+      "last_accessible": "2026-09-09",
+      "home_url": "https://www.geekpark.net/news/370061"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-07",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260907"
+      "last_accessible": "2026-09-08",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260908"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,38 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "千问办公发布多人工作台，重写企业软件的最后一公里",
+      "summary": "从标准化的 SaaS，到低成本适配具体业务流程的办公 Agent。",
+      "url": "https://www.geekpark.net/news/370061",
+      "published_at": "2026-09-09 15:07:04",
+      "tags": [
+        "阿里云通义千问 APP",
+        "通义千问",
+        "多人协作"
+      ],
+      "priority": 87,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月8日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260908",
+      "published_at": "2026-09-08 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 78,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "判断用不用你的软件，Agent 只需 500 个 Token",
       "summary": "什么是好产品这个问题的答案，正在迅速改变？",
       "url": "https://www.geekpark.net/news/369960",
@@ -62,7 +94,7 @@
         "产品",
         "token"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -80,7 +112,7 @@
         "AI创业",
         "AI Native"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +127,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +142,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,7 +159,7 @@
         "人工智能",
         "AI 安全"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -142,7 +174,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -157,7 +189,7 @@
       "tags": [
         "梅卡曼德"
       ],
-      "priority": 64,
+      "priority": 58,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -172,7 +204,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -189,7 +221,7 @@
         "人工智能",
         "GPT-6"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -205,7 +237,7 @@
         "WRC",
         "2026"
       ],
-      "priority": 68,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -222,7 +254,7 @@
         "Fullive.ai",
         "Somni"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -239,7 +271,7 @@
         "智谱",
         "财报"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -254,24 +286,7 @@
       "tags": [
         "万相点睛"
       ],
-      "priority": 65,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」",
-      "summary": "Agent 时代的操作系统应该长什么样？",
-      "url": "https://www.geekpark.net/news/369767",
-      "published_at": "2026-09-03 12:52:10",
-      "tags": [
-        "腾讯",
-        "workbuddy",
-        "agent os"
-      ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -286,7 +301,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -403,21 +418,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260826",
       "published_at": "2026-08-26 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月25日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260825",
-      "published_at": "2026-08-25 10:00:00",
       "tags": [
         "知识库精选"
       ],
