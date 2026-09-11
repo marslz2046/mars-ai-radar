@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10 15:16:50",
-  "generated_rfc2822": "Thu, 10 Sep 2026 15:16:50 +0800",
+  "generated_at": "2026-09-11 15:15:56",
+  "generated_rfc2822": "Fri, 11 Sep 2026 15:15:56 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-09",
-      "home_url": "https://www.geekpark.net/news/370061"
+      "last_accessible": "2026-09-10",
+      "home_url": "https://www.geekpark.net/news/370064"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-09",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260909"
+      "last_accessible": "2026-09-10",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260910"
     },
     {
       "id": "huangshu",
@@ -50,6 +50,40 @@
   ],
   "items": [
     {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "走出聊天框，Agent 开始进入现实世界",
+      "summary": "Agent 需要一具身体。",
+      "url": "https://www.geekpark.net/news/370064",
+      "published_at": "2026-09-10 21:39:07",
+      "tags": [
+        "百度",
+        "小度",
+        "agent"
+      ],
+      "priority": 91,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "微信，悄悄迈出 AI 社交的第一步",
+      "summary": "把个人代理直接接入真实的熟人关系，能否成立？",
+      "url": "https://www.geekpark.net/news/370155",
+      "published_at": "2026-09-10 21:36:57",
+      "tags": [
+        "小微",
+        "腾讯",
+        "AI社交"
+      ],
+      "priority": 91,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -61,7 +95,7 @@
         "日报",
         "头条"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -77,7 +111,7 @@
         "日报",
         "站内分 10"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +127,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -109,7 +143,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -125,7 +159,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -142,7 +176,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -159,7 +193,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -176,7 +210,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -193,7 +227,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -210,7 +244,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -227,7 +261,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -244,7 +278,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -260,7 +294,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -276,7 +310,7 @@
         "日报",
         "站内分 9"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -292,7 +326,7 @@
         "日报",
         "站内分 8"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -309,7 +343,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -326,7 +360,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -343,7 +377,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -360,7 +394,7 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -377,7 +411,22 @@
         "站内分 5",
         "长尾"
       ],
-      "priority": 86,
+      "priority": 80,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月10日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260910",
+      "published_at": "2026-09-10 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -394,7 +443,7 @@
         "通义千问",
         "多人协作"
       ],
-      "priority": 81,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -410,7 +459,7 @@
         "日报",
         "归档"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -425,7 +474,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -441,7 +490,7 @@
         "日报",
         "归档"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -456,7 +505,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -473,7 +522,7 @@
         "产品",
         "token"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -491,7 +540,7 @@
         "AI创业",
         "AI Native"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -507,7 +556,7 @@
         "日报",
         "归档"
       ],
-      "priority": 74,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -522,7 +571,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -538,7 +587,7 @@
         "日报",
         "归档"
       ],
-      "priority": 68,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -553,7 +602,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -570,7 +619,7 @@
         "人工智能",
         "AI 安全"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -586,7 +635,7 @@
         "日报",
         "归档"
       ],
-      "priority": 62,
+      "priority": 58,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -601,7 +650,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -696,38 +745,6 @@
         "AI4Bio",
         "Fullive.ai",
         "Somni"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "智谱和 MiniMax，把大模型做成了两种生意",
-      "summary": "中国大模型商业化的一次分层。",
-      "url": "https://www.geekpark.net/news/369775",
-      "published_at": "2026-09-03 13:54:42",
-      "tags": [
-        "MiniMax",
-        "智谱",
-        "财报"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "当 AI 开始理解「人不是标签」：阿里妈妈如何重构广告定向",
-      "summary": "AI 帮助品牌发现更多潜在客群。",
-      "url": "https://www.geekpark.net/news/369777",
-      "published_at": "2026-09-03 13:30:32",
-      "tags": [
-        "万相点睛"
       ],
       "priority": 60,
       "ai_relevance": "strong",
@@ -947,21 +964,6 @@
         "归档"
       ],
       "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年8月27日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260827",
-      "published_at": "2026-08-27 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
