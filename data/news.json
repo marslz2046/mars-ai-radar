@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16 15:39:46",
-  "generated_rfc2822": "Wed, 16 Sep 2026 15:39:46 +0800",
+  "generated_at": "2026-09-17 15:36:33",
+  "generated_rfc2822": "Thu, 17 Sep 2026 15:36:33 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -9,7 +9,7 @@
       "cadence": "公开页面",
       "status": "ok",
       "last_accessible": "2026-09-16",
-      "home_url": "https://www.geekpark.net/news/370431"
+      "home_url": "https://www.geekpark.net/news/370460"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-15",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260915"
+      "last_accessible": "2026-09-16",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260916"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,68 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "在飞书的上下文底座上，豆包开工了",
+      "summary": "飞书在协同办公时代的积累，正在变成字节在 Agent 时代的竞争力。",
+      "url": "https://www.geekpark.net/news/370460",
+      "published_at": "2026-09-16 17:36:24",
+      "tags": [
+        "飞书",
+        "豆包工作",
+        "AI Agent"
+      ],
+      "priority": 82,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案",
+      "summary": "AI 计算正在进入下一阶段：Token 之后，谁决定算力如何流动？",
+      "url": "https://www.geekpark.net/news/370453",
+      "published_at": "2026-09-16 16:34:03",
+      "tags": [
+        "arm"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "助听器躺赚三十年暴利，被 AI 打破了",
+      "summary": "五大垄断助听器 30 年，AI 能突破吗？",
+      "url": "https://www.geekpark.net/news/370445",
+      "published_at": "2026-09-16 16:06:55",
+      "tags": [
+        "AI助听器"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "当智能体开始替人花钱，如何证明「它是谁」？",
+      "summary": "智能体商业的 ChatGPT 时刻正在到来，但要让 AI 真正替人办成事，必须先补上代码自主交易的信任基石。",
+      "url": "https://www.geekpark.net/news/370440",
+      "published_at": "2026-09-16 15:45:18",
+      "tags": [
+        "蚂蚁数科"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变",
       "summary": "背后是巨头们的集体恐惧。",
       "url": "https://www.geekpark.net/news/370431",
@@ -60,7 +122,22 @@
       "tags": [
         "WorkBuddy"
       ],
-      "priority": 95,
+      "priority": 89,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月16日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260916",
+      "published_at": "2026-09-16 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -77,7 +154,7 @@
         "播客",
         "视频播客"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -92,7 +169,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -107,7 +184,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -122,7 +199,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -139,7 +216,7 @@
         "小程序",
         "AI"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -154,7 +231,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -169,7 +246,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -186,7 +263,7 @@
         "小度",
         "agent"
       ],
-      "priority": 61,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -203,7 +280,7 @@
         "腾讯",
         "AI社交"
       ],
-      "priority": 61,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -634,41 +711,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "判断用不用你的软件，Agent 只需 500 个 Token",
-      "summary": "什么是好产品这个问题的答案，正在迅速改变？",
-      "url": "https://www.geekpark.net/news/369960",
-      "published_at": "2026-09-07 18:32:48",
-      "tags": [
-        "Osmani",
-        "产品",
-        "token"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "「AI Native 」不是魔法，「创业者」这三个字依旧厚重",
-      "summary": "「AI Native」只是个形容词，「创业者」才是那个至关重要的名词。",
-      "url": "https://www.geekpark.net/news/369955",
-      "published_at": "2026-09-07 17:29:26",
-      "tags": [
-        "创业者",
-        "基本功",
-        "AI创业",
-        "AI Native"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -731,23 +773,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "互联网最古老的恐惧，被 AI 复活了",
-      "summary": "摘要：当年害怕电脑中毒，现在怕 AI「叛变」。",
-      "url": "https://www.geekpark.net/news/369873",
-      "published_at": "2026-09-05 12:59:17",
-      "tags": [
-        "AI",
-        "人工智能",
-        "AI 安全"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -775,21 +800,6 @@
         "知识库精选"
       ],
       "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "梅卡曼德上市，具身智能又跑出一家百亿公司",
-      "summary": "十年前形成的产品路线，今天究竟会成为它的基础，还是限制。",
-      "url": "https://www.geekpark.net/news/369850",
-      "published_at": "2026-09-04 16:33:41",
-      "tags": [
-        "梅卡曼德"
-      ],
-      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -868,21 +878,6 @@
         "归档"
       ],
       "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月2日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260902",
-      "published_at": "2026-09-02 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
