@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18 15:22:34",
-  "generated_rfc2822": "Fri, 18 Sep 2026 15:22:34 +0800",
+  "generated_at": "2026-09-19 15:18:44",
+  "generated_rfc2822": "Sat, 19 Sep 2026 15:18:44 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-17",
-      "home_url": "https://www.geekpark.net/news/370519"
+      "last_accessible": "2026-09-19",
+      "home_url": "https://www.geekpark.net/news/370611"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,40 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "对拿下一轮投资最有效的沟通，是「思想履约」",
+      "summary": "看过那么多创业者的历程后，我发现那些优秀投资人要被打动，底层其实有个「A-B-C 连线」的方法论。",
+      "url": "https://www.geekpark.net/news/370611",
+      "published_at": "2026-09-19 12:10:23",
+      "tags": [
+        "创业者",
+        "创业方法论",
+        "融资"
+      ],
+      "priority": 87,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "那个教 ChatGPT 说话的人，做了一个「哑巴」模型",
+      "summary": "嘴闭上了，腿脚快得飞起！",
+      "url": "https://www.geekpark.net/news/370603",
+      "published_at": "2026-09-18 17:36:47",
+      "tags": [
+        "TypeSafe",
+        "Diogo Almeida",
+        "AI"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "京东押注物理 AI，冲在前面的是一群 95 后",
       "summary": "京东 AI 的下一站：真实世界。",
       "url": "https://www.geekpark.net/news/370519",
@@ -61,7 +95,7 @@
         "京东",
         "物理世界运营中心"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -76,7 +110,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +127,7 @@
         "豆包工作",
         "AI Agent"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -108,7 +142,7 @@
       "tags": [
         "arm"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -123,7 +157,7 @@
       "tags": [
         "AI助听器"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -138,7 +172,7 @@
       "tags": [
         "蚂蚁数科"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -153,7 +187,7 @@
       "tags": [
         "WorkBuddy"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -168,7 +202,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -185,7 +219,7 @@
         "播客",
         "视频播客"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -200,7 +234,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -215,7 +249,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -230,7 +264,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -247,7 +281,7 @@
         "小程序",
         "AI"
       ],
-      "priority": 61,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -278,40 +312,6 @@
         "知识库精选"
       ],
       "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "走出聊天框，Agent 开始进入现实世界",
-      "summary": "Agent 需要一具身体。",
-      "url": "https://www.geekpark.net/news/370064",
-      "published_at": "2026-09-10 21:39:07",
-      "tags": [
-        "百度",
-        "小度",
-        "agent"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "微信，悄悄迈出 AI 社交的第一步",
-      "summary": "把个人代理直接接入真实的熟人关系，能否成立？",
-      "url": "https://www.geekpark.net/news/370155",
-      "published_at": "2026-09-10 21:36:57",
-      "tags": [
-        "小微",
-        "腾讯",
-        "AI社交"
-      ],
-      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
