@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19 15:18:44",
-  "generated_rfc2822": "Sat, 19 Sep 2026 15:18:44 +0800",
+  "generated_at": "2026-09-20 15:43:11",
+  "generated_rfc2822": "Sun, 20 Sep 2026 15:43:11 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-19",
-      "home_url": "https://www.geekpark.net/news/370611"
+      "last_accessible": "2026-09-20",
+      "home_url": "https://www.geekpark.net/news/370667"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-17",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260917"
+      "last_accessible": "2026-09-19",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260919"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,57 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "三体还没降临，是因为叶文洁没用上千问办公吗？",
+      "summary": "3 天系统搭建，千元观测成本。千问办公，帮天文学家预警了 8 颗超新星。",
+      "url": "https://www.geekpark.net/news/370667",
+      "published_at": "2026-09-20 15:27:15",
+      "tags": [
+        "千问",
+        "三体",
+        "天文"
+      ],
+      "priority": 87,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "机器人如何自进化，乐享科技走了一条新路",
+      "summary": "当数字世界的 AI 开始讨论自进化，物理世界的 AI 有没有自进化，或许是下一个时代最重要的问题。",
+      "url": "https://www.geekpark.net/news/370665",
+      "published_at": "2026-09-20 15:15:14",
+      "tags": [
+        "具身智能",
+        "机器人",
+        "人工智能"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "不可逆的人类衰老，快被 AI 破解了",
+      "summary": "逆转衰老未来将不再是一种玄学。",
+      "url": "https://www.geekpark.net/news/370664",
+      "published_at": "2026-09-20 15:08:22",
+      "tags": [
+        "人工智能",
+        "创业",
+        "融资"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "对拿下一轮投资最有效的沟通，是「思想履约」",
       "summary": "看过那么多创业者的历程后，我发现那些优秀投资人要被打动，底层其实有个「A-B-C 连线」的方法论。",
       "url": "https://www.geekpark.net/news/370611",
@@ -62,7 +113,22 @@
         "创业方法论",
         "融资"
       ],
-      "priority": 87,
+      "priority": 81,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月19日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260919",
+      "published_at": "2026-09-19 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +145,22 @@
         "Diogo Almeida",
         "AI"
       ],
-      "priority": 90,
+      "priority": 84,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月18日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260918",
+      "published_at": "2026-09-18 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +176,7 @@
         "京东",
         "物理世界运营中心"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +191,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,7 +208,7 @@
         "豆包工作",
         "AI Agent"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -142,7 +223,7 @@
       "tags": [
         "arm"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -157,7 +238,7 @@
       "tags": [
         "AI助听器"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -172,22 +253,7 @@
       "tags": [
         "蚂蚁数科"
       ],
-      "priority": 78,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变",
-      "summary": "背后是巨头们的集体恐惧。",
-      "url": "https://www.geekpark.net/news/370431",
-      "published_at": "2026-09-16 14:39:11",
-      "tags": [
-        "WorkBuddy"
-      ],
-      "priority": 77,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -202,24 +268,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "对话小宇宙 kyth：播客的护城河是真实，AI 无法取代的是人的立场",
-      "summary": "小宇宙想要「强而久」。",
-      "url": "https://www.geekpark.net/news/370345",
-      "published_at": "2026-09-15 15:10:42",
-      "tags": [
-        "小宇宙",
-        "播客",
-        "视频播客"
-      ],
-      "priority": 71,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -234,7 +283,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -249,7 +298,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -265,23 +314,6 @@
         "知识库精选"
       ],
       "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "AI 时代的「4399」，可把我玩嗨了｜AI 上新",
-      "summary": "「程序」，可以成为一种社交媒体的内容单位吗？",
-      "url": "https://www.geekpark.net/news/370227",
-      "published_at": "2026-09-12 21:03:04",
-      "tags": [
-        "pocket",
-        "小程序",
-        "AI"
-      ],
-      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -803,21 +835,6 @@
       "backfill": false
     },
     {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月5日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260905",
-      "published_at": "2026-09-05 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -830,21 +847,6 @@
         "归档"
       ],
       "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月4日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260904",
-      "published_at": "2026-09-04 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
