@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20 15:43:11",
-  "generated_rfc2822": "Sun, 20 Sep 2026 15:43:11 +0800",
+  "generated_at": "2026-09-21 15:56:13",
+  "generated_rfc2822": "Mon, 21 Sep 2026 15:56:13 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-19",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260919"
+      "last_accessible": "2026-09-20",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260920"
     },
     {
       "id": "huangshu",
@@ -62,7 +62,7 @@
         "三体",
         "天文"
       ],
-      "priority": 87,
+      "priority": 81,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +79,7 @@
         "机器人",
         "人工智能"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +96,22 @@
         "创业",
         "融资"
       ],
-      "priority": 95,
+      "priority": 89,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月20日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260920",
+      "published_at": "2026-09-20 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +128,7 @@
         "创业方法论",
         "融资"
       ],
-      "priority": 81,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -128,7 +143,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -145,7 +160,7 @@
         "Diogo Almeida",
         "AI"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -160,7 +175,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -176,7 +191,7 @@
         "京东",
         "物理世界运营中心"
       ],
-      "priority": 78,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -191,7 +206,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -208,7 +223,7 @@
         "豆包工作",
         "AI Agent"
       ],
-      "priority": 64,
+      "priority": 58,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -223,7 +238,7 @@
       "tags": [
         "arm"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -238,7 +253,7 @@
       "tags": [
         "AI助听器"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -253,7 +268,7 @@
       "tags": [
         "蚂蚁数科"
       ],
-      "priority": 72,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -268,7 +283,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -283,7 +298,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -800,21 +815,6 @@
         "归档"
       ],
       "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月6日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260906",
-      "published_at": "2026-09-06 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
