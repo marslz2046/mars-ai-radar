@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22 15:41:05",
-  "generated_rfc2822": "Tue, 22 Sep 2026 15:41:05 +0800",
+  "generated_at": "2026-09-23 15:43:41",
+  "generated_rfc2822": "Wed, 23 Sep 2026 15:43:41 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-22",
-      "home_url": "https://www.geekpark.net/news/370797"
+      "last_accessible": "2026-09-23",
+      "home_url": "https://www.geekpark.net/news/370883"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-20",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260920"
+      "last_accessible": "2026-09-21",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260921"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "剪映，杀入 AI 互动影游",
+      "summary": "拓宽 AI 内容的边界。",
+      "url": "https://www.geekpark.net/news/370883",
+      "published_at": "2026-09-23 15:32:36",
+      "tags": [
+        "剪映",
+        "AI互动影游",
+        "抖音"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "Meta 个人 AI 助手刚火 13 天，Amazon 就拉闸了",
       "summary": "个人 AI，环球同此凉热。",
       "url": "https://www.geekpark.net/news/370797",
@@ -62,7 +79,7 @@
         "个人助手",
         "Amazon"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +95,22 @@
         "AI",
         "Jev"
       ],
-      "priority": 82,
+      "priority": 76,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月21日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260921",
+      "published_at": "2026-09-21 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +127,7 @@
         "三体",
         "天文"
       ],
-      "priority": 75,
+      "priority": 69,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -112,7 +144,7 @@
         "机器人",
         "人工智能"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -129,7 +161,7 @@
         "创业",
         "融资"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -144,7 +176,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -161,7 +193,7 @@
         "创业方法论",
         "融资"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -176,7 +208,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -193,7 +225,7 @@
         "Diogo Almeida",
         "AI"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -208,7 +240,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -224,7 +256,7 @@
         "京东",
         "物理世界运营中心"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -239,7 +271,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -257,21 +289,6 @@
         "AI Agent"
       ],
       "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Token 之后，谁来组织 AI 计算？Arm 寻找下一代计算的答案",
-      "summary": "AI 计算正在进入下一阶段：Token 之后，谁决定算力如何流动？",
-      "url": "https://www.geekpark.net/news/370453",
-      "published_at": "2026-09-16 16:34:03",
-      "tags": [
-        "arm"
-      ],
-      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -787,21 +804,6 @@
         "归档"
       ],
       "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月7日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260907",
-      "published_at": "2026-09-07 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
