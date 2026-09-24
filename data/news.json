@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23 15:43:41",
-  "generated_rfc2822": "Wed, 23 Sep 2026 15:43:41 +0800",
+  "generated_at": "2026-09-24 15:34:30",
+  "generated_rfc2822": "Thu, 24 Sep 2026 15:34:30 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -62,7 +62,7 @@
         "AI互动影游",
         "抖音"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +79,7 @@
         "个人助手",
         "Amazon"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +95,7 @@
         "AI",
         "Jev"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +110,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,7 +127,7 @@
         "三体",
         "天文"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -144,7 +144,7 @@
         "机器人",
         "人工智能"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -161,7 +161,7 @@
         "创业",
         "融资"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -176,7 +176,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -193,7 +193,7 @@
         "创业方法论",
         "融资"
       ],
-      "priority": 63,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -208,7 +208,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -225,7 +225,7 @@
         "Diogo Almeida",
         "AI"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -240,7 +240,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
