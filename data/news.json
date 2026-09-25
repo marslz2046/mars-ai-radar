@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24 15:34:30",
-  "generated_rfc2822": "Thu, 24 Sep 2026 15:34:30 +0800",
+  "generated_at": "2026-09-25 15:45:15",
+  "generated_rfc2822": "Fri, 25 Sep 2026 15:45:15 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-23",
-      "home_url": "https://www.geekpark.net/news/370883"
+      "last_accessible": "2026-09-24",
+      "home_url": "https://www.geekpark.net/news/371031"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,57 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "Agent 时代来了，3D 生成大模型接下来比什么？",
+      "summary": "3D 生成的下一代用户是 Agent。",
+      "url": "https://www.geekpark.net/news/371031",
+      "published_at": "2026-09-24 22:49:18",
+      "tags": [
+        "AI Agent",
+        "3D模型",
+        "3D 建模"
+      ],
+      "priority": 91,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "李彦宏的长期主义，进入回报周期",
+      "summary": "时间终将回馈长期主义者。",
+      "url": "https://www.geekpark.net/news/371030",
+      "published_at": "2026-09-24 19:34:07",
+      "tags": [
+        "百度",
+        "昆仑芯",
+        "芯片"
+      ],
+      "priority": 82,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "从数人头到数智能体：一场正在发生的企业生产力换血",
+      "summary": "用了 AI、消耗了 Token，不一定就是 AI 原生组织，但不用肯定没有机会。",
+      "url": "https://www.geekpark.net/news/371011",
+      "published_at": "2026-09-24 16:13:08",
+      "tags": [
+        "人工智能",
+        "云栖大会",
+        "AI 原生"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "剪映，杀入 AI 互动影游",
       "summary": "拓宽 AI 内容的边界。",
       "url": "https://www.geekpark.net/news/370883",
@@ -62,7 +113,7 @@
         "AI互动影游",
         "抖音"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +130,7 @@
         "个人助手",
         "Amazon"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +146,7 @@
         "AI",
         "Jev"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -110,7 +161,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,7 +178,7 @@
         "三体",
         "天文"
       ],
-      "priority": 63,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -144,7 +195,7 @@
         "机器人",
         "人工智能"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -161,7 +212,7 @@
         "创业",
         "融资"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -176,7 +227,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -193,7 +244,7 @@
         "创业方法论",
         "融资"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -208,24 +259,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "那个教 ChatGPT 说话的人，做了一个「哑巴」模型",
-      "summary": "嘴闭上了，腿脚快得飞起！",
-      "url": "https://www.geekpark.net/news/370603",
-      "published_at": "2026-09-18 17:36:47",
-      "tags": [
-        "TypeSafe",
-        "Diogo Almeida",
-        "AI"
-      ],
-      "priority": 60,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -245,22 +279,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "京东押注物理 AI，冲在前面的是一群 95 后",
-      "summary": "京东 AI 的下一站：真实世界。",
-      "url": "https://www.geekpark.net/news/370519",
-      "published_at": "2026-09-17 15:51:53",
-      "tags": [
-        "京东",
-        "物理世界运营中心"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -272,23 +290,6 @@
         "知识库精选"
       ],
       "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "在飞书的上下文底座上，豆包开工了",
-      "summary": "飞书在协同办公时代的积累，正在变成字节在 Agent 时代的竞争力。",
-      "url": "https://www.geekpark.net/news/370460",
-      "published_at": "2026-09-16 17:36:24",
-      "tags": [
-        "飞书",
-        "豆包工作",
-        "AI Agent"
-      ],
-      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
