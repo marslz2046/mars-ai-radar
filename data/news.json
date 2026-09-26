@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25 15:45:15",
-  "generated_rfc2822": "Fri, 25 Sep 2026 15:45:15 +0800",
+  "generated_at": "2026-09-26 15:38:15",
+  "generated_rfc2822": "Sat, 26 Sep 2026 15:38:15 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-21",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260921"
+      "last_accessible": "2026-09-25",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260925"
     },
     {
       "id": "huangshu",
@@ -50,6 +50,21 @@
   ],
   "items": [
     {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月25日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260925",
+      "published_at": "2026-09-25 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 78,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
@@ -62,7 +77,7 @@
         "3D模型",
         "3D 建模"
       ],
-      "priority": 91,
+      "priority": 85,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +94,7 @@
         "昆仑芯",
         "芯片"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +111,7 @@
         "云栖大会",
         "AI 原生"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +128,7 @@
         "AI互动影游",
         "抖音"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +145,22 @@
         "个人助手",
         "Amazon"
       ],
-      "priority": 77,
+      "priority": 71,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月22日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260922",
+      "published_at": "2026-09-22 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -146,7 +176,7 @@
         "AI",
         "Jev"
       ],
-      "priority": 64,
+      "priority": 58,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -161,7 +191,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -178,7 +208,7 @@
         "三体",
         "天文"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -195,7 +225,7 @@
         "机器人",
         "人工智能"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -212,7 +242,7 @@
         "创业",
         "融资"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -227,7 +257,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -747,21 +777,6 @@
       "backfill": false
     },
     {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月9日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260909",
-      "published_at": "2026-09-09 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "xiaohu",
       "source": "小互 AI 日报",
       "type": "daily",
@@ -772,21 +787,6 @@
       "tags": [
         "日报",
         "归档"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月8日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260908",
-      "published_at": "2026-09-08 10:00:00",
-      "tags": [
-        "知识库精选"
       ],
       "priority": 50,
       "ai_relevance": "strong",
