@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27 16:06:32",
-  "generated_rfc2822": "Sun, 27 Sep 2026 16:06:32 +0800",
+  "generated_at": "2026-09-28 16:39:55",
+  "generated_rfc2822": "Mon, 28 Sep 2026 16:39:55 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-24",
-      "home_url": "https://www.geekpark.net/news/371031"
+      "last_accessible": "2026-09-28",
+      "home_url": "https://www.geekpark.net/news/371044"
     },
     {
       "id": "xiaohu",
@@ -50,6 +50,40 @@
   ],
   "items": [
     {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？",
+      "summary": "腾讯《三角洲行动》官宣联动国产武侠游戏《影之刃零》；黑客在暗网兜售 AI 模型访问权限，最低价仅有正版 3%；「第二代豆包手机」玩《王者荣耀》遭强制下线，称暂未收到腾讯回复",
+      "url": "https://www.geekpark.net/news/371044",
+      "published_at": "2026-09-28 08:06:58",
+      "tags": [
+        "OpenAI",
+        "豆包手机",
+        "腾讯"
+      ],
+      "priority": 93,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "阿里整合 AI 办公力量后，千问办公怎么打这场大战？",
+      "summary": "企业需要的已经不只是一个能写文档、做 PPT 的通用助手，而是一个能够理解组织数据、进入业务流程，同时受到身份、权限和审计约束的 Agent。",
+      "url": "https://www.geekpark.net/news/371040",
+      "published_at": "2026-09-27 16:38:53",
+      "tags": [
+        "云栖大会2026",
+        "束骏亮",
+        "千问办公"
+      ],
+      "priority": 89,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -60,7 +94,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -75,7 +109,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -92,7 +126,7 @@
         "3D模型",
         "3D 建模"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -109,7 +143,7 @@
         "昆仑芯",
         "芯片"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -126,7 +160,7 @@
         "云栖大会",
         "AI 原生"
       ],
-      "priority": 78,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -143,7 +177,7 @@
         "AI互动影游",
         "抖音"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -160,7 +194,7 @@
         "个人助手",
         "Amazon"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -175,7 +209,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -245,23 +279,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "不可逆的人类衰老，快被 AI 破解了",
-      "summary": "逆转衰老未来将不再是一种玄学。",
-      "url": "https://www.geekpark.net/news/370664",
-      "published_at": "2026-09-20 15:08:22",
-      "tags": [
-        "人工智能",
-        "创业",
-        "融资"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -273,23 +290,6 @@
         "知识库精选"
       ],
       "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "对拿下一轮投资最有效的沟通，是「思想履约」",
-      "summary": "看过那么多创业者的历程后，我发现那些优秀投资人要被打动，底层其实有个「A-B-C 连线」的方法论。",
-      "url": "https://www.geekpark.net/news/370611",
-      "published_at": "2026-09-19 12:10:23",
-      "tags": [
-        "创业者",
-        "创业方法论",
-        "融资"
-      ],
-      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
