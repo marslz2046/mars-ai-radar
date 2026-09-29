@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28 16:39:55",
-  "generated_rfc2822": "Mon, 28 Sep 2026 16:39:55 +0800",
+  "generated_at": "2026-09-29 16:26:28",
+  "generated_rfc2822": "Tue, 29 Sep 2026 16:26:28 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -9,7 +9,7 @@
       "cadence": "公开页面",
       "status": "ok",
       "last_accessible": "2026-09-28",
-      "home_url": "https://www.geekpark.net/news/371044"
+      "home_url": "https://www.geekpark.net/news/371357"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,88 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "中国智能汽车的后台，越来越像阿里云的主场",
+      "summary": "阿里云做的不是云，是智能汽车的地基。",
+      "url": "https://www.geekpark.net/news/371357",
+      "published_at": "2026-09-28 22:54:50",
+      "tags": [
+        "阿里云",
+        "云栖大会"
+      ],
+      "priority": 83,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "不到 1 个月估值暴涨 100 亿美元，Jev 创造者：ChatGPT 把 AI 带歪了",
+      "summary": "Automation 才是王道。",
+      "url": "https://www.geekpark.net/news/371126",
+      "published_at": "2026-09-28 17:50:05",
+      "tags": [
+        "Jev",
+        "大模型",
+        "Claude Code"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "OpenAI，经历了最漫长的一天",
+      "summary": "强闯政府网站，暴露用户图片，OpenAI 暂停最强模型研究工作。",
+      "url": "https://www.geekpark.net/news/371123",
+      "published_at": "2026-09-28 17:45:25",
+      "tags": [
+        "OpenAI",
+        "大模型",
+        "AI助手"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "AI 手机只是起点，高通要为智能体铺一条全栈技术路线",
+      "summary": "重新定义芯片、设备与个人智能体之间的关系。",
+      "url": "https://www.geekpark.net/news/371113",
+      "published_at": "2026-09-28 17:15:42",
+      "tags": [
+        "高通"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "从超级个体到超级组织，究竟还有多远？",
+      "summary": "生命总会找到自己的出路。",
+      "url": "https://www.geekpark.net/news/371104",
+      "published_at": "2026-09-28 16:08:56",
+      "tags": [
+        "阿里巴巴",
+        "AI Native",
+        "组织管理"
+      ],
+      "priority": 81,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？",
       "summary": "腾讯《三角洲行动》官宣联动国产武侠游戏《影之刃零》；黑客在暗网兜售 AI 模型访问权限，最低价仅有正版 3%；「第二代豆包手机」玩《王者荣耀》遭强制下线，称暂未收到腾讯回复",
       "url": "https://www.geekpark.net/news/371044",
@@ -62,7 +144,7 @@
         "豆包手机",
         "腾讯"
       ],
-      "priority": 93,
+      "priority": 87,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +161,7 @@
         "束骏亮",
         "千问办公"
       ],
-      "priority": 89,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -94,7 +176,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -109,7 +191,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -126,7 +208,7 @@
         "3D模型",
         "3D 建模"
       ],
-      "priority": 73,
+      "priority": 67,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -143,7 +225,7 @@
         "昆仑芯",
         "芯片"
       ],
-      "priority": 64,
+      "priority": 58,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -160,41 +242,7 @@
         "云栖大会",
         "AI 原生"
       ],
-      "priority": 71,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "剪映，杀入 AI 互动影游",
-      "summary": "拓宽 AI 内容的边界。",
-      "url": "https://www.geekpark.net/news/370883",
-      "published_at": "2026-09-23 15:32:36",
-      "tags": [
-        "剪映",
-        "AI互动影游",
-        "抖音"
-      ],
       "priority": 65,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Meta 个人 AI 助手刚火 13 天，Amazon 就拉闸了",
-      "summary": "个人 AI，环球同此凉热。",
-      "url": "https://www.geekpark.net/news/370797",
-      "published_at": "2026-09-22 12:01:13",
-      "tags": [
-        "Meta",
-        "个人助手",
-        "Amazon"
-      ],
-      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -214,22 +262,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Jev，让全球程序员玩疯了",
-      "summary": "AI 行业，模型任务分工开始更加垂直。",
-      "url": "https://www.geekpark.net/news/370758",
-      "published_at": "2026-09-21 19:02:43",
-      "tags": [
-        "AI",
-        "Jev"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -241,40 +273,6 @@
         "知识库精选"
       ],
       "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "三体还没降临，是因为叶文洁没用上千问办公吗？",
-      "summary": "3 天系统搭建，千元观测成本。千问办公，帮天文学家预警了 8 颗超新星。",
-      "url": "https://www.geekpark.net/news/370667",
-      "published_at": "2026-09-20 15:27:15",
-      "tags": [
-        "千问",
-        "三体",
-        "天文"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "机器人如何自进化，乐享科技走了一条新路",
-      "summary": "当数字世界的 AI 开始讨论自进化，物理世界的 AI 有没有自进化，或许是下一个时代最重要的问题。",
-      "url": "https://www.geekpark.net/news/370665",
-      "published_at": "2026-09-20 15:15:14",
-      "tags": [
-        "具身智能",
-        "机器人",
-        "人工智能"
-      ],
-      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
