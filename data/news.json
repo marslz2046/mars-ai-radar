@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02 16:29:19",
-  "generated_rfc2822": "Fri, 02 Oct 2026 16:29:19 +0800",
+  "generated_at": "2026-10-03 16:04:01",
+  "generated_rfc2822": "Sat, 03 Oct 2026 16:04:01 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -62,7 +62,7 @@
         "agent",
         "AI应用"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +79,7 @@
         "李飞飞",
         "世界模型"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +95,7 @@
         "Anthropic",
         "AI"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -111,7 +111,7 @@
         "阿里云",
         "云栖大会"
       ],
-      "priority": 65,
+      "priority": 59,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -128,7 +128,7 @@
         "大模型",
         "Claude Code"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -145,7 +145,7 @@
         "大模型",
         "AI助手"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -160,7 +160,7 @@
       "tags": [
         "高通"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -177,7 +177,7 @@
         "AI Native",
         "组织管理"
       ],
-      "priority": 63,
+      "priority": 58,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -194,7 +194,7 @@
         "豆包手机",
         "腾讯"
       ],
-      "priority": 69,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -211,7 +211,7 @@
         "束骏亮",
         "千问办公"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
