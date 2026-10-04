@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03 16:04:01",
-  "generated_rfc2822": "Sat, 03 Oct 2026 16:04:01 +0800",
+  "generated_at": "2026-10-04 16:25:00",
+  "generated_rfc2822": "Sun, 04 Oct 2026 16:25:00 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-01",
-      "home_url": "https://www.geekpark.net/news/372065"
+      "last_accessible": "2026-10-04",
+      "home_url": "https://www.geekpark.net/news/372075"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,40 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」",
+      "summary": "AI 数字人，第一次学会了「察言观色」。",
+      "url": "https://www.geekpark.net/news/372075",
+      "published_at": "2026-10-04 13:27:14",
+      "tags": [
+        "Griffin",
+        "Tavus",
+        "AI视频"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "Claude Code 的「乐高」模式，让程序员彻底玩「上头」了",
+      "summary": "AI 编程工具，进入「Minecraft」时代。",
+      "url": "https://www.geekpark.net/news/372074",
+      "published_at": "2026-10-04 13:16:11",
+      "tags": [
+        "Anthropic",
+        "Claude Code",
+        "DeepSeek"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "从数据到智能，再到进化：Agent正在重写AI基础设施",
       "summary": "Agent 时代基础设施竞争的关键，正在转向。",
       "url": "https://www.geekpark.net/news/372065",
@@ -62,7 +96,7 @@
         "agent",
         "AI应用"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +113,7 @@
         "李飞飞",
         "世界模型"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +129,7 @@
         "Anthropic",
         "AI"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -111,7 +145,7 @@
         "阿里云",
         "云栖大会"
       ],
-      "priority": 59,
+      "priority": 53,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -128,7 +162,7 @@
         "大模型",
         "Claude Code"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -145,7 +179,7 @@
         "大模型",
         "AI助手"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -160,7 +194,7 @@
       "tags": [
         "高通"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -177,41 +211,7 @@
         "AI Native",
         "组织管理"
       ],
-      "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？",
-      "summary": "腾讯《三角洲行动》官宣联动国产武侠游戏《影之刃零》；黑客在暗网兜售 AI 模型访问权限，最低价仅有正版 3%；「第二代豆包手机」玩《王者荣耀》遭强制下线，称暂未收到腾讯回复",
-      "url": "https://www.geekpark.net/news/371044",
-      "published_at": "2026-09-28 08:06:58",
-      "tags": [
-        "OpenAI",
-        "豆包手机",
-        "腾讯"
-      ],
-      "priority": 64,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "阿里整合 AI 办公力量后，千问办公怎么打这场大战？",
-      "summary": "企业需要的已经不只是一个能写文档、做 PPT 的通用助手，而是一个能够理解组织数据、进入业务流程，同时受到身份、权限和审计约束的 Agent。",
-      "url": "https://www.geekpark.net/news/371040",
-      "published_at": "2026-09-27 16:38:53",
-      "tags": [
-        "云栖大会2026",
-        "束骏亮",
-        "千问办公"
-      ],
-      "priority": 60,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
