@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05 17:00:00",
-  "generated_rfc2822": "Mon, 05 Oct 2026 17:00:00 +0800",
+  "generated_at": "2026-10-06 16:56:41",
+  "generated_rfc2822": "Tue, 06 Oct 2026 16:56:41 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-04",
-      "home_url": "https://www.geekpark.net/news/372081"
+      "last_accessible": "2026-10-05",
+      "home_url": "https://www.geekpark.net/news/372084"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-09-26",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20260926"
+      "last_accessible": "2026-09-30",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20260930"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,21 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "AI，为什么总在画美女？",
+      "summary": "人类的特性，决定了 AI 的形状。",
+      "url": "https://www.geekpark.net/news/372084",
+      "published_at": "2026-10-05 17:45:01",
+      "tags": [
+        "AI"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "Jev 之后，中国团队开始深挖 AI 的「直觉层」",
       "summary": "大模型负责想，小模型负责判断，这门新生意中国团队不会缺席。",
       "url": "https://www.geekpark.net/news/372081",
@@ -60,7 +75,7 @@
       "tags": [
         "Jev"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -77,7 +92,7 @@
         "Tavus",
         "AI视频"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -94,7 +109,7 @@
         "Claude Code",
         "DeepSeek"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -111,7 +126,22 @@
         "agent",
         "AI应用"
       ],
-      "priority": 70,
+      "priority": 64,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月30日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260930",
+      "published_at": "2026-09-30 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -145,6 +175,21 @@
         "AI"
       ],
       "priority": 60,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月29日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260929",
+      "published_at": "2026-09-29 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -199,17 +244,32 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "AI 手机只是起点，高通要为智能体铺一条全栈技术路线",
-      "summary": "重新定义芯片、设备与个人智能体之间的关系。",
-      "url": "https://www.geekpark.net/news/371113",
-      "published_at": "2026-09-28 17:15:42",
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月28日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260928",
+      "published_at": "2026-09-28 10:00:00",
       "tags": [
-        "高通"
+        "知识库精选"
       ],
-      "priority": 60,
+      "priority": 50,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年9月27日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20260927",
+      "published_at": "2026-09-27 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -356,66 +416,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260915",
       "published_at": "2026-09-15 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月14日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260914",
-      "published_at": "2026-09-14 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月13日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260913",
-      "published_at": "2026-09-13 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月12日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260912",
-      "published_at": "2026-09-12 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月11日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260911",
-      "published_at": "2026-09-11 10:00:00",
       "tags": [
         "知识库精选"
       ],
