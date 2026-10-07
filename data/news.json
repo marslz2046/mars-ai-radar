@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06 16:56:41",
-  "generated_rfc2822": "Tue, 06 Oct 2026 16:56:41 +0800",
+  "generated_at": "2026-10-07 16:36:38",
+  "generated_rfc2822": "Wed, 07 Oct 2026 16:36:38 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -60,7 +60,7 @@
       "tags": [
         "AI"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -75,7 +75,7 @@
       "tags": [
         "Jev"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -92,7 +92,7 @@
         "Tavus",
         "AI视频"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -109,7 +109,7 @@
         "Claude Code",
         "DeepSeek"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -126,7 +126,7 @@
         "agent",
         "AI应用"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
