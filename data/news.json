@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08 16:55:29",
-  "generated_rfc2822": "Thu, 08 Oct 2026 16:55:29 +0800",
+  "generated_at": "2026-10-09 16:59:40",
+  "generated_rfc2822": "Fri, 09 Oct 2026 16:59:40 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-05",
-      "home_url": "https://www.geekpark.net/news/372084"
+      "last_accessible": "2026-10-09",
+      "home_url": "https://www.geekpark.net/news/372163"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-07",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20261007"
+      "last_accessible": "2026-10-08",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20261008"
     },
     {
       "id": "huangshu",
@@ -50,6 +50,55 @@
   ],
   "items": [
     {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "我使用国产「个人 AI 助手」的十天｜AI 上新",
+      "summary": "Personal AI 的精髓——像人又懂你。",
+      "url": "https://www.geekpark.net/news/372163",
+      "published_at": "2026-10-09 12:34:12",
+      "tags": [
+        "AI助手",
+        "大模型",
+        "Personal AI"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」",
+      "summary": "他复刻了蝙蝠的本事，给 AI 的下个战场递了一把「铲子」。",
+      "url": "https://www.geekpark.net/news/372148",
+      "published_at": "2026-10-09 12:28:07",
+      "tags": [
+        "鲲为",
+        "脑科学",
+        "穿颅读脑"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年10月8日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20261008",
+      "published_at": "2026-10-08 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 78,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -60,7 +109,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -75,7 +124,7 @@
       "tags": [
         "AI"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -90,7 +139,7 @@
       "tags": [
         "Jev"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -107,7 +156,7 @@
         "Tavus",
         "AI视频"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -124,7 +173,7 @@
         "Claude Code",
         "DeepSeek"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -221,40 +270,6 @@
         "云栖大会"
       ],
       "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "不到 1 个月估值暴涨 100 亿美元，Jev 创造者：ChatGPT 把 AI 带歪了",
-      "summary": "Automation 才是王道。",
-      "url": "https://www.geekpark.net/news/371126",
-      "published_at": "2026-09-28 17:50:05",
-      "tags": [
-        "Jev",
-        "大模型",
-        "Claude Code"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "OpenAI，经历了最漫长的一天",
-      "summary": "强闯政府网站，暴露用户图片，OpenAI 暂停最强模型研究工作。",
-      "url": "https://www.geekpark.net/news/371123",
-      "published_at": "2026-09-28 17:45:25",
-      "tags": [
-        "OpenAI",
-        "大模型",
-        "AI助手"
-      ],
-      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -401,21 +416,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260917",
       "published_at": "2026-09-17 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月16日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260916",
-      "published_at": "2026-09-16 10:00:00",
       "tags": [
         "知识库精选"
       ],
