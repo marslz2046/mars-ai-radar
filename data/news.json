@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09 16:59:40",
-  "generated_rfc2822": "Fri, 09 Oct 2026 16:59:40 +0800",
+  "generated_at": "2026-10-10 16:27:36",
+  "generated_rfc2822": "Sat, 10 Oct 2026 16:27:36 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -62,7 +62,7 @@
         "大模型",
         "Personal AI"
       ],
-      "priority": 94,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +79,7 @@
         "脑科学",
         "穿颅读脑"
       ],
-      "priority": 86,
+      "priority": 81,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -94,7 +94,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -109,7 +109,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -124,7 +124,7 @@
       "tags": [
         "AI"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -139,7 +139,7 @@
       "tags": [
         "Jev"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -156,7 +156,7 @@
         "Tavus",
         "AI视频"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -173,7 +173,7 @@
         "Claude Code",
         "DeepSeek"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
