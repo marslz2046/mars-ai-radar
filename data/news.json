@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12 17:08:38",
-  "generated_rfc2822": "Mon, 12 Oct 2026 17:08:38 +0800",
+  "generated_at": "2026-10-13 17:23:14",
+  "generated_rfc2822": "Tue, 13 Oct 2026 17:23:14 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-09",
-      "home_url": "https://www.geekpark.net/news/372163"
+      "last_accessible": "2026-10-13",
+      "home_url": "https://www.geekpark.net/news/372284"
     },
     {
       "id": "xiaohu",
@@ -50,6 +50,41 @@
   ],
   "items": [
     {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "上线九个月下载破亿，字节在海外再造「红果」",
+      "summary": "字节新爆款。",
+      "url": "https://www.geekpark.net/news/372284",
+      "published_at": "2026-10-13 13:19:56",
+      "tags": [
+        "字节",
+        "红果短剧",
+        "PineDrama"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "复旦邱锡鹏团队获超 10 亿融资，成立两年，让模型感知、理解、响应变化的世界",
+      "summary": "​大模型融资还在继续，新的押注转向了能边听、边看、边说的 AI。",
+      "url": "https://www.geekpark.net/news/372278",
+      "published_at": "2026-10-13 11:44:18",
+      "tags": [
+        "模思智能",
+        "李世民",
+        "机器人",
+        "MOSS-VL-Realtime"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -60,7 +95,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -75,7 +110,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -92,7 +127,7 @@
         "大模型",
         "Personal AI"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -109,7 +144,7 @@
         "脑科学",
         "穿颅读脑"
       ],
-      "priority": 68,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -124,7 +159,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -139,7 +174,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -154,7 +189,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -272,22 +307,6 @@
       "backfill": false
     },
     {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Anthropic 招股书里，最耐人寻味的 7 个细节",
-      "summary": "在各种揣测和误读之外，一份非常 A 社气质的招股书。",
-      "url": "https://www.geekpark.net/news/371994",
-      "published_at": "2026-09-29 17:12:00",
-      "tags": [
-        "Anthropic",
-        "AI"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
       "source_id": "waytoagi",
       "source": "WaytoAGI",
       "type": "daily",
@@ -299,22 +318,6 @@
         "知识库精选"
       ],
       "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "中国智能汽车的后台，越来越像阿里云的主场",
-      "summary": "阿里云做的不是云，是智能汽车的地基。",
-      "url": "https://www.geekpark.net/news/371357",
-      "published_at": "2026-09-28 22:54:50",
-      "tags": [
-        "阿里云",
-        "云栖大会"
-      ],
-      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
