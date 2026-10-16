@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15 15:23:19",
-  "generated_rfc2822": "Thu, 15 Oct 2026 15:23:19 +0800",
+  "generated_at": "2026-10-16 15:06:50",
+  "generated_rfc2822": "Fri, 16 Oct 2026 15:06:50 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-15",
-      "home_url": "https://www.geekpark.net/news/372386"
+      "last_accessible": "2026-10-16",
+      "home_url": "https://www.geekpark.net/news/372461"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-11",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20261011"
+      "last_accessible": "2026-10-14",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20261014"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,125 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "为什么 Anthropic 不做 Personal AI",
+      "summary": "生活，还是干活，这是个问题。",
+      "url": "https://www.geekpark.net/news/372461",
+      "published_at": "2026-10-16 14:50:02",
+      "tags": [
+        "OpenAI",
+        "personal AI",
+        "个人 agent"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "是的，特斯拉真造了一辆「飞行汽车」！",
+      "summary": "历史，是由疯子和工程师创造的。",
+      "url": "https://www.geekpark.net/news/372459",
+      "published_at": "2026-10-16 14:46:47",
+      "tags": [
+        "特斯拉",
+        "马斯克",
+        "Tesla"
+      ],
+      "priority": 87,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "苹果和 Meta 和好了，是 AI 逼的",
+      "summary": "没有永远的敌人，只有永远的 AI 焦虑。",
+      "url": "https://www.geekpark.net/news/372458",
+      "published_at": "2026-10-16 14:41:48",
+      "tags": [
+        "苹果",
+        "Meta",
+        "AI"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "巅峰估值 50 亿美元的 AI 独角兽，何以不到 0.1 折贱卖",
+      "summary": "被抽走灵魂的两年。",
+      "url": "https://www.geekpark.net/news/372437",
+      "published_at": "2026-10-16 10:22:17",
+      "tags": [
+        "Character.AI",
+        "迪士尼",
+        "AI陪伴"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "第一款 AI 手机，被半个互联网「拒」了",
+      "summary": "大厂集体选择的背后，是移动端 AI 入口权的首次正面博弈，也拉开了智能体时代应用生态规则重构的序幕。",
+      "url": "https://www.geekpark.net/news/372436",
+      "published_at": "2026-10-16 10:18:36",
+      "tags": [
+        "豆包手机",
+        "字节跳动",
+        "腾讯"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "腾讯盯上了字节的摇钱树",
+      "summary": "红果对上绿泡泡。",
+      "url": "https://www.geekpark.net/news/372435",
+      "published_at": "2026-10-16 10:15:21",
+      "tags": [
+        "红果短剧",
+        "绿泡泡短剧",
+        "腾讯"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "人形机器人最尴尬的事：长了一双腿，却只能定住干活",
+      "summary": "当曾经主要展示灵活性的动作，开始有了实际工作的意义，整条人形机器人产业链将重新组织起来。",
+      "url": "https://www.geekpark.net/news/372420",
+      "published_at": "2026-10-15 18:20:44",
+      "tags": [
+        "具身智能",
+        "全身智能",
+        "源策未来"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "卖出去≠全球化成功，中国企业出海究竟还差什么？",
       "summary": "中国企业出海的尽头是亚马逊云科技+本地化经营。",
       "url": "https://www.geekpark.net/news/372386",
@@ -62,7 +181,22 @@
         "企业出海",
         "亚马逊云科技"
       ],
-      "priority": 87,
+      "priority": 81,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年10月14日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20261014",
+      "published_at": "2026-10-14 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +213,7 @@
         "红果短剧",
         "PineDrama"
       ],
-      "priority": 75,
+      "priority": 69,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -97,7 +231,22 @@
         "机器人",
         "MOSS-VL-Realtime"
       ],
-      "priority": 83,
+      "priority": 77,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年10月13日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20261013",
+      "published_at": "2026-10-13 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -112,7 +261,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,41 +276,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "我使用国产「个人 AI 助手」的十天｜AI 上新",
-      "summary": "Personal AI 的精髓——像人又懂你。",
-      "url": "https://www.geekpark.net/news/372163",
-      "published_at": "2026-10-09 12:34:12",
-      "tags": [
-        "AI助手",
-        "大模型",
-        "Personal AI"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」",
-      "summary": "他复刻了蝙蝠的本事，给 AI 的下个战场递了一把「铲子」。",
-      "url": "https://www.geekpark.net/news/372148",
-      "published_at": "2026-10-09 12:28:07",
-      "tags": [
-        "鲲为",
-        "脑科学",
-        "穿颅读脑"
-      ],
-      "priority": 52,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -207,87 +322,6 @@
         "知识库精选"
       ],
       "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "AI，为什么总在画美女？",
-      "summary": "人类的特性，决定了 AI 的形状。",
-      "url": "https://www.geekpark.net/news/372084",
-      "published_at": "2026-10-05 17:45:01",
-      "tags": [
-        "AI"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Jev 之后，中国团队开始深挖 AI 的「直觉层」",
-      "summary": "大模型负责想，小模型负责判断，这门新生意中国团队不会缺席。",
-      "url": "https://www.geekpark.net/news/372081",
-      "published_at": "2026-10-04 19:41:48",
-      "tags": [
-        "Jev"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」",
-      "summary": "AI 数字人，第一次学会了「察言观色」。",
-      "url": "https://www.geekpark.net/news/372075",
-      "published_at": "2026-10-04 13:27:14",
-      "tags": [
-        "Griffin",
-        "Tavus",
-        "AI视频"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Claude Code 的「乐高」模式，让程序员彻底玩「上头」了",
-      "summary": "AI 编程工具，进入「Minecraft」时代。",
-      "url": "https://www.geekpark.net/news/372074",
-      "published_at": "2026-10-04 13:16:11",
-      "tags": [
-        "Anthropic",
-        "Claude Code",
-        "DeepSeek"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "从数据到智能，再到进化：Agent正在重写AI基础设施",
-      "summary": "Agent 时代基础设施竞争的关键，正在转向。",
-      "url": "https://www.geekpark.net/news/372065",
-      "published_at": "2026-10-01 11:21:33",
-      "tags": [
-        "阿里云",
-        "agent",
-        "AI应用"
-      ],
-      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -389,36 +423,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260922",
       "published_at": "2026-09-22 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月21日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260921",
-      "published_at": "2026-09-21 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月20日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260920",
-      "published_at": "2026-09-20 10:00:00",
       "tags": [
         "知识库精选"
       ],
