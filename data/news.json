@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16 15:06:50",
-  "generated_rfc2822": "Fri, 16 Oct 2026 15:06:50 +0800",
+  "generated_at": "2026-10-17 14:53:55",
+  "generated_rfc2822": "Sat, 17 Oct 2026 14:53:55 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-16",
-      "home_url": "https://www.geekpark.net/news/372461"
+      "last_accessible": "2026-10-17",
+      "home_url": "https://www.geekpark.net/news/372509"
     },
     {
       "id": "xiaohu",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-14",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20261014"
+      "last_accessible": "2026-10-15",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20261015"
     },
     {
       "id": "huangshu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相",
+      "summary": "想买的人是真的多，能买到的货也是真的少。",
+      "url": "https://www.geekpark.net/news/372509",
+      "published_at": "2026-10-17 10:46:16",
+      "tags": [
+        "苹果发布会",
+        "iPhoneDUO",
+        "苹果折叠屏"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "为什么 Anthropic 不做 Personal AI",
       "summary": "生活，还是干活，这是个问题。",
       "url": "https://www.geekpark.net/news/372461",
@@ -62,7 +79,7 @@
         "personal AI",
         "个人 agent"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +96,7 @@
         "马斯克",
         "Tesla"
       ],
-      "priority": 87,
+      "priority": 81,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +113,7 @@
         "Meta",
         "AI"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +130,7 @@
         "迪士尼",
         "AI陪伴"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +147,7 @@
         "字节跳动",
         "腾讯"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +164,7 @@
         "绿泡泡短剧",
         "腾讯"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -164,7 +181,7 @@
         "全身智能",
         "源策未来"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -181,7 +198,22 @@
         "企业出海",
         "亚马逊云科技"
       ],
-      "priority": 81,
+      "priority": 75,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年10月15日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20261015",
+      "published_at": "2026-10-15 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -196,7 +228,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -213,25 +245,7 @@
         "红果短剧",
         "PineDrama"
       ],
-      "priority": 69,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "复旦邱锡鹏团队获超 10 亿融资，成立两年，让模型感知、理解、响应变化的世界",
-      "summary": "​大模型融资还在继续，新的押注转向了能边听、边看、边说的 AI。",
-      "url": "https://www.geekpark.net/news/372278",
-      "published_at": "2026-10-13 11:44:18",
-      "tags": [
-        "模思智能",
-        "李世民",
-        "机器人",
-        "MOSS-VL-Realtime"
-      ],
-      "priority": 77,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -246,7 +260,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -261,7 +275,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -408,21 +422,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260925",
       "published_at": "2026-09-25 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月22日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260922",
-      "published_at": "2026-09-22 10:00:00",
       "tags": [
         "知识库精选"
       ],
