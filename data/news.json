@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17 14:53:55",
-  "generated_rfc2822": "Sat, 17 Oct 2026 14:53:55 +0800",
+  "generated_at": "2026-10-18 15:12:12",
+  "generated_rfc2822": "Sun, 18 Oct 2026 15:12:12 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -62,7 +62,7 @@
         "iPhoneDUO",
         "苹果折叠屏"
       ],
-      "priority": 86,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +79,7 @@
         "personal AI",
         "个人 agent"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +96,7 @@
         "马斯克",
         "Tesla"
       ],
-      "priority": 81,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +113,7 @@
         "Meta",
         "AI"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +130,7 @@
         "迪士尼",
         "AI陪伴"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +147,7 @@
         "字节跳动",
         "腾讯"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -164,7 +164,7 @@
         "绿泡泡短剧",
         "腾讯"
       ],
-      "priority": 80,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -181,7 +181,7 @@
         "全身智能",
         "源策未来"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -198,7 +198,7 @@
         "企业出海",
         "亚马逊云科技"
       ],
-      "priority": 75,
+      "priority": 69,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -213,7 +213,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -228,7 +228,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -245,7 +245,7 @@
         "红果短剧",
         "PineDrama"
       ],
-      "priority": 63,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -260,7 +260,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
