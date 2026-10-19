@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18 15:12:12",
-  "generated_rfc2822": "Sun, 18 Oct 2026 15:12:12 +0800",
+  "generated_at": "2026-10-19 15:43:31",
+  "generated_rfc2822": "Mon, 19 Oct 2026 15:43:31 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -26,8 +26,8 @@
       "mode": "知识库精选页",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-15",
-      "home_url": "https://www.waytoagi.com/zh/blog/news-20261015"
+      "last_accessible": "2026-10-17",
+      "home_url": "https://www.waytoagi.com/zh/blog/news-20261017"
     },
     {
       "id": "huangshu",
@@ -62,7 +62,22 @@
         "iPhoneDUO",
         "苹果折叠屏"
       ],
-      "priority": 80,
+      "priority": 74,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年10月17日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20261017",
+      "published_at": "2026-10-17 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +94,7 @@
         "personal AI",
         "个人 agent"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +111,7 @@
         "马斯克",
         "Tesla"
       ],
-      "priority": 75,
+      "priority": 69,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +128,7 @@
         "Meta",
         "AI"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +145,7 @@
         "迪士尼",
         "AI陪伴"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +162,7 @@
         "字节跳动",
         "腾讯"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -164,7 +179,22 @@
         "绿泡泡短剧",
         "腾讯"
       ],
-      "priority": 74,
+      "priority": 68,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "waytoagi",
+      "source": "WaytoAGI",
+      "type": "daily",
+      "title": "知识库精选-2026年10月16日",
+      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
+      "url": "https://www.waytoagi.com/zh/blog/news-20261016",
+      "published_at": "2026-10-16 10:00:00",
+      "tags": [
+        "知识库精选"
+      ],
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -181,7 +211,7 @@
         "全身智能",
         "源策未来"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -198,7 +228,7 @@
         "企业出海",
         "亚马逊云科技"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -213,7 +243,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -228,7 +258,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -245,7 +275,7 @@
         "红果短剧",
         "PineDrama"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -260,7 +290,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -392,36 +422,6 @@
       "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
       "url": "https://www.waytoagi.com/zh/blog/news-20260927",
       "published_at": "2026-09-27 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月26日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260926",
-      "published_at": "2026-09-26 10:00:00",
-      "tags": [
-        "知识库精选"
-      ],
-      "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "waytoagi",
-      "source": "WaytoAGI",
-      "type": "daily",
-      "title": "知识库精选-2026年9月25日",
-      "summary": "WaytoAGI 公开知识库精选页。若近期日期路由异常，该来源会在源状态中显示。",
-      "url": "https://www.waytoagi.com/zh/blog/news-20260925",
-      "published_at": "2026-09-25 10:00:00",
       "tags": [
         "知识库精选"
       ],
