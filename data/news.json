@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25 15:33:23",
-  "generated_rfc2822": "Sun, 25 Oct 2026 15:33:23 +0800",
+  "generated_at": "2026-10-26 15:45:24",
+  "generated_rfc2822": "Mon, 26 Oct 2026 15:45:24 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -60,7 +60,7 @@
       "tags": [
         "天猫双11"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -77,7 +77,7 @@
         "英伟达",
         "AI 算力"
       ],
-      "priority": 81,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -94,7 +94,7 @@
         "机器人",
         "具身智能"
       ],
-      "priority": 79,
+      "priority": 73,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -111,7 +111,7 @@
         "AI漫剧",
         "AI短剧"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -128,7 +128,7 @@
         "腾讯云",
         "AI搜素"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -145,7 +145,7 @@
         "Anthropic",
         "Duet"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -162,7 +162,7 @@
         "Werner Vogels",
         "亚马逊云科技"
       ],
-      "priority": 63,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -177,7 +177,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 60,
+      "priority": 54,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -194,7 +194,7 @@
         "个人设计 Agent",
         "AI工具"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -209,7 +209,7 @@
       "tags": [
         "知识库精选"
       ],
-      "priority": 54,
+      "priority": 50,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -226,7 +226,7 @@
         "iPhone",
         "折叠屏"
       ],
-      "priority": 56,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
