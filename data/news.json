@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27 15:48:13",
-  "generated_rfc2822": "Tue, 27 Oct 2026 15:48:13 +0800",
+  "generated_at": "2026-10-28 16:25:14",
+  "generated_rfc2822": "Wed, 28 Oct 2026 16:25:14 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-26",
-      "home_url": "https://www.geekpark.net/news/372944"
+      "last_accessible": "2026-10-28",
+      "home_url": "https://www.geekpark.net/news/373066"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,125 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步",
+      "summary": "重构 AI 短剧制作流程。",
+      "url": "https://www.geekpark.net/news/373066",
+      "published_at": "2026-10-28 16:04:17",
+      "tags": [
+        "AI短剧",
+        "即梦AI",
+        "视频生成模型"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "斯坦福的研究，红海的珊瑚，与一个中国模型",
+      "summary": "灵波开源，中国 AI 的另一种出海叙事",
+      "url": "https://www.geekpark.net/news/373059",
+      "published_at": "2026-10-28 15:37:30",
+      "tags": [
+        "DeepReefMap",
+        "“出海”",
+        "AMD"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "看了招股书，我终于知道为什么 Anthropic 不在乎用户了",
+      "summary": "不仅仅是东方用户。",
+      "url": "https://www.geekpark.net/news/373006",
+      "published_at": "2026-10-27 16:55:13",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "AI"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "Manus，刚刚悄悄发布了自己的 2.0 宣言",
+      "summary": "Manus 最好的产品演示，是它的团队自己。",
+      "url": "https://www.geekpark.net/news/373004",
+      "published_at": "2026-10-27 16:49:29",
+      "tags": [
+        "Manus",
+        "Manus AI",
+        "组织效率"
+      ],
+      "priority": 82,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
+      "summary": "量产提速，物理 AI 入家。",
+      "url": "https://www.geekpark.net/news/373003",
+      "published_at": "2026-10-27 16:46:19",
+      "tags": [
+        "物理AI",
+        "启元机器人",
+        "个人机器人"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状",
+      "summary": "Shopify AI 交易订单增长了 13 倍。",
+      "url": "https://www.geekpark.net/news/373002",
+      "published_at": "2026-10-27 16:42:40",
+      "tags": [
+        "亚马逊",
+        "iPhone Duo",
+        "Shopify AI"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场",
+      "summary": "从 Demo 好看到生产好用。",
+      "url": "https://www.geekpark.net/news/372939",
+      "published_at": "2026-10-27 15:59:20",
+      "tags": [
+        "Hi3D",
+        "AI 3D",
+        "3D 生成"
+      ],
+      "priority": 89,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "今年的 1024，可能是最后一个程序员节",
       "summary": "程序员可能会消失，但人人都变成了「程序员」。",
       "url": "https://www.geekpark.net/news/372944",
@@ -62,7 +181,7 @@
         "码农",
         "程序员节"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +198,7 @@
         "K3.1 Pro",
         "Kimi"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -94,109 +213,7 @@
       "tags": [
         "天猫双11"
       ],
-      "priority": 71,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "欧洲 AI，等来了黄仁勋",
-      "summary": "在谈主义之前，先把工业搞上去。",
-      "url": "https://www.geekpark.net/news/372763",
-      "published_at": "2026-10-23 06:41:03",
-      "tags": [
-        "黄仁勋",
-        "英伟达",
-        "AI 算力"
-      ],
-      "priority": 69,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "宇树 10 周年，王兴兴：我劝你相信 AI",
-      "summary": "物理 AI 的「GPT 时刻」，可能不远了。",
-      "url": "https://www.geekpark.net/news/372759",
-      "published_at": "2026-10-22 19:56:03",
-      "tags": [
-        "宇树科技",
-        "机器人",
-        "具身智能"
-      ],
-      "priority": 67,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "AI 漫剧越做越快，赚钱却没那么容易了",
-      "summary": "入场便宜了，赚钱的门槛却未必跟着降低。",
-      "url": "https://www.geekpark.net/news/372746",
-      "published_at": "2026-10-22 16:20:34",
-      "tags": [
-        "酱油文化",
-        "AI漫剧",
-        "AI短剧"
-      ],
-      "priority": 66,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "大模型内卷之后，AI 竞争进入搜索基础设施时代",
-      "summary": "腾讯宣布向全行业开放「元宝搜索」能力。",
-      "url": "https://www.geekpark.net/news/372743",
-      "published_at": "2026-10-22 16:15:50",
-      "tags": [
-        "元宝搜索",
-        "腾讯云",
-        "AI搜素"
-      ],
-      "priority": 66,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
-      "summary": "克制，会是 Personal AI 的优势吗？",
-      "url": "https://www.geekpark.net/news/372740",
-      "published_at": "2026-10-22 15:23:08",
-      "tags": [
-        "Personal AI",
-        "Anthropic",
-        "Duet"
-      ],
       "priority": 65,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "亚马逊 CTO Dr. Werner Vogels：二十余年技术实践，想与创业者分享这 4 点",
-      "summary": "AI 创业热潮中，什么问题值得长期投入？从真实痛点、创新判断到安全底线，分享创业者值得想清楚的关键问题。",
-      "url": "https://www.geekpark.net/news/372671",
-      "published_at": "2026-10-21 12:16:25",
-      "tags": [
-        "亚马逊",
-        "Werner Vogels",
-        "亚马逊云科技"
-      ],
-      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -212,23 +229,6 @@
         "知识库精选"
       ],
       "priority": 50,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "设计师的第一个 Personal Agent，可能就是 Lovart 2.0 的 Arti 了",
-      "summary": "如果说 Lovart 1.0 开始把整套设计流程放进一块画布， 那 Lovart 2.0 和 Arti 所希望的，或许是设计师可以暂时离开这块画布了。",
-      "url": "https://www.geekpark.net/news/372612",
-      "published_at": "2026-10-20 13:46:53",
-      "tags": [
-        "Lovart",
-        "个人设计 Agent",
-        "AI工具"
-      ],
-      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
