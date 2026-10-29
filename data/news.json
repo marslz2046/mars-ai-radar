@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28 16:25:14",
-  "generated_rfc2822": "Wed, 28 Oct 2026 16:25:14 +0800",
+  "generated_at": "2026-10-29 16:25:33",
+  "generated_rfc2822": "Thu, 29 Oct 2026 16:25:33 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -62,7 +62,7 @@
         "即梦AI",
         "视频生成模型"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +79,7 @@
         "“出海”",
         "AMD"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +96,7 @@
         "Claude",
         "AI"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +113,7 @@
         "Manus AI",
         "组织效率"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +130,7 @@
         "启元机器人",
         "个人机器人"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +147,7 @@
         "iPhone Duo",
         "Shopify AI"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -164,7 +164,7 @@
         "AI 3D",
         "3D 生成"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -181,7 +181,7 @@
         "码农",
         "程序员节"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -198,7 +198,7 @@
         "K3.1 Pro",
         "Kimi"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -213,7 +213,7 @@
       "tags": [
         "天猫双11"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
