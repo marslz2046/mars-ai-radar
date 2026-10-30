@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29 16:25:33",
-  "generated_rfc2822": "Thu, 29 Oct 2026 16:25:33 +0800",
+  "generated_at": "2026-10-30 16:35:55",
+  "generated_rfc2822": "Fri, 30 Oct 2026 16:35:55 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-28",
-      "home_url": "https://www.geekpark.net/news/373066"
+      "last_accessible": "2026-10-30",
+      "home_url": "https://www.geekpark.net/news/373190"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "TRAE 开发者个人助理，打响 AI Coding 的下半场",
+      "summary": "2026，AI Coding 的基建终于开始追上 AI 的生成速度了。",
+      "url": "https://www.geekpark.net/news/373190",
+      "published_at": "2026-10-30 13:49:25",
+      "tags": [
+        "TRAE",
+        "AI Coding",
+        "AI 个人助理"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步",
       "summary": "重构 AI 短剧制作流程。",
       "url": "https://www.geekpark.net/news/373066",
@@ -62,7 +79,7 @@
         "即梦AI",
         "视频生成模型"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +96,7 @@
         "“出海”",
         "AMD"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +113,7 @@
         "Claude",
         "AI"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +130,7 @@
         "Manus AI",
         "组织效率"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +147,7 @@
         "启元机器人",
         "个人机器人"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +164,7 @@
         "iPhone Duo",
         "Shopify AI"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -164,7 +181,7 @@
         "AI 3D",
         "3D 生成"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -181,7 +198,7 @@
         "码农",
         "程序员节"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -198,22 +215,7 @@
         "K3.1 Pro",
         "Kimi"
       ],
-      "priority": 70,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "今年双 11，天猫想卖的不只是货，还有 Token",
-      "summary": "消费增速放缓的年份，天猫把 AI 用在「理解人」上：搜索读懂意图，3C 承接 AI 新品，连 Token 都摆上了货架。",
-      "url": "https://www.geekpark.net/news/372801",
-      "published_at": "2026-10-23 13:56:53",
-      "tags": [
-        "天猫双11"
-      ],
-      "priority": 60,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
