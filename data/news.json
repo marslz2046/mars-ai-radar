@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31 16:23:15",
-  "generated_rfc2822": "Sat, 31 Oct 2026 16:23:15 +0800",
+  "generated_at": "2026-11-01 17:12:44",
+  "generated_rfc2822": "Sun, 01 Nov 2026 17:12:44 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-10-30",
-      "home_url": "https://www.geekpark.net/news/373190"
+      "last_accessible": "2026-11-01",
+      "home_url": "https://www.geekpark.net/news/373245"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,40 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
+      "summary": "AI 公司负责模型，互联网负责人设。",
+      "url": "https://www.geekpark.net/news/373245",
+      "published_at": "2026-11-01 09:46:08",
+      "tags": [
+        "Deepseek",
+        "豆包",
+        "Grok"
+      ],
+      "priority": 86,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
+      "summary": "豆包手机的问题，也是蚂蚁灵光的问题。",
+      "url": "https://www.geekpark.net/news/373244",
+      "published_at": "2026-11-01 09:41:45",
+      "tags": [
+        "豆包手机",
+        "蚂蚁灵光",
+        "个人智能体"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "TRAE 开发者个人助理，打响 AI Coding 的下半场",
       "summary": "2026，AI Coding 的基建终于开始追上 AI 的生成速度了。",
       "url": "https://www.geekpark.net/news/373190",
@@ -62,7 +96,7 @@
         "AI Coding",
         "AI 个人助理"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +113,7 @@
         "即梦AI",
         "视频生成模型"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +130,7 @@
         "“出海”",
         "AMD"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +147,7 @@
         "Claude",
         "AI"
       ],
-      "priority": 72,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +164,7 @@
         "Manus AI",
         "组织效率"
       ],
-      "priority": 64,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +181,7 @@
         "启元机器人",
         "个人机器人"
       ],
-      "priority": 72,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -164,7 +198,7 @@
         "iPhone Duo",
         "Shopify AI"
       ],
-      "priority": 72,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -181,41 +215,7 @@
         "AI 3D",
         "3D 生成"
       ],
-      "priority": 71,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "今年的 1024，可能是最后一个程序员节",
-      "summary": "程序员可能会消失，但人人都变成了「程序员」。",
-      "url": "https://www.geekpark.net/news/372944",
-      "published_at": "2026-10-26 18:16:50",
-      "tags": [
-        "程序员",
-        "码农",
-        "程序员节"
-      ],
-      "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5",
-      "summary": "K3.1 Pro 的版本号只往前挪了 0.1，月之暗面想回答的问题却大得多。",
-      "url": "https://www.geekpark.net/news/372943",
-      "published_at": "2026-10-26 18:16:08",
-      "tags": [
-        "月之暗面",
-        "K3.1 Pro",
-        "Kimi"
-      ],
-      "priority": 58,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
