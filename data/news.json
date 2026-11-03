@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02 17:25:37",
-  "generated_rfc2822": "Mon, 02 Nov 2026 17:25:37 +0800",
+  "generated_at": "2026-11-03 17:29:10",
+  "generated_rfc2822": "Tue, 03 Nov 2026 17:29:10 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-01",
-      "home_url": "https://www.geekpark.net/news/373249"
+      "last_accessible": "2026-11-03",
+      "home_url": "https://www.geekpark.net/news/373399"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "心言巴布「Bubbo 1」：一台机器人，如何成为家人",
+      "summary": "从呼来唤去的工具，到主动走近的伙伴，心言巴布迈出了家庭陪伴机器人的第一步。",
+      "url": "https://www.geekpark.net/news/373399",
+      "published_at": "2026-11-03 15:11:52",
+      "tags": [
+        "心言机器人",
+        "巴布「Bubbo 1」",
+        "家庭陪伴机器人"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
       "summary": "豆包手机的问题，也是蚂蚁灵光的问题。",
       "url": "https://www.geekpark.net/news/373249",
@@ -62,7 +79,7 @@
         "蚂蚁灵光",
         "Muse"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +96,7 @@
         "Deepseek",
         "豆包"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +113,7 @@
         "AI Coding",
         "AI 个人助理"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +130,7 @@
         "即梦AI",
         "视频生成模型"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +147,7 @@
         "“出海”",
         "AMD"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -197,23 +214,6 @@
         "亚马逊",
         "iPhone Duo",
         "Shopify AI"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场",
-      "summary": "从 Demo 好看到生产好用。",
-      "url": "https://www.geekpark.net/news/372939",
-      "published_at": "2026-10-27 15:59:20",
-      "tags": [
-        "Hi3D",
-        "AI 3D",
-        "3D 生成"
       ],
       "priority": 60,
       "ai_relevance": "strong",
