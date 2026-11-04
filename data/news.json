@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03 17:29:10",
-  "generated_rfc2822": "Tue, 03 Nov 2026 17:29:10 +0800",
+  "generated_at": "2026-11-04 17:07:11",
+  "generated_rfc2822": "Wed, 04 Nov 2026 17:07:11 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -9,7 +9,7 @@
       "cadence": "公开页面",
       "status": "ok",
       "last_accessible": "2026-11-03",
-      "home_url": "https://www.geekpark.net/news/373399"
+      "home_url": "https://www.geekpark.net/news/373424"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」",
+      "summary": "具身智能终于开始接过日常的活，把更多时间还给人。",
+      "url": "https://www.geekpark.net/news/373424",
+      "published_at": "2026-11-03 19:54:26",
+      "tags": [
+        "Physical Agent",
+        "费莫一",
+        "agent"
+      ],
+      "priority": 82,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "心言巴布「Bubbo 1」：一台机器人，如何成为家人",
       "summary": "从呼来唤去的工具，到主动走近的伙伴，心言巴布迈出了家庭陪伴机器人的第一步。",
       "url": "https://www.geekpark.net/news/373399",
@@ -62,7 +79,7 @@
         "巴布「Bubbo 1」",
         "家庭陪伴机器人"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +96,7 @@
         "蚂蚁灵光",
         "Muse"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +113,7 @@
         "Deepseek",
         "豆包"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +130,7 @@
         "AI Coding",
         "AI 个人助理"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -197,23 +214,6 @@
         "物理AI",
         "启元机器人",
         "个人机器人"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状",
-      "summary": "Shopify AI 交易订单增长了 13 倍。",
-      "url": "https://www.geekpark.net/news/373002",
-      "published_at": "2026-10-27 16:42:40",
-      "tags": [
-        "亚马逊",
-        "iPhone Duo",
-        "Shopify AI"
       ],
       "priority": 60,
       "ai_relevance": "strong",
