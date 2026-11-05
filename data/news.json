@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04 17:07:11",
-  "generated_rfc2822": "Wed, 04 Nov 2026 17:07:11 +0800",
+  "generated_at": "2026-11-05 17:26:52",
+  "generated_rfc2822": "Thu, 05 Nov 2026 17:26:52 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-03",
-      "home_url": "https://www.geekpark.net/news/373424"
+      "last_accessible": "2026-11-05",
+      "home_url": "https://www.geekpark.net/news/373542"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,40 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一",
+      "summary": "Qoder，从程序员专属工具到所有人的 AI 技术底座。",
+      "url": "https://www.geekpark.net/news/373542",
+      "published_at": "2026-11-05 17:19:17",
+      "tags": [
+        "Qoder",
+        "乌镇世界互联网大会",
+        "阿里云"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "一个人用得好 AI，为什么一家公司却用不好？",
+      "summary": "Agent 越来越容易开发，但让它真正成为生产力，企业还需要改变更多。",
+      "url": "https://www.geekpark.net/news/373541",
+      "published_at": "2026-11-05 17:15:38",
+      "tags": [
+        "AI Agent",
+        "腾讯",
+        "腾讯全球数字生态大会"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」",
       "summary": "具身智能终于开始接过日常的活，把更多时间还给人。",
       "url": "https://www.geekpark.net/news/373424",
@@ -62,7 +96,7 @@
         "费莫一",
         "agent"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +113,7 @@
         "巴布「Bubbo 1」",
         "家庭陪伴机器人"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +130,7 @@
         "蚂蚁灵光",
         "Muse"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +147,7 @@
         "Deepseek",
         "豆包"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +164,7 @@
         "AI Coding",
         "AI 个人助理"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -180,40 +214,6 @@
         "Anthropic",
         "Claude",
         "AI"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "Manus，刚刚悄悄发布了自己的 2.0 宣言",
-      "summary": "Manus 最好的产品演示，是它的团队自己。",
-      "url": "https://www.geekpark.net/news/373004",
-      "published_at": "2026-10-27 16:49:29",
-      "tags": [
-        "Manus",
-        "Manus AI",
-        "组织效率"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
-      "summary": "量产提速，物理 AI 入家。",
-      "url": "https://www.geekpark.net/news/373003",
-      "published_at": "2026-10-27 16:46:19",
-      "tags": [
-        "物理AI",
-        "启元机器人",
-        "个人机器人"
       ],
       "priority": 60,
       "ai_relevance": "strong",
