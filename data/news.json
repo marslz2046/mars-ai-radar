@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05 17:26:52",
-  "generated_rfc2822": "Thu, 05 Nov 2026 17:26:52 +0800",
+  "generated_at": "2026-11-06 17:20:07",
+  "generated_rfc2822": "Fri, 06 Nov 2026 17:20:07 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -62,7 +62,7 @@
         "乌镇世界互联网大会",
         "阿里云"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +79,7 @@
         "腾讯",
         "腾讯全球数字生态大会"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +96,7 @@
         "费莫一",
         "agent"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +113,7 @@
         "巴布「Bubbo 1」",
         "家庭陪伴机器人"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +130,7 @@
         "蚂蚁灵光",
         "Muse"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +147,7 @@
         "Deepseek",
         "豆包"
       ],
-      "priority": 64,
+      "priority": 58,
       "ai_relevance": "strong",
       "backfill": false
     },
