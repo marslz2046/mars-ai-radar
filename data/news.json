@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08 16:57:03",
-  "generated_rfc2822": "Sun, 08 Nov 2026 16:57:03 +0800",
+  "generated_at": "2026-11-09 17:44:51",
+  "generated_rfc2822": "Mon, 09 Nov 2026 17:44:51 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-08",
-      "home_url": "https://www.geekpark.net/news/373650"
+      "last_accessible": "2026-11-09",
+      "home_url": "https://www.geekpark.net/news/373715"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,57 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "一颗植物工厂草莓，离你的果盘还有多远？多多农研拉近现场",
+      "summary": "贝索斯没算平的草莓账，一群中国年轻人解决了。",
+      "url": "https://www.geekpark.net/news/373715",
+      "published_at": "2026-11-09 16:15:03",
+      "tags": [
+        "拼多多",
+        "全国现代设施种植",
+        "未来科技趋势"
+      ],
+      "priority": 87,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "实测 HY4：腾讯最「夯」大模型，离一线还有多远？",
+      "summary": "Hy4 真正要回答的，是腾讯在模型这条线上的身位。",
+      "url": "https://www.geekpark.net/news/373644",
+      "published_at": "2026-11-09 11:57:03",
+      "tags": [
+        "腾讯",
+        "hy4",
+        "agent"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "为什么「陪伴」，注定是 Personal AI 的核心",
+      "summary": "打字是在用工具，「说话」是在找「人」。",
+      "url": "https://www.geekpark.net/news/373653",
+      "published_at": "2026-11-08 17:52:45",
+      "tags": [
+        "Muse",
+        "Personal AI",
+        "AI 助理"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "创业者做 Personal Agent，有没有一线生机？",
       "summary": "Personal Agent 把 AI 创业带到了一个新阶段：价值和竞争力可以长在基模之外。",
       "url": "https://www.geekpark.net/news/373650",
@@ -62,7 +113,7 @@
         "Personal AI",
         "创业者"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +129,7 @@
         "豆包工作",
         "博世"
       ],
-      "priority": 80,
+      "priority": 74,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +146,7 @@
         "fde",
         "企业级 Agent"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -112,7 +163,7 @@
         "Inkling 2",
         "Thinking Machines Lab"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -129,7 +180,7 @@
         "乌镇世界互联网大会",
         "阿里云"
       ],
-      "priority": 78,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -146,7 +197,7 @@
         "腾讯",
         "腾讯全球数字生态大会"
       ],
-      "priority": 78,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -162,57 +213,6 @@
         "Physical Agent",
         "费莫一",
         "agent"
-      ],
-      "priority": 58,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "心言巴布「Bubbo 1」：一台机器人，如何成为家人",
-      "summary": "从呼来唤去的工具，到主动走近的伙伴，心言巴布迈出了家庭陪伴机器人的第一步。",
-      "url": "https://www.geekpark.net/news/373399",
-      "published_at": "2026-11-03 15:11:52",
-      "tags": [
-        "心言机器人",
-        "巴布「Bubbo 1」",
-        "家庭陪伴机器人"
-      ],
-      "priority": 65,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
-      "summary": "豆包手机的问题，也是蚂蚁灵光的问题。",
-      "url": "https://www.geekpark.net/news/373249",
-      "published_at": "2026-11-01 18:03:12",
-      "tags": [
-        "豆包",
-        "蚂蚁灵光",
-        "Muse"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
-      "summary": "AI 公司负责模型，互联网负责人设。",
-      "url": "https://www.geekpark.net/news/373248",
-      "published_at": "2026-11-01 17:57:50",
-      "tags": [
-        "Cluade",
-        "Deepseek",
-        "豆包"
       ],
       "priority": 52,
       "ai_relevance": "strong",
