@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09 17:44:51",
-  "generated_rfc2822": "Mon, 09 Nov 2026 17:44:51 +0800",
+  "generated_at": "2026-11-10 17:44:53",
+  "generated_rfc2822": "Tue, 10 Nov 2026 17:44:53 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-09",
-      "home_url": "https://www.geekpark.net/news/373715"
+      "last_accessible": "2026-11-10",
+      "home_url": "https://www.geekpark.net/news/373760"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了",
+      "summary": "个人 Agent 再成功的演示，也解决不了企业级 AI 的难题。",
+      "url": "https://www.geekpark.net/news/373760",
+      "published_at": "2026-11-10 12:52:07",
+      "tags": [
+        "千问",
+        "千问办公",
+        "企业级 AI"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "一颗植物工厂草莓，离你的果盘还有多远？多多农研拉近现场",
       "summary": "贝索斯没算平的草莓账，一群中国年轻人解决了。",
       "url": "https://www.geekpark.net/news/373715",
@@ -62,7 +79,7 @@
         "全国现代设施种植",
         "未来科技趋势"
       ],
-      "priority": 87,
+      "priority": 81,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +96,7 @@
         "hy4",
         "agent"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +113,7 @@
         "Personal AI",
         "AI 助理"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +130,7 @@
         "Personal AI",
         "创业者"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -129,7 +146,7 @@
         "豆包工作",
         "博世"
       ],
-      "priority": 74,
+      "priority": 68,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -146,7 +163,7 @@
         "fde",
         "企业级 Agent"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -163,7 +180,7 @@
         "Inkling 2",
         "Thinking Machines Lab"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -180,7 +197,7 @@
         "乌镇世界互联网大会",
         "阿里云"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -197,24 +214,7 @@
         "腾讯",
         "腾讯全球数字生态大会"
       ],
-      "priority": 71,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」",
-      "summary": "具身智能终于开始接过日常的活，把更多时间还给人。",
-      "url": "https://www.geekpark.net/news/373424",
-      "published_at": "2026-11-03 19:54:26",
-      "tags": [
-        "Physical Agent",
-        "费莫一",
-        "agent"
-      ],
-      "priority": 52,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
