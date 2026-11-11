@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10 17:44:53",
-  "generated_rfc2822": "Tue, 10 Nov 2026 17:44:53 +0800",
+  "generated_at": "2026-11-11 17:19:40",
+  "generated_rfc2822": "Wed, 11 Nov 2026 17:19:40 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-10",
-      "home_url": "https://www.geekpark.net/news/373760"
+      "last_accessible": "2026-11-11",
+      "home_url": "https://www.geekpark.net/news/373816"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "当美国无法建设数据中心，会对 AI 产生怎样的冲击",
+      "summary": "停摆不可能，但大降速不可避免。",
+      "url": "https://www.geekpark.net/news/373816",
+      "published_at": "2026-11-11 13:23:24",
+      "tags": [
+        "大型数据中心",
+        "算力刹车",
+        "Token 限额"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了",
       "summary": "个人 Agent 再成功的演示，也解决不了企业级 AI 的难题。",
       "url": "https://www.geekpark.net/news/373760",
@@ -62,7 +79,7 @@
         "千问办公",
         "企业级 AI"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +96,7 @@
         "全国现代设施种植",
         "未来科技趋势"
       ],
-      "priority": 81,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +113,7 @@
         "hy4",
         "agent"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +130,7 @@
         "Personal AI",
         "AI 助理"
       ],
-      "priority": 84,
+      "priority": 78,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +147,7 @@
         "Personal AI",
         "创业者"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -146,7 +163,7 @@
         "豆包工作",
         "博世"
       ],
-      "priority": 68,
+      "priority": 62,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -163,7 +180,7 @@
         "fde",
         "企业级 Agent"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -180,7 +197,7 @@
         "Inkling 2",
         "Thinking Machines Lab"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -197,24 +214,7 @@
         "乌镇世界互联网大会",
         "阿里云"
       ],
-      "priority": 65,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "一个人用得好 AI，为什么一家公司却用不好？",
-      "summary": "Agent 越来越容易开发，但让它真正成为生产力，企业还需要改变更多。",
-      "url": "https://www.geekpark.net/news/373541",
-      "published_at": "2026-11-05 17:15:38",
-      "tags": [
-        "AI Agent",
-        "腾讯",
-        "腾讯全球数字生态大会"
-      ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
