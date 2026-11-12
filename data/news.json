@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11 17:19:40",
-  "generated_rfc2822": "Wed, 11 Nov 2026 17:19:40 +0800",
+  "generated_at": "2026-11-12 17:46:43",
+  "generated_rfc2822": "Thu, 12 Nov 2026 17:46:43 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-11",
-      "home_url": "https://www.geekpark.net/news/373816"
+      "last_accessible": "2026-11-12",
+      "home_url": "https://www.geekpark.net/news/373881"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "接入多款第三方模型，豆包工作也模型自由了",
+      "summary": "豆包工作宣布接入多款第三方模型，并同步推出限时优惠、下调部分模型的倍率。",
+      "url": "https://www.geekpark.net/news/373881",
+      "published_at": "2026-11-12 16:24:17",
+      "tags": [
+        "豆包工作",
+        "大模型",
+        "豆包"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "当美国无法建设数据中心，会对 AI 产生怎样的冲击",
       "summary": "停摆不可能，但大降速不可避免。",
       "url": "https://www.geekpark.net/news/373816",
@@ -62,7 +79,7 @@
         "算力刹车",
         "Token 限额"
       ],
-      "priority": 95,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +96,7 @@
         "千问办公",
         "企业级 AI"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +113,7 @@
         "全国现代设施种植",
         "未来科技趋势"
       ],
-      "priority": 75,
+      "priority": 69,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +130,7 @@
         "hy4",
         "agent"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +147,7 @@
         "Personal AI",
         "AI 助理"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +164,7 @@
         "Personal AI",
         "创业者"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -163,7 +180,7 @@
         "豆包工作",
         "博世"
       ],
-      "priority": 62,
+      "priority": 56,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -180,7 +197,7 @@
         "fde",
         "企业级 Agent"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -196,23 +213,6 @@
         "Kimi",
         "Inkling 2",
         "Thinking Machines Lab"
-      ],
-      "priority": 66,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一",
-      "summary": "Qoder，从程序员专属工具到所有人的 AI 技术底座。",
-      "url": "https://www.geekpark.net/news/373542",
-      "published_at": "2026-11-05 17:19:17",
-      "tags": [
-        "Qoder",
-        "乌镇世界互联网大会",
-        "阿里云"
       ],
       "priority": 60,
       "ai_relevance": "strong",
