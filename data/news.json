@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12 17:46:43",
-  "generated_rfc2822": "Thu, 12 Nov 2026 17:46:43 +0800",
+  "generated_at": "2026-11-13 17:28:38",
+  "generated_rfc2822": "Fri, 13 Nov 2026 17:28:38 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-12",
-      "home_url": "https://www.geekpark.net/news/373881"
+      "last_accessible": "2026-11-13",
+      "home_url": "https://www.geekpark.net/news/373937"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "李彦宏定义 AI 下一个十年，智能组织是「新厂房」",
+      "summary": "AI 工具部署越来越普遍，但企业并未迎来预期的生产力跃升。李彦宏在百度世界 2026 提出的「智能组织」，正在回答这个全行业的共同困惑。",
+      "url": "https://www.geekpark.net/news/373937",
+      "published_at": "2026-11-13 11:43:41",
+      "tags": [
+        "百度世界大会",
+        "百度",
+        "李彦宏"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "接入多款第三方模型，豆包工作也模型自由了",
       "summary": "豆包工作宣布接入多款第三方模型，并同步推出限时优惠、下调部分模型的倍率。",
       "url": "https://www.geekpark.net/news/373881",
@@ -62,7 +79,7 @@
         "大模型",
         "豆包"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +96,7 @@
         "算力刹车",
         "Token 限额"
       ],
-      "priority": 88,
+      "priority": 82,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +113,7 @@
         "千问办公",
         "企业级 AI"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +130,7 @@
         "全国现代设施种植",
         "未来科技趋势"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +147,7 @@
         "hy4",
         "agent"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +164,7 @@
         "Personal AI",
         "AI 助理"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -164,7 +181,7 @@
         "Personal AI",
         "创业者"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -180,7 +197,7 @@
         "豆包工作",
         "博世"
       ],
-      "priority": 56,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -196,23 +213,6 @@
         "腾讯云",
         "fde",
         "企业级 Agent"
-      ],
-      "priority": 64,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对",
-      "summary": "技术博客里大大方方写了采样自 Kimi K3。",
-      "url": "https://www.geekpark.net/news/373637",
-      "published_at": "2026-11-06 20:13:06",
-      "tags": [
-        "Kimi",
-        "Inkling 2",
-        "Thinking Machines Lab"
       ],
       "priority": 60,
       "ai_relevance": "strong",
