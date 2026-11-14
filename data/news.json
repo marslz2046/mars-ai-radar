@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13 17:28:38",
-  "generated_rfc2822": "Fri, 13 Nov 2026 17:28:38 +0800",
+  "generated_at": "2026-11-14 16:56:23",
+  "generated_rfc2822": "Sat, 14 Nov 2026 16:56:23 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -62,7 +62,7 @@
         "百度",
         "李彦宏"
       ],
-      "priority": 94,
+      "priority": 88,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +79,7 @@
         "大模型",
         "豆包"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +96,7 @@
         "算力刹车",
         "Token 限额"
       ],
-      "priority": 82,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +113,7 @@
         "千问办公",
         "企业级 AI"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +130,7 @@
         "全国现代设施种植",
         "未来科技趋势"
       ],
-      "priority": 63,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +147,7 @@
         "hy4",
         "agent"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -164,7 +164,7 @@
         "Personal AI",
         "AI 助理"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -181,7 +181,7 @@
         "Personal AI",
         "创业者"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
