@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15 17:19:24",
-  "generated_rfc2822": "Sun, 15 Nov 2026 17:19:24 +0800",
+  "generated_at": "2026-11-16 17:36:25",
+  "generated_rfc2822": "Mon, 16 Nov 2026 17:36:25 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -62,7 +62,7 @@
         "百度",
         "李彦宏"
       ],
-      "priority": 82,
+      "priority": 76,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +79,7 @@
         "大模型",
         "豆包"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +96,7 @@
         "算力刹车",
         "Token 限额"
       ],
-      "priority": 71,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +113,7 @@
         "千问办公",
         "企业级 AI"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
