@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16 17:36:25",
-  "generated_rfc2822": "Mon, 16 Nov 2026 17:36:25 +0800",
+  "generated_at": "2026-11-17 18:40:27",
+  "generated_rfc2822": "Tue, 17 Nov 2026 18:40:27 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-13",
-      "home_url": "https://www.geekpark.net/news/373937"
+      "last_accessible": "2026-11-17",
+      "home_url": "https://www.geekpark.net/news/374101"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,74 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "AI，没有抛弃小城商家",
+      "summary": "理解本地商业，是 AI 走出实验室后的新课程。",
+      "url": "https://www.geekpark.net/news/374101",
+      "published_at": "2026-11-17 17:58:33",
+      "tags": [
+        "美团 AI 助手",
+        "AI 经营助手",
+        "AI 平权"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代",
+      "summary": "单任务成本仅为 Hy4 二十分之一，过日子的神！",
+      "url": "https://www.geekpark.net/news/374083",
+      "published_at": "2026-11-17 15:12:48",
+      "tags": [
+        "腾讯 Hy4 flash",
+        "Hy4",
+        "Flash 模型"
+      ],
+      "priority": 87,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」",
+      "summary": "底座架构重写，单任务成本暴降近六成，阿里把旗舰模型拉进了真实排班表。",
+      "url": "https://www.geekpark.net/news/374079",
+      "published_at": "2026-11-17 14:41:48",
+      "tags": [
+        "千问 4 Max",
+        "国产旗舰模型",
+        "AI 算力"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」",
+      "summary": "Agent 能进门了，也能付钱了。",
+      "url": "https://www.geekpark.net/news/374075",
+      "published_at": "2026-11-17 14:24:52",
+      "tags": [
+        "OpenAI",
+        "Meta",
+        "个人 Agent"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "李彦宏定义 AI 下一个十年，智能组织是「新厂房」",
       "summary": "AI 工具部署越来越普遍，但企业并未迎来预期的生产力跃升。李彦宏在百度世界 2026 提出的「智能组织」，正在回答这个全行业的共同困惑。",
       "url": "https://www.geekpark.net/news/373937",
@@ -62,7 +130,7 @@
         "百度",
         "李彦宏"
       ],
-      "priority": 76,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +147,7 @@
         "大模型",
         "豆包"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +164,7 @@
         "算力刹车",
         "Token 限额"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -146,73 +214,6 @@
         "腾讯",
         "hy4",
         "agent"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "为什么「陪伴」，注定是 Personal AI 的核心",
-      "summary": "打字是在用工具，「说话」是在找「人」。",
-      "url": "https://www.geekpark.net/news/373653",
-      "published_at": "2026-11-08 17:52:45",
-      "tags": [
-        "Muse",
-        "Personal AI",
-        "AI 助理"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "创业者做 Personal Agent，有没有一线生机？",
-      "summary": "Personal Agent 把 AI 创业带到了一个新阶段：价值和竞争力可以长在基模之外。",
-      "url": "https://www.geekpark.net/news/373650",
-      "published_at": "2026-11-08 10:40:20",
-      "tags": [
-        "Personal Agent",
-        "Personal AI",
-        "创业者"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "博世用豆包工作：让工程师少搬信息，多解问题",
-      "summary": "重复的步骤交给 AI，精力可以回到更重要的事情上。",
-      "url": "https://www.geekpark.net/news/373643",
-      "published_at": "2026-11-07 11:35:36",
-      "tags": [
-        "豆包工作",
-        "博世"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "办公提效之后，企业级 Agent 开始对经营结果负责",
-      "summary": "最先有说服力的，永远是真实业务里跑出来的结果。",
-      "url": "https://www.geekpark.net/news/373642",
-      "published_at": "2026-11-07 11:31:37",
-      "tags": [
-        "腾讯云",
-        "fde",
-        "企业级 Agent"
       ],
       "priority": 60,
       "ai_relevance": "strong",
