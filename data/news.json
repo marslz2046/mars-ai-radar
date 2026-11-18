@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17 18:40:27",
-  "generated_rfc2822": "Tue, 17 Nov 2026 18:40:27 +0800",
+  "generated_at": "2026-11-18 18:05:24",
+  "generated_rfc2822": "Wed, 18 Nov 2026 18:05:24 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -62,7 +62,7 @@
         "AI 经营助手",
         "AI 平权"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +79,7 @@
         "Hy4",
         "Flash 模型"
       ],
-      "priority": 87,
+      "priority": 81,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +96,7 @@
         "国产旗舰模型",
         "AI 算力"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +113,7 @@
         "Meta",
         "个人 Agent"
       ],
-      "priority": 94,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +130,7 @@
         "百度",
         "李彦宏"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +147,7 @@
         "大模型",
         "豆包"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
