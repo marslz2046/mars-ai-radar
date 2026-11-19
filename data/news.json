@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18 18:05:24",
-  "generated_rfc2822": "Wed, 18 Nov 2026 18:05:24 +0800",
+  "generated_at": "2026-11-19 18:16:41",
+  "generated_rfc2822": "Thu, 19 Nov 2026 18:16:41 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-17",
-      "home_url": "https://www.geekpark.net/news/374101"
+      "last_accessible": "2026-11-19",
+      "home_url": "https://www.geekpark.net/news/374196"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,40 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央",
+      "summary": "用一半的成本打出顶级 Agent 表现，谷歌 AI 这一波真的支棱起来了。",
+      "url": "https://www.geekpark.net/news/374196",
+      "published_at": "2026-11-19 14:10:00",
+      "tags": [
+        "Google",
+        "Gemini 4",
+        "Gemini 4"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
+      "summary": "纸面成绩与真实体感的撕裂，在今天达到了顶峰。",
+      "url": "https://www.geekpark.net/news/374175",
+      "published_at": "2026-11-18 21:40:28",
+      "tags": [
+        "OpenAI",
+        "AI 自我改进",
+        "GPT-6.1 Astra"
+      ],
+      "priority": 90,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "AI，没有抛弃小城商家",
       "summary": "理解本地商业，是 AI 走出实验室后的新课程。",
       "url": "https://www.geekpark.net/news/374101",
@@ -62,7 +96,7 @@
         "AI 经营助手",
         "AI 平权"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +113,7 @@
         "Hy4",
         "Flash 模型"
       ],
-      "priority": 81,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +130,7 @@
         "国产旗舰模型",
         "AI 算力"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +147,7 @@
         "Meta",
         "个人 Agent"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +164,7 @@
         "百度",
         "李彦宏"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -180,40 +214,6 @@
         "千问",
         "千问办公",
         "企业级 AI"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "一颗植物工厂草莓，离你的果盘还有多远？多多农研拉近现场",
-      "summary": "贝索斯没算平的草莓账，一群中国年轻人解决了。",
-      "url": "https://www.geekpark.net/news/373715",
-      "published_at": "2026-11-09 16:15:03",
-      "tags": [
-        "拼多多",
-        "全国现代设施种植",
-        "未来科技趋势"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "实测 HY4：腾讯最「夯」大模型，离一线还有多远？",
-      "summary": "Hy4 真正要回答的，是腾讯在模型这条线上的身位。",
-      "url": "https://www.geekpark.net/news/373644",
-      "published_at": "2026-11-09 11:57:03",
-      "tags": [
-        "腾讯",
-        "hy4",
-        "agent"
       ],
       "priority": 60,
       "ai_relevance": "strong",
