@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19 18:16:41",
-  "generated_rfc2822": "Thu, 19 Nov 2026 18:16:41 +0800",
+  "generated_at": "2026-11-20 17:58:42",
+  "generated_rfc2822": "Fri, 20 Nov 2026 17:58:42 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-19",
-      "home_url": "https://www.geekpark.net/news/374196"
+      "last_accessible": "2026-11-20",
+      "home_url": "https://www.geekpark.net/news/374282"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,23 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
+      "summary": "AI 吞掉了软件，现在，它要吞掉工业了。",
+      "url": "https://www.geekpark.net/news/374282",
+      "published_at": "2026-11-20 16:24:30",
+      "tags": [
+        "Prometheus",
+        "实体制造业",
+        "AI 行业"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央",
       "summary": "用一半的成本打出顶级 Agent 表现，谷歌 AI 这一波真的支棱起来了。",
       "url": "https://www.geekpark.net/news/374196",
@@ -62,7 +79,7 @@
         "Gemini 4",
         "Gemini 4"
       ],
-      "priority": 94,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +96,7 @@
         "AI 自我改进",
         "GPT-6.1 Astra"
       ],
-      "priority": 90,
+      "priority": 84,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +113,7 @@
         "AI 经营助手",
         "AI 平权"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +130,7 @@
         "Hy4",
         "Flash 模型"
       ],
-      "priority": 75,
+      "priority": 69,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +147,7 @@
         "国产旗舰模型",
         "AI 算力"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +164,7 @@
         "Meta",
         "个人 Agent"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -197,23 +214,6 @@
         "大型数据中心",
         "算力刹车",
         "Token 限额"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了",
-      "summary": "个人 Agent 再成功的演示，也解决不了企业级 AI 的难题。",
-      "url": "https://www.geekpark.net/news/373760",
-      "published_at": "2026-11-10 12:52:07",
-      "tags": [
-        "千问",
-        "千问办公",
-        "企业级 AI"
       ],
       "priority": 60,
       "ai_relevance": "strong",
