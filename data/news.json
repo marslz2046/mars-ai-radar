@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21 17:44:46",
-  "generated_rfc2822": "Sat, 21 Nov 2026 17:44:46 +0800",
+  "generated_at": "2026-11-22 17:43:18",
+  "generated_rfc2822": "Sun, 22 Nov 2026 17:43:18 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-20",
-      "home_url": "https://www.geekpark.net/news/374282"
+      "last_accessible": "2026-11-22",
+      "home_url": "https://www.geekpark.net/news/374303"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,57 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "重控制、轻渲染，达瓦科技的 AI 视频工业路线",
+      "summary": "把 AI 视频真正带进工业生产。",
+      "url": "https://www.geekpark.net/news/374303",
+      "published_at": "2026-11-22 10:03:57",
+      "tags": [
+        "达瓦科技",
+        "AI视频",
+        "世界模型"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+      "summary": "营收涨 8%，现金流 −691 亿。",
+      "url": "https://www.geekpark.net/news/374302",
+      "published_at": "2026-11-22 09:58:48",
+      "tags": [
+        "腾讯",
+        "财报",
+        "小微"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+      "summary": "下一代混元将大幅度扩参。",
+      "url": "https://www.geekpark.net/news/374301",
+      "published_at": "2026-11-22 09:56:28",
+      "tags": [
+        "腾讯",
+        "混元大模型",
+        "姚順雨"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
       "summary": "AI 吞掉了软件，现在，它要吞掉工业了。",
       "url": "https://www.geekpark.net/news/374282",
@@ -62,7 +113,7 @@
         "实体制造业",
         "AI 行业"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +130,7 @@
         "Gemini 4",
         "Gemini 4"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +147,7 @@
         "AI 自我改进",
         "GPT-6.1 Astra"
       ],
-      "priority": 78,
+      "priority": 72,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +164,7 @@
         "AI 经营助手",
         "AI 平权"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +181,7 @@
         "Hy4",
         "Flash 模型"
       ],
-      "priority": 63,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +198,7 @@
         "国产旗舰模型",
         "AI 算力"
       ],
-      "priority": 71,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -164,58 +215,7 @@
         "Meta",
         "个人 Agent"
       ],
-      "priority": 71,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "李彦宏定义 AI 下一个十年，智能组织是「新厂房」",
-      "summary": "AI 工具部署越来越普遍，但企业并未迎来预期的生产力跃升。李彦宏在百度世界 2026 提出的「智能组织」，正在回答这个全行业的共同困惑。",
-      "url": "https://www.geekpark.net/news/373937",
-      "published_at": "2026-11-13 11:43:41",
-      "tags": [
-        "百度世界大会",
-        "百度",
-        "李彦宏"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "接入多款第三方模型，豆包工作也模型自由了",
-      "summary": "豆包工作宣布接入多款第三方模型，并同步推出限时优惠、下调部分模型的倍率。",
-      "url": "https://www.geekpark.net/news/373881",
-      "published_at": "2026-11-12 16:24:17",
-      "tags": [
-        "豆包工作",
-        "大模型",
-        "豆包"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "当美国无法建设数据中心，会对 AI 产生怎样的冲击",
-      "summary": "停摆不可能，但大降速不可避免。",
-      "url": "https://www.geekpark.net/news/373816",
-      "published_at": "2026-11-11 13:23:24",
-      "tags": [
-        "大型数据中心",
-        "算力刹车",
-        "Token 限额"
-      ],
-      "priority": 60,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
