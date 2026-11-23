@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22 17:43:18",
-  "generated_rfc2822": "Sun, 22 Nov 2026 17:43:18 +0800",
+  "generated_at": "2026-11-23 18:42:26",
+  "generated_rfc2822": "Mon, 23 Nov 2026 18:42:26 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-22",
-      "home_url": "https://www.geekpark.net/news/374303"
+      "last_accessible": "2026-11-23",
+      "home_url": "https://www.geekpark.net/news/374355"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,22 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "二级回收，将成为争夺下一代太空经济入场券的「新风向标」",
+      "summary": "二级回收的技术底座是载人飞船，而非火箭一级；这一赛道技术壁垒高、主线玩家稀缺，穿越者等少数团队已提前起跑，资本市场的关注度也在升温。",
+      "url": "https://www.geekpark.net/news/374355",
+      "published_at": "2026-11-23 15:49:06",
+      "tags": [
+        "二级回收赛道",
+        "载人飞船"
+      ],
+      "priority": 87,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "重控制、轻渲染，达瓦科技的 AI 视频工业路线",
       "summary": "把 AI 视频真正带进工业生产。",
       "url": "https://www.geekpark.net/news/374303",
@@ -62,7 +78,7 @@
         "AI视频",
         "世界模型"
       ],
-      "priority": 94,
+      "priority": 87,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +95,7 @@
         "财报",
         "小微"
       ],
-      "priority": 94,
+      "priority": 87,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -96,7 +112,7 @@
         "混元大模型",
         "姚順雨"
       ],
-      "priority": 94,
+      "priority": 87,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -113,7 +129,7 @@
         "实体制造业",
         "AI 行业"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -130,7 +146,7 @@
         "Gemini 4",
         "Gemini 4"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -147,7 +163,7 @@
         "AI 自我改进",
         "GPT-6.1 Astra"
       ],
-      "priority": 72,
+      "priority": 66,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -164,7 +180,7 @@
         "AI 经营助手",
         "AI 平权"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -181,7 +197,7 @@
         "Hy4",
         "Flash 模型"
       ],
-      "priority": 57,
+      "priority": 52,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -198,24 +214,7 @@
         "国产旗舰模型",
         "AI 算力"
       ],
-      "priority": 65,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」",
-      "summary": "Agent 能进门了，也能付钱了。",
-      "url": "https://www.geekpark.net/news/374075",
-      "published_at": "2026-11-17 14:24:52",
-      "tags": [
-        "OpenAI",
-        "Meta",
-        "个人 Agent"
-      ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
