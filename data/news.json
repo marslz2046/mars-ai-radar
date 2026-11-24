@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23 18:42:26",
-  "generated_rfc2822": "Mon, 23 Nov 2026 18:42:26 +0800",
+  "generated_at": "2026-11-24 20:25:01",
+  "generated_rfc2822": "Tue, 24 Nov 2026 20:25:01 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-23",
-      "home_url": "https://www.geekpark.net/news/374355"
+      "last_accessible": "2026-11-24",
+      "home_url": "https://www.geekpark.net/news/374431"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,40 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "黄仁勋，离开英伟达的 11 天",
+      "summary": "这次，老黄没穿皮夹克。",
+      "url": "https://www.geekpark.net/news/374431",
+      "published_at": "2026-11-24 17:58:05",
+      "tags": [
+        "黄仁勋",
+        "英伟达"
+      ],
+      "priority": 87,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "华为星芒O1 Pro，如何把手机 AI 再往前努一小步",
+      "summary": "前进，不激进。",
+      "url": "https://www.geekpark.net/news/374417",
+      "published_at": "2026-11-24 15:47:16",
+      "tags": [
+        "华为",
+        "手机AI",
+        "星芒O1 Pro",
+        "AI"
+      ],
+      "priority": 94,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "二级回收，将成为争夺下一代太空经济入场券的「新风向标」",
       "summary": "二级回收的技术底座是载人飞船，而非火箭一级；这一赛道技术壁垒高、主线玩家稀缺，穿越者等少数团队已提前起跑，资本市场的关注度也在升温。",
       "url": "https://www.geekpark.net/news/374355",
@@ -61,7 +95,7 @@
         "二级回收赛道",
         "载人飞船"
       ],
-      "priority": 87,
+      "priority": 80,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -78,7 +112,7 @@
         "AI视频",
         "世界模型"
       ],
-      "priority": 87,
+      "priority": 81,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +129,7 @@
         "财报",
         "小微"
       ],
-      "priority": 87,
+      "priority": 81,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -112,7 +146,7 @@
         "混元大模型",
         "姚順雨"
       ],
-      "priority": 87,
+      "priority": 81,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -129,7 +163,7 @@
         "实体制造业",
         "AI 行业"
       ],
-      "priority": 77,
+      "priority": 70,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -146,7 +180,7 @@
         "Gemini 4",
         "Gemini 4"
       ],
-      "priority": 70,
+      "priority": 64,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -163,7 +197,7 @@
         "AI 自我改进",
         "GPT-6.1 Astra"
       ],
-      "priority": 66,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -179,40 +213,6 @@
         "美团 AI 助手",
         "AI 经营助手",
         "AI 平权"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代",
-      "summary": "单任务成本仅为 Hy4 二十分之一，过日子的神！",
-      "url": "https://www.geekpark.net/news/374083",
-      "published_at": "2026-11-17 15:12:48",
-      "tags": [
-        "腾讯 Hy4 flash",
-        "Hy4",
-        "Flash 模型"
-      ],
-      "priority": 52,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」",
-      "summary": "底座架构重写，单任务成本暴降近六成，阿里把旗舰模型拉进了真实排班表。",
-      "url": "https://www.geekpark.net/news/374079",
-      "published_at": "2026-11-17 14:41:48",
-      "tags": [
-        "千问 4 Max",
-        "国产旗舰模型",
-        "AI 算力"
       ],
       "priority": 60,
       "ai_relevance": "strong",
