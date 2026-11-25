@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24 20:25:01",
-  "generated_rfc2822": "Tue, 24 Nov 2026 20:25:01 +0800",
+  "generated_at": "2026-11-25 19:13:26",
+  "generated_rfc2822": "Wed, 25 Nov 2026 19:13:26 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -61,7 +61,7 @@
         "黄仁勋",
         "英伟达"
       ],
-      "priority": 87,
+      "priority": 81,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +79,7 @@
         "星芒O1 Pro",
         "AI"
       ],
-      "priority": 94,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +95,7 @@
         "二级回收赛道",
         "载人飞船"
       ],
-      "priority": 80,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -112,7 +112,7 @@
         "AI视频",
         "世界模型"
       ],
-      "priority": 81,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -129,7 +129,7 @@
         "财报",
         "小微"
       ],
-      "priority": 81,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -146,7 +146,7 @@
         "混元大模型",
         "姚順雨"
       ],
-      "priority": 81,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -163,7 +163,7 @@
         "实体制造业",
         "AI 行业"
       ],
-      "priority": 70,
+      "priority": 65,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -180,7 +180,7 @@
         "Gemini 4",
         "Gemini 4"
       ],
-      "priority": 64,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
