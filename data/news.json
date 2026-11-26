@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25 19:13:26",
-  "generated_rfc2822": "Wed, 25 Nov 2026 19:13:26 +0800",
+  "generated_at": "2026-11-26 18:50:15",
+  "generated_rfc2822": "Thu, 26 Nov 2026 18:50:15 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-24",
-      "home_url": "https://www.geekpark.net/news/374431"
+      "last_accessible": "2026-11-26",
+      "home_url": "https://www.geekpark.net/news/374536"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,38 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI",
+      "summary": "麻烦交给 AI，生活还给用户。",
+      "url": "https://www.geekpark.net/news/374536",
+      "published_at": "2026-11-26 17:04:47",
+      "tags": [
+        "AI助理"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
+      "title": "成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代",
+      "summary": "AI 视频制作成本的斩杀线，被开源模型刷新了。",
+      "url": "https://www.geekpark.net/news/374532",
+      "published_at": "2026-11-26 16:38:54",
+      "tags": [
+        "MAGI-2",
+        "大模型",
+        "开源模型"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "黄仁勋，离开英伟达的 11 天",
       "summary": "这次，老黄没穿皮夹克。",
       "url": "https://www.geekpark.net/news/374431",
@@ -61,7 +93,7 @@
         "黄仁勋",
         "英伟达"
       ],
-      "priority": 81,
+      "priority": 75,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -79,7 +111,7 @@
         "星芒O1 Pro",
         "AI"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -95,7 +127,7 @@
         "二级回收赛道",
         "载人飞船"
       ],
-      "priority": 75,
+      "priority": 69,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -112,7 +144,7 @@
         "AI视频",
         "世界模型"
       ],
-      "priority": 75,
+      "priority": 69,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -129,7 +161,7 @@
         "财报",
         "小微"
       ],
-      "priority": 75,
+      "priority": 69,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -146,7 +178,7 @@
         "混元大模型",
         "姚順雨"
       ],
-      "priority": 75,
+      "priority": 69,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -163,7 +195,7 @@
         "实体制造业",
         "AI 行业"
       ],
-      "priority": 65,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -179,40 +211,6 @@
         "Google",
         "Gemini 4",
         "Gemini 4"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋",
-      "summary": "纸面成绩与真实体感的撕裂，在今天达到了顶峰。",
-      "url": "https://www.geekpark.net/news/374175",
-      "published_at": "2026-11-18 21:40:28",
-      "tags": [
-        "OpenAI",
-        "AI 自我改进",
-        "GPT-6.1 Astra"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "AI，没有抛弃小城商家",
-      "summary": "理解本地商业，是 AI 走出实验室后的新课程。",
-      "url": "https://www.geekpark.net/news/374101",
-      "published_at": "2026-11-17 17:58:33",
-      "tags": [
-        "美团 AI 助手",
-        "AI 经营助手",
-        "AI 平权"
       ],
       "priority": 60,
       "ai_relevance": "strong",
