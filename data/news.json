@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26 18:50:15",
-  "generated_rfc2822": "Thu, 26 Nov 2026 18:50:15 +0800",
+  "generated_at": "2026-11-27 18:48:38",
+  "generated_rfc2822": "Fri, 27 Nov 2026 18:48:38 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -8,8 +8,8 @@
       "mode": "AI 栏目",
       "cadence": "公开页面",
       "status": "ok",
-      "last_accessible": "2026-11-26",
-      "home_url": "https://www.geekpark.net/news/374536"
+      "last_accessible": "2026-11-27",
+      "home_url": "https://www.geekpark.net/news/374593"
     },
     {
       "id": "xiaohu",
@@ -53,6 +53,22 @@
       "source_id": "geekpark",
       "source": "极客公园",
       "type": "media",
+      "title": "B 站十几年的家底，在 AI 时代「升值」",
+      "summary": "B 站近 4 亿的月活用户，积累了十余年 UGC 生态，在 AI 时代要「升值」了。",
+      "url": "https://www.geekpark.net/news/374593",
+      "published_at": "2026-11-27 16:29:54",
+      "tags": [
+        "B 站",
+        "长视频"
+      ],
+      "priority": 95,
+      "ai_relevance": "strong",
+      "backfill": false
+    },
+    {
+      "source_id": "geekpark",
+      "source": "极客公园",
+      "type": "media",
       "title": "好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI",
       "summary": "麻烦交给 AI，生活还给用户。",
       "url": "https://www.geekpark.net/news/374536",
@@ -60,7 +76,7 @@
       "tags": [
         "AI助理"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -77,7 +93,7 @@
         "大模型",
         "开源模型"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +109,7 @@
         "黄仁勋",
         "英伟达"
       ],
-      "priority": 75,
+      "priority": 69,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -111,7 +127,7 @@
         "星芒O1 Pro",
         "AI"
       ],
-      "priority": 83,
+      "priority": 77,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,7 +143,7 @@
         "二级回收赛道",
         "载人飞船"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -144,7 +160,7 @@
         "AI视频",
         "世界模型"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -161,7 +177,7 @@
         "财报",
         "小微"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -178,7 +194,7 @@
         "混元大模型",
         "姚順雨"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -194,23 +210,6 @@
         "Prometheus",
         "实体制造业",
         "AI 行业"
-      ],
-      "priority": 60,
-      "ai_relevance": "strong",
-      "backfill": false
-    },
-    {
-      "source_id": "geekpark",
-      "source": "极客公园",
-      "type": "media",
-      "title": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央",
-      "summary": "用一半的成本打出顶级 Agent 表现，谷歌 AI 这一波真的支棱起来了。",
-      "url": "https://www.geekpark.net/news/374196",
-      "published_at": "2026-11-19 14:10:00",
-      "tags": [
-        "Google",
-        "Gemini 4",
-        "Gemini 4"
       ],
       "priority": 60,
       "ai_relevance": "strong",
