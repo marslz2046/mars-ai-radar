@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27 18:48:38",
-  "generated_rfc2822": "Fri, 27 Nov 2026 18:48:38 +0800",
+  "generated_at": "2026-11-28 18:20:28",
+  "generated_rfc2822": "Sat, 28 Nov 2026 18:20:28 +0800",
   "sources": [
     {
       "id": "geekpark",
@@ -61,7 +61,7 @@
         "B 站",
         "长视频"
       ],
-      "priority": 95,
+      "priority": 89,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -76,7 +76,7 @@
       "tags": [
         "AI助理"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -93,7 +93,7 @@
         "大模型",
         "开源模型"
       ],
-      "priority": 89,
+      "priority": 83,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -109,7 +109,7 @@
         "黄仁勋",
         "英伟达"
       ],
-      "priority": 69,
+      "priority": 63,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -127,7 +127,7 @@
         "星芒O1 Pro",
         "AI"
       ],
-      "priority": 77,
+      "priority": 71,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -143,7 +143,7 @@
         "二级回收赛道",
         "载人飞船"
       ],
-      "priority": 63,
+      "priority": 57,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -160,7 +160,7 @@
         "AI视频",
         "世界模型"
       ],
-      "priority": 63,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -177,7 +177,7 @@
         "财报",
         "小微"
       ],
-      "priority": 63,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
@@ -194,7 +194,7 @@
         "混元大模型",
         "姚順雨"
       ],
-      "priority": 63,
+      "priority": 60,
       "ai_relevance": "strong",
       "backfill": false
     },
